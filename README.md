@@ -2,6 +2,8 @@
 
 Welcome to my **Data Analysis portfolio**! 
 
-This repository will showcase real-world case studies based on publicly available datasets, such as those on Kaggle, highlighting comprehensive analyses and visualizations. While the portfolio is still in development, feel free to explore my existing [IBM-Capstone-Project](https://github.com/MagaliTrueAnalytics/IBM-Capstone-Project) repository, which is available for consultation and offers valuable insights into my data wrangling and visualization skills. 
+This repository showcases real-world case studies based on publicly available datasets, such as those on Kaggle, featuring comprehensive analyses and visualizations. As of now, [one complete project](https://github.com/MagaliTrueAnalytics/Portfolio/Project1/) is available, with more exciting analyses on the way!
 
-🔜Stay tuned for more exciting projects coming your way!
+💡 In the meantime, check out my [IBM-Capstone-Project](https://github.com/MagaliTrueAnalytics/IBM-Capstone_Porject/) to explore my skills in data cleaning, manipulation, and visualization.
+
+🔜 Stay tuned—more projects coming soon!

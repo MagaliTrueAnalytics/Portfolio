@@ -1,30 +1,53 @@
-# Shapefile Dataset for Choropleth Maps
+<h2>Shapefile & GeoJSON Dataset for Choropleth Maps</h2>
 
-## 📌 Overview
-This directory contains a **Shapefile dataset** that provides geographical boundaries for countries.  
-It is essential for visualizing data geographically, particularly for **choropleth maps** in Python using **Geopandas**.
+📌 **Overview**
 
-## 🌍 Purpose
-The files in this folder enable the creation of **choropleth maps**, which represent variations in data across different geographical locations.  
-For example, you can use this dataset to **display sales distribution by country** or **analyze regional trends** in a dataset.
+This directory contains geographical boundary datasets that can be used for choropleth maps in Python with Geopandas. The dataset is available in Shapefile format, but an easier-to-use GeoJSON version is also provided..
 
-## 📂 Files Included
-A Shapefile dataset consists of multiple files that must be **stored together** to function properly:
-- **`.shp`** → Stores the geometric shapes (country boundaries).
-- **`.dbf`** → Contains attribute data (country names, population, etc.).
-- **`.shx`** → Indexes geometric data for faster access.
-- **`.prj`** → Defines the coordinate reference system (CRS) for spatial alignment.
+🌍 **Purpose**
+
+These files enable the visualization of data distribution across countries, such as sales by region or geographical trends. For many applications, the GeoJSON format is preferred because it simplifies loading, filtering, and integration with web-based visualizations.
+
+📂 **Files Included**
+
+- **Shapefile (requires all components together)**
+.shp → Geometric shapes (country boundaries).
+
+.dbf → Attribute data (population, names, etc.).
+
+.shx → Indexes for geometric data.
+
+.prj → Defines the coordinate reference system (CRS).
+
+- **GeoJSON (simplified alternative)**
+.geojson → A single file containing both geometry and attributes. 💡 Advantage: Easier to handle in Python and JavaScript, with direct JSON parsing.
 
 ## 🛠️ How to Use in Geopandas
-To read the shapefile in **Geopandas**, ensure all necessary files are present and use the following Python code:
+📍**Option 1: Using the Shapefile**
 
-```python
 import geopandas as gpd
 
-# Load the shapefile
+**Load the Shapefile (requires all files in the same folder)**
+
 shapefile_url = "https://raw.githubusercontent.com/MagaliTrueAnalytics/Portfolio/main/Shapefile/ne_110m_admin_0_countries.shp"
+
 world = gpd.read_file(shapefile_url)
 
-# Display the first rows to check data structure
+**Display data structure**
+
 print(world.head())
+
+📍**Option 2: Using the GeoJSON (Recommended)**
+
+import geopandas as gpd
+
+# Load the GeoJSON version
+geojson_url = "https://raw.githubusercontent.com/MagaliTrueAnalytics/Portfolio/main/Shapefile/ne_110m_admin_0_countries.geojson"
+world_geojson = gpd.read_file(geojson_url)
+
+# Display data structure
+print(world_geojson.head())
+
+💡 Why use GeoJSON? ✅ Requires only one file instead of multiple Shapefile components ✅ Easier integration with web-based visualizations (D3.js, Leaflet, etc.) ✅ Supports direct JSON operations for faster processing
+
 

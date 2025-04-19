@@ -20,9 +20,9 @@ A Plotly/Dash dashboard URL when an interactive version is accessible.
 
 <h2>💼Available Projects</h2>
 
-🙂 **[Project 1]** Happiness & Economic Trends: A 2016 Retrospective [Here]
+🙂 **[Project 1]** Happiness & Economic Trends: A 2016 Retrospective [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet1)
 
-🍫 **[Project 2]** Sweet Data: The Story Behind Chocolate Sales Trends [Here]
+🍫 **[Project 2]** Sweet Data: The Story Behind Chocolate Sales Trends [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet2)
 
 💡 **Additional Work**: Check out my [IBM-Capstone-Project](https://github.com/MagaliTrueAnalytics/IBM-Capstone-Project) to explore my skills in data cleaning, manipulation, and visualization.
 

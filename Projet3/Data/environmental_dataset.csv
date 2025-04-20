@@ -1,7 +1,1021 @@
 Request_ID,Sample_Received_Date,Number_of_Tests,Test_Type,Test_Names,Final_CofA_Date,Revenue
-f47ac10b-58cc-4372-a567-0e02b2c3d479,03/15/2023,5,Chemistry,pH, Nitrate, Chloride, Alkalinity, Hardness,04/02/2023,1250.45
-8f14e45f-ceea-4f8b-9d8c-1e3b9c2f6e7a,07/22/2023,3,Microbiology,Total Coliforms, E. coli, Enterococci,08/10/2023,720.89
-3c6e0b8a-9b3e-4f2d-8c9d-7f8e2c3b5a1c,11/10/2024,7,Chemistry,Turbidity, Phosphate, Sulfate,NaN,1980.12
-a1b2c3d4-e5f6-7890-abcd-ef1234567890,2024/05/12,4,Microbio,Fecal Streptococci, Clostridium perfringens,NaN,5000.00
-f47ac10b-58cc-4372-a567-0e02b2c3d479,03/15/2023,5,Chemistry,pH, Nitrate, Chloride, Alkalinity, Hardness,04/02/2023,1250.45
-...
+33b1ff8d-a70e-4b58-a8e7-8d27685c32f0,01/12/2024,2,Chemistry,"Heavy Metals, Turbidity",02/03/2024,316.97
+7cffd9e9-9b9f-4d80-aadd-a71eefc8362f,10/11/2024,4,Microbiology,"Total Coliforms, Cryptosporidium, Giardia, Pseudomonas aeruginosa",11/04/2024,729.0
+5190c8b5-5365-4358-ba5b-27db933d0db0,07/10/2023,4,Chemistry,"Alkalinity, Nitrate, Sulfate, Phosphate",07/25/2023,789.2
+452e54a6-6282-4c65-960d-c5e5275a7f6f,02/08/2023,6,Microbiology,"Clostridium perfringens, Cryptosporidium, Heterotrophic Plate Count, Fecal Streptococci, Pseudomonas aeruginosa, Legionella",NaN,1344.81
+3f168fdb-c0bd-4ee3-979e-7430c5304f40,11/10/2023,7,Chemistry,"pH, TOC, Sulfate, Heavy Metals, Nitrate, Alkalinity, Turbidity",NaN,1323.3
+e0d12a0f-5343-4605-98e7-183be26f27b1,02/10/2023,1,Chemistry,TOC,03/05/2023,190.4
+abfd21b5-4c75-4879-a812-c52f2d0f45db,01/23/2025,6,Chemistry,"TOC, Alkalinity, Turbidity, pH, Hardness, Chloride",01/27/2025,587.44
+718d786f-81bd-48da-a109-758b22aa0e9c,04/20/2024,9,Chemistry,"Alkalinity, Hardness, pH, Phosphate, Sulfate, Nitrate, Chloride, Heavy Metals, TOC",05/05/2024,1653.92
+a42dbd99-5172-487d-80a0-8709367a13ea,04/24/2024,7,Chemistry,"TOC, Hardness, Alkalinity, Nitrate, Turbidity, pH, Sulfate",05/22/2024,1847.37
+b1041021-2713-45aa-8058-94f658f6102f,08/17/2023,9,Microbiology,"Cryptosporidium, Heterotrophic Plate Count, Pseudomonas aeruginosa, Total Coliforms, Fecal Streptococci, Giardia, Enterococci, Legionella, Clostridium perfringens",09/13/2023,2669.13
+8fadcb50-8037-4e2c-a1ae-5f91d308fe64,04/15/2025,6,MICROBIOLOGY,"Clostridium perfringens, Pseudomonas aeruginosa, Cryptosporidium, Legionella, Enterococci, Total Coliforms",05/01/2025,1551.49
+84479111-5c48-45eb-a446-69a44363d78f,12/25/2023,7,Microbiology,"Legionella, Cryptosporidium, Fecal Streptococci, Enterococci, Pseudomonas aeruginosa, E. coli, Clostridium perfringens",01/22/2024,1696.15
+dc659fe0-67cd-49c4-a5de-417707db8ff8,03/22/2024,6,Microbiology,"Giardia, Enterococci, Legionella, Heterotrophic Plate Count, Total Coliforms, Clostridium perfringens",04/05/2024,901.81
+121ee91a-bd19-460b-b275-a5c3c9d6d124,10/10/2023,2,Microbiology,"Cryptosporidium, Giardia",11/01/2023,299.17
+a7cfddde-16c5-4cbd-aa85-48248786274f,03/16/2024,9,Chemistry,"Hardness, TOC, Heavy Metals, pH, Alkalinity, Nitrate, Phosphate, Turbidity, Chloride",03/30/2024,1546.03
+3ef99c16-5f74-477d-8c09-bfc17a555ccc,12/29/2023,10,Microbiology,"Total Coliforms, Fecal Streptococci, Cryptosporidium, Legionella, Enterococci, Giardia, E. coli, Clostridium perfringens, Pseudomonas aeruginosa, Heterotrophic Plate Count",01/01/2024,1484.1
+cb57c96f-9a31-4215-ba92-1985edaf3469,10/04/2024,2,Chemistry,"Nitrate, Turbidity",10/12/2024,238.02
+8b99685c-09ae-4409-805c-3bbbe095c3bd,04/14/2025,10,Microbiology,"Clostridium perfringens, Total Coliforms, Pseudomonas aeruginosa, Fecal Streptococci, Legionella, Cryptosporidium, Giardia, Enterococci, Heterotrophic Plate Count, E. coli",05.02.2025,2088.58
+8d0c2b3e-fd65-44a7-a62e-7605a1b9eb64,02/18/2025,2,Chemistry,"Nitrate, Chloride",2025/02/25,10000
+7d0e6de5-a5e2-4371-95a9-13277d805634,02/14/2024,4,Microbiology,"Clostridium perfringens, E. coli, Giardia, Total Coliforms",02/20/2024,488.72
+16e30c94-e07c-4147-8240-e08b0cbcb8c5,03/08/2023,1,Chemistry,pH,03/24/2023,235.71
+d272fd0c-294d-43c2-9178-b719d9f18e23,08/04/2023,4,Microbiology,"Pseudomonas aeruginosa, Total Coliforms, Enterococci, Heterotrophic Plate Count",08/12/2023,686.48
+a2573ff6-fa60-4b7a-9089-0b2f3344eb82,03/15/2024,4,Microbiology,"Total Coliforms, Heterotrophic Plate Count, Clostridium perfringens, E. coli",03/31/2024,361.22
+e1e6e92b-d0e8-4bcb-86ee-918d9e5691b4,2024/10/30,7,Microbiology,"Cryptosporidium, Enterococci, Heterotrophic Plate Count, Legionella, Total Coliforms, E. coli, Giardia",2024/11/03,1571.03
+6d06c1ad-2d96-4a0b-8387-babff5ff918a,01.30.2024,1,Microbiology,Enterococci,02/14/2024,105.37
+31fcb046-d1e8-4722-be98-28ac42cc464a,03/08/2024,1,Microbiology,Total Coliforms,04/07/2024,159.9
+151fab2a-ca1a-4687-b736-93e7fa8f06f5,05/04/2024,8,Microbiology,NaN,05/21/2024,1873.55
+ae692891-9ae4-4c15-a5df-4691d30039a0,09/26/2023,5,Chemistry,"Sulfate, Chloride, Nitrate, Turbidity, Hardness",10/23/2023,683.85
+9e8134a0-0c3b-4a56-ba02-ec287ff7dcd7,01/11/2023,1,Chemisty,Phosphate,01/31/2023,85.9
+f5a86c8b-8977-4ca4-9481-fa1fd4a61f92,07/12/2024,6,Microbiology,"Cryptosporidium, Legionella, Heterotrophic Plate Count, Enterococci, Total Coliforms, Fecal Streptococci",07/29/2024,629.45
+e5ead67a-ebf6-4423-b293-8f223d536de7,03/09/2024,4,Chemistry,"pH, Phosphate, Heavy Metals, TOC",03/13/2024,1142.02
+81629d37-fa1e-43c9-905a-34ae0f7e7381,02/17/2025,4,Chemistry,"Turbidity, Hardness, Chloride, Alkalinity",03/09/2025,411.31
+2c80d4b8-cada-4d9f-8d26-f2023b6aaf06,01/19/2025,8,Chemistry,"Turbidity, Heavy Metals, Nitrate, Phosphate, pH, Alkalinity, TOC, Hardness",02/16/2025,1709.06
+7c07f01e-e36b-4cdd-9bc9-e3e5eb8a6162,11/12/2023,8,Chemistry,"Phosphate, Hardness, pH, Alkalinity, TOC, Sulfate, Nitrate, Heavy Metals",11/20/2023,1721.79
+c382377a-ca83-482a-9e9c-69054398a6e4,05/25/2023,6,Chemistry,"Heavy Metals, Hardness, TOC, Nitrate, Sulfate, Chloride",06/03/2023,715.76
+8cbc280e-4d7d-46f2-9d99-b28120b7128d,12/02/2023,10,Microbiology,"Total Coliforms, Fecal Streptococci, Heterotrophic Plate Count, Pseudomonas aeruginosa, Giardia, Cryptosporidium, Enterococci, Clostridium perfringens, E. coli, Legionella",NaN,1478.32
+14f3b466-ff1e-4bdf-85e2-c61a79822eb1,06/22/2023,2,Microbiology,"Clostridium perfringens, Cryptosporidium",07/06/2023,509.35
+64c8ceb2-cfdd-40db-8279-87ad1df468bc,12/15/2024,4,Chemistry,"Turbidity, Hardness, Chloride, Nitrate",12/19/2024,628.33
+c7e9cea4-d956-48b1-80c4-048707899f58,05/11/2024,6,Microbiology,NaN,05/22/2024,1457.77
+fab6773a-2181-4a0a-bc45-ed214b17d875,06/11/2024,7,Microbiology,"Enterococci, Heterotrophic Plate Count, Fecal Streptococci, Clostridium perfringens, Cryptosporidium, Legionella, Total Coliforms",07/02/2024,1854.13
+874b62ea-b5bd-4b90-8883-56f9b3c87bdf,04/15/2025,6,Chemistry,"Hardness, Heavy Metals, Chloride, Nitrate, Alkalinity, Phosphate",04/21/2025,520.19
+49450913-a979-45a0-9fd6-0bab7c0e9048,09/23/2024,10,Microbiology,"Legionella, Clostridium perfringens, Pseudomonas aeruginosa, Giardia, Enterococci, E. coli, Heterotrophic Plate Count, Total Coliforms, Cryptosporidium, Fecal Streptococci",10/16/2024,1303.25
+36db4a99-8d5f-4598-b9bf-cdd4a0631151,03/21/2023,4,Microbiology,"Enterococci, Total Coliforms, Fecal Streptococci, Pseudomonas aeruginosa",04/19/2023,689.36
+eff0cf5c-0ba2-449e-b431-cd1408c7d6b4,09/06/2024,9,Chemistry,"Sulfate, pH, Hardness, TOC, Heavy Metals, Chloride, Turbidity, Nitrate, Alkalinity",09/29/2024,2083.75
+aca3599d-807d-49ab-827f-f8de7425a8e4,03/27/2024,7,Microbiology,"Clostridium perfringens, E. coli, Enterococci, Heterotrophic Plate Count, Cryptosporidium, Legionella, Pseudomonas aeruginosa",04/05/2024,1962.64
+7d3ca655-156c-407d-893d-cdb530f2c817,05/11/2024,6,Chemistry,"pH, Chloride, Hardness, Heavy Metals, TOC, Alkalinity",06/02/2024,1117.69
+fc3f393d-3113-42c5-ad85-c3ffdad7ed0c,01/07/2025,10,Chemistry,"TOC, Nitrate, pH, Phosphate, Alkalinity, Sulfate, Hardness, Chloride, Turbidity, Heavy Metals",NaN,1708.2
+1ccb0044-cee8-4253-80a9-10c669010c47,05/16/2024,8,Microbiology,"Cryptosporidium, Giardia, Total Coliforms, Legionella, Fecal Streptococci, Clostridium perfringens, E. coli, Pseudomonas aeruginosa",05/28/2024,764.84
+88c010b1-df25-4276-9cb2-b92eb16caf82,10/05/2024,9,Chemistry,"Turbidity, Sulfate, Heavy Metals, Hardness, Chloride, Phosphate, pH, Nitrate, Alkalinity",10/14/2024,766.99
+99f77f97-82d7-496a-837d-2cd5677645bb,01/04/2025,5,Chemistry,"Turbidity, Sulfate, Chloride, Hardness, TOC",01/13/2025,1296.51
+6a44b559-fa1c-48ea-8277-1c9aeb94f771,07/27/2023,5,Microbiology,"E. coli, Cryptosporidium, Pseudomonas aeruginosa, Total Coliforms, Giardia",07.30.2023,1387.38
+4aa5f5cf-c7d3-431e-b68c-88570e293cec,01/28/2023,10,Microbiology,"E. coli, Total Coliforms, Enterococci, Fecal Streptococci, Legionella, Cryptosporidium, Giardia, Heterotrophic Plate Count, Clostridium perfringens, Pseudomonas aeruginosa",02/03/2023,2266.14
+2a8635bf-5645-4318-a3e2-88951bedf664,04/09/2023,4,Chemistry,"Chloride, pH, Alkalinity, TOC",04/17/2023,322.83
+b26b587d-2f40-4511-87fe-bc5c337001a3,10/24/2023,3,chemistry,"Turbidity, Chloride, Alkalinity",11/09/2023,584.63
+26981b3b-9ecb-4210-bc6f-69c71aa3a44f,01/27/2024,6,Chemistry,"TOC, Hardness, Chloride, Nitrate, Alkalinity, Phosphate",02/01/2024,1204.68
+2b971437-14a7-4d56-b117-c96a108074f6,03/09/2024,9,Microbiology,"Giardia, Legionella, Cryptosporidium, Heterotrophic Plate Count, Total Coliforms, Enterococci, E. coli, Pseudomonas aeruginosa, Clostridium perfringens",03/28/2024,2408.99
+6323eaff-b317-44d8-acf1-f97a405c09cc,04/11/2024,6,Chemistry,"TOC, Phosphate, Nitrate, Chloride, Heavy Metals, Turbidity",04/30/2024,1462.93
+a16a5c73-e899-486c-9e4f-6edc8310cdb0,06/01/2023,9,Chemistry,"Turbidity, TOC, Nitrate, pH, Hardness, Heavy Metals, Alkalinity, Sulfate, Chloride",06/18/2023,1297.88
+adcf64fe-d893-4924-8809-77dfe76d598b,04/09/2023,4,Microbiology,"Clostridium perfringens, Giardia, Fecal Streptococci, Cryptosporidium",NaN,839.09
+111723b0-879c-4396-9ece-5ac86fedf44a,01/09/2025,2,Chemistry,"Phosphate, Chloride",01/13/2025,212.48
+f8f52738-8670-42ba-a0c2-bc126b077c88,03/31/2023,9,Chemistry,"Hardness, pH, Nitrate, Alkalinity, Turbidity, Chloride, Heavy Metals, Sulfate, Phosphate",04/15/2023,1848.09
+2e4c6555-7d50-4494-b14e-9973be96d44c,01/24/2024,10,Chemistry,"Chloride, Sulfate, Turbidity, Nitrate, Hardness, Alkalinity, Phosphate, Heavy Metals, TOC, pH",NaN,1689.02
+bfc3d7e2-5997-42eb-abce-903a1be979fb,11/18/2023,3,Microbiology,"E. coli, Fecal Streptococci, Cryptosporidium",11/25/2023,488.32
+77ee13b9-c611-4b7f-b529-84c4786840d9,09/01/2024,7,Chemistry,"Turbidity, Sulfate, Alkalinity, Chloride, TOC, Hardness, Nitrate",09/07/2024,587.22
+4d3c4cba-1bc7-424e-b4b4-133c5e4fb1c8,02/09/2023,6,Microbiology,"E. coli, Fecal Streptococci, Giardia, Cryptosporidium, Pseudomonas aeruginosa, Total Coliforms",03/07/2023,1445.39
+14603221-f1ef-42d4-8a3b-a86be0a83706,08/23/2023,10,Chemistry,NaN,09/02/2023,5000
+afa79399-0fee-480c-974f-9926d6dd52e7,03/08/2024,8,Chemistry,NaN,03/14/2024,1593.28
+c42a3d08-062d-4962-8824-3bc65c15f2e7,10/06/2024,2,Chemistry,"Turbidity, Chloride",10/17/2024,476.35
+b09b179a-be76-4946-a7ea-c9bd9ae3ce05,11/19/2024,10,Chemistry,"Sulfate, pH, Alkalinity, TOC, Hardness, Nitrate, Phosphate, Turbidity, Chloride, Heavy Metals",11/24/2024,882.56
+032f4b96-958f-40f9-b7a6-4cd060a69cbe,08/23/2023,2,Microbiology,"Legionella, Total Coliforms",08/28/2023,468.54
+efaaba43-0b94-4543-9bc3-94c27bdd44ee,01/24/2024,3,Chemistry,"Nitrate, Alkalinity, Heavy Metals",02/12/2024,751.65
+1c33371f-e5c2-4e39-a233-21a1f9644945,03/10/2023,1,Microbiology,Enterococci,03/19/2023,278.22
+84f47652-ab9f-43cc-93cf-b9cedafa9857,08/05/2024,5,Chemistry,"pH, Turbidity, Phosphate, Heavy Metals, Nitrate",08/13/2024,1282.3
+7d85cc08-efaf-4568-ab17-02e8b8ebd163,04/10/2023,9,Chemistry,"pH, Chloride, Heavy Metals, Turbidity, Nitrate, TOC, Alkalinity, Phosphate, Sulfate",04/28/2023,1946.81
+6fc7566c-20af-469e-968a-e4f27a4a1e23,06/18/2024,6,Microbiology,"Pseudomonas aeruginosa, Giardia, Heterotrophic Plate Count, Cryptosporidium, Enterococci, Total Coliforms",07/08/2024,1069.7
+c678d76f-40f3-4390-ab6b-d10d70ad88ca,08/17/2023,8,Microbiology,"E. coli, Giardia, Total Coliforms, Enterococci, Clostridium perfringens, Pseudomonas aeruginosa, Fecal Streptococci, Heterotrophic Plate Count",08/22/2023,1376.2
+fa17a17e-b0ba-44c3-b93e-c823aee719f8,08/10/2023,6,Microbiology,"Enterococci, Fecal Streptococci, Legionella, Giardia, Cryptosporidium, E. coli",NaN,1473.99
+7c3c31aa-1d69-4499-abbb-90f8bb5b3e35,08/06/2024,3,Chemistry,"Sulfate, Nitrate, Hardness",08/18/2024,886.89
+3716148c-cf17-45a7-802c-a4676c23d4c3,04/23/2024,4,Microbiology,"Heterotrophic Plate Count, Enterococci, Total Coliforms, Giardia",05/10/2024,1124.75
+17db4ef0-1b26-4029-bd6d-1e9e1f7e3fcf,01/28/2025,4,Microbiology,"Legionella, Pseudomonas aeruginosa, Clostridium perfringens, Total Coliforms",02/25/2025,5000
+b563283c-16b8-4e07-ad4c-36209961f50c,06/30/2023,2,Microbiology,"Clostridium perfringens, Legionella",07/23/2023,523.1
+4389f36e-5188-4495-976b-58dbb821efab,01/11/2025,5,Chemistry,"pH, TOC, Heavy Metals, Chloride, Alkalinity",01/28/2025,1395.4
+bc6a63b4-fbe3-4400-8254-e80a2bf3fee2,10/28/2024,10,Chemistry,"Phosphate, Heavy Metals, Hardness, Turbidity, Chloride, Alkalinity, pH, Nitrate, TOC, Sulfate",11/20/2024,1878.94
+f0f0970b-648a-4802-a30b-1d7e89a384cc,02/02/2023,7,Microbiology,NaN,02/22/2023,625.18
+5cb0e49d-5ced-45f9-974e-28dba35849d9,12/11/2023,5,Chemistry,"TOC, Chloride, Alkalinity, Nitrate, Hardness",12/22/2023,660.17
+c494a617-c6fe-49fd-856e-034580ae9db4,03/23/2024,3,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, Heterotrophic Plate Count",04/14/2024,630.23
+9387403a-0ee2-4657-8cf0-826ae89731be,10/08/2023,7,Chemistry,"Hardness, pH, Sulfate, Turbidity, Chloride, Phosphate, Nitrate",11/04/2023,1373.72
+ee0dac6a-2918-4d57-981f-2751793db5b7,02/07/2023,9,Chemistry,"TOC, Heavy Metals, Hardness, Nitrate, Turbidity, Alkalinity, Chloride, pH, Phosphate",02/24/2023,1951.69
+75fb3429-b7ed-42a4-9d6a-e0ef03a3b774,04/13/2025,4,Chemistry,"pH, Sulfate, Chloride, Alkalinity",04/29/2025,5000
+4e42a035-d870-46aa-baa1-353c32f93e6e,03/02/2025,1,Chemistry,Phosphate,03/14/2025,184.29
+740f02be-bf53-4385-9e36-48721cd666f4,06/01/2024,2,Microbiology,"Enterococci, Heterotrophic Plate Count",06/17/2024,419.73
+4c499e8e-8c4c-4c0e-b951-274e09f88ad9,10/17/2023,6,Chemistry,"Sulfate, Phosphate, Turbidity, TOC, Nitrate, pH",NaN,1083.26
+35cfedcd-0aab-44a9-9817-a4bf05cafbd7,02/11/2024,4,Microbiology,"Pseudomonas aeruginosa, Legionella, Heterotrophic Plate Count, Giardia",02/21/2024,761.65
+7e126d3f-4ff9-403f-8934-7b8a1dde6ecf,11/02/2024,10,Microbiology,"Clostridium perfringens, E. coli, Enterococci, Heterotrophic Plate Count, Legionella, Cryptosporidium, Total Coliforms, Giardia, Pseudomonas aeruginosa, Fecal Streptococci",11/29/2024,1204.63
+3a3fffa1-50d6-48f7-8969-7c8c1ff5403f,08/03/2023,2,Microbiology,"Total Coliforms, Heterotrophic Plate Count",08/13/2023,311.19
+409d7e5a-6232-40e5-a7bf-a8843de39a29,09/13/2023,1,Microbiology,Enterococci,09/21/2023,213.04
+cd35f665-4e24-421f-9f9a-ccc1d4bb8cc6,11/18/2023,8,Microbiology,"Giardia, E. coli, Fecal Streptococci, Pseudomonas aeruginosa, Clostridium perfringens, Heterotrophic Plate Count, Legionella, Total Coliforms",11/28/2023,1897.86
+2e04e23e-ca3f-42f5-af37-593235ecbe7f,03/22/2025,9,Chemistry,"Heavy Metals, Phosphate, Hardness, Alkalinity, Chloride, Nitrate, pH, Turbidity, TOC",04/03/2025,1969.97
+dd4cf127-d9db-49cb-993a-9f6d1be5d737,06/03/2023,9,Microbiology,"Cryptosporidium, Pseudomonas aeruginosa, Heterotrophic Plate Count, E. coli, Fecal Streptococci, Enterococci, Legionella, Total Coliforms, Giardia",06/14/2023,1318.08
+8ada5b85-f289-415e-a8c2-65fabe891414,06/11/2023,5,Microbiology,"Giardia, Fecal Streptococci, Heterotrophic Plate Count, E. coli, Total Coliforms",06/21/2023,1255.81
+4a4efe4c-c082-419d-8712-6f583689384f,02/25/2023,7,Microbiology,"Legionella, Total Coliforms, Pseudomonas aeruginosa, Fecal Streptococci, Giardia, E. coli, Enterococci",03/26/2023,605.35
+10ea27cc-1325-4b7d-80b2-9d3117e14bb2,12/18/2023,7,Chemistry,"pH, Alkalinity, Hardness, Turbidity, Nitrate, TOC, Chloride",01/17/2024,709.53
+46a5b9ce-675e-40c0-a038-ab1855107a84,01/31/2023,8,Microbiology,"Heterotrophic Plate Count, Fecal Streptococci, Enterococci, Giardia, Clostridium perfringens, Cryptosporidium, Pseudomonas aeruginosa, E. coli",02/12/2023,1430.8
+938b6afa-96ce-4af3-b89c-46734385c3d3,09/17/2024,8,Chemistry,"Heavy Metals, Chloride, Hardness, TOC, Turbidity, Alkalinity, Sulfate, Nitrate",NaN,2046.49
+4117da0a-c9e0-4d7e-8ee7-1121bf3e2143,08/23/2024,6,Microbiology,"Legionella, Giardia, Heterotrophic Plate Count, E. coli, Pseudomonas aeruginosa, Enterococci",09/02/2024,1641.29
+1c2167d8-72e0-4a3a-ac7f-4c059c3da94d,10/11/2023,2,Microbiology,"Cryptosporidium, Fecal Streptococci",11/01/2023,574.81
+5741a6a4-15b3-404a-9c28-f5799ce3bba8,02/19/2023,2,Chemistry,"Chloride, Alkalinity",02/27/2023,190.31
+081e7e33-0902-4f6d-a9fa-23b045598d5f,04/16/2023,1,Microbiology,Pseudomonas aeruginosa,05/05/2023,134.45
+74f0b0be-16c8-471d-afbf-1386dd86ada9,11/12/2024,5,Chemistry,"TOC, Phosphate, Turbidity, Heavy Metals, Nitrate",11/15/2024,413.47
+eb6d73e6-d426-44b9-b008-ead767f7f2a8,07/29/2023,6,Chemistry,NaN,08/09/2023,10
+85a2274e-7e1b-4941-8986-baffad47285f,08/15/2023,6,Microbiology,"Cryptosporidium, Enterococci, Clostridium perfringens, Legionella, Pseudomonas aeruginosa, Fecal Streptococci",08/18/2023,1538.05
+4581c9e3-323a-45e3-8b14-155d8b17bd01,08/07/2024,10,Microbiology,"Cryptosporidium, E. coli, Fecal Streptococci, Enterococci, Heterotrophic Plate Count, Giardia, Pseudomonas aeruginosa, Total Coliforms, Legionella, Clostridium perfringens",08/21/2024,1187.85
+4ae35284-2ce5-47e9-a6a6-8bf51bf2de41,03/07/2024,5,Microbiology,"Total Coliforms, Heterotrophic Plate Count, Pseudomonas aeruginosa, Cryptosporidium, E. coli",04/01/2024,943.83
+5a62a66b-42b6-40d1-8cf9-a0740b59de0a,11/18/2023,8,Chemistry,"Sulfate, Phosphate, Heavy Metals, pH, Hardness, Nitrate, TOC, Turbidity",12/05/2023,673.39
+157faea0-fdaf-41d1-89f9-dced75286a15,02/07/2023,5,Microbiology,"Total Coliforms, Giardia, Cryptosporidium, Pseudomonas aeruginosa, Clostridium perfringens",02/22/2023,656.26
+81a66af6-9e93-4cc4-81e2-1fe00f3e6c2b,03/12/2025,4,Chemistry,"Phosphate, Hardness, Nitrate, Chloride",03/18/2025,1047.33
+582cf2b4-fa09-400d-b1bb-c05fb2ed74b3,10/21/2024,6,Chemistry,"Turbidity, Heavy Metals, Phosphate, Sulfate, pH, Nitrate",11/06/2024,631.95
+00f57a66-c46b-4573-866d-59ef685dd566,05/23/2023,3,Chemistry,"Hardness, Sulfate, Phosphate",06/11/2023,NaN
+0edf9945-4db1-4d77-9dd7-e3203c2cef25,09/14/2023,8,Chemistry,"Hardness, Heavy Metals, pH, TOC, Phosphate, Turbidity, Nitrate, Sulfate",10/13/2023,659.38
+7ff05542-ff95-4bfd-b5d3-107f9feda380,10/19/2023,5,Chemistry,"Alkalinity, TOC, Phosphate, Hardness, pH",11/01/2023,401.28
+1c5358c4-ffff-4e8f-bfec-e536760b4002,08/05/2024,2,Chemistry,"Phosphate, Sulfate",09/01/2024,259.87
+e9c82b04-5014-4fc6-89b2-bc4f84269350,01/02/2024,9,Microbiology,"Fecal Streptococci, Total Coliforms, Pseudomonas aeruginosa, E. coli, Cryptosporidium, Legionella, Heterotrophic Plate Count, Giardia, Enterococci",01/28/2024,NaN
+1ac50078-b4a8-4bf7-b62d-d5597f75d7b9,12/02/2023,4,Chemistry,"Nitrate, Heavy Metals, Turbidity, pH",NaN,1027.56
+ee84f538-ee6d-4fea-90ac-35b3dbc0f3a4,03/30/2024,6,Chemistry,"pH, Alkalinity, Turbidity, Sulfate, Chloride, Heavy Metals",04/05/2024,1360.78
+532d81ca-2f7d-4c4f-823f-648e723194b3,07/09/2024,10,Chemistry,NaN,07/12/2024,NaN
+bfcd7d75-ef3b-49d8-a058-93d432dde540,09/06/2024,6,MICROBIOLOGY,"Fecal Streptococci, Heterotrophic Plate Count, Total Coliforms, E. coli, Legionella, Cryptosporidium",09/19/2024,780.17
+065bfb54-f881-46a7-95c0-437be8d20f80,03/14/2025,1,Chemistry,Phosphate,04/06/2025,103.77
+0d65e074-b3c0-4fbf-a181-137c0f3b7f64,05/22/2024,7,Chemistry,"Alkalinity, Turbidity, TOC, pH, Hardness, Nitrate, Heavy Metals",06/11/2024,1403.96
+1111a888-de39-44c5-a8d3-6e2f3e994411,06/13/2024,1,Microbiology,Fecal Streptococci,06/23/2024,117.14
+c1b6dd21-0ecc-4f6a-8720-a45460f85148,07.30.2024,7,Chemistry,"pH, Sulfate, Chloride, Alkalinity, Heavy Metals, Nitrate, Turbidity",08/19/2024,NaN
+4a1cfe40-2048-4ce3-acd9-d77b8890b43a,04/16/2024,6,Chemistry,"Hardness, TOC, Heavy Metals, Phosphate, Sulfate, pH",05/09/2024,945.93
+96772ed2-ab2c-4d8e-afb6-ef768ec7c19d,11/02/2024,1,Chemistry,Turbidity,11/15/2024,133.45
+d362e03e-f231-4ee4-bae7-ea6ae8485fef,01/28/2025,3,Chemistry,"Sulfate, Heavy Metals, Chloride",02/12/2025,352.27
+c3e865dc-3a74-4079-b58d-e7d777cf400a,03/21/2023,6,Chemistry,"Hardness, Alkalinity, Chloride, Heavy Metals, Nitrate, Turbidity",04/19/2023,1089.53
+97da02f8-3d14-4530-aa85-d2741134f4de,01/24/2025,2,Chemistry,"Alkalinity, pH",02/04/2025,269.78
+be7cc02f-7a84-4519-9c48-e0969e324d08,03/27/2024,9,Microbiology,"Clostridium perfringens, Heterotrophic Plate Count, E. coli, Legionella, Giardia, Fecal Streptococci, Pseudomonas aeruginosa, Enterococci, Total Coliforms",04/06/2024,2069.7
+ee8d103d-3ed4-46b7-8575-79b3f850542b,01/10/2025,4,Microbiology,"Giardia, E. coli, Legionella, Clostridium perfringens",01/14/2025,846.31
+c6a95627-b1f3-4e26-9f0c-814e2235a279,11/29/2023,1,Chemistry,pH,12/10/2023,114.33
+201b09b5-c788-46d4-9933-7d44b0f0e0a3,03/11/2024,2,Chemistry,"TOC, Hardness",04/08/2024,576.16
+d2b638ba-d2f8-4324-af40-240007c55ca4,11/18/2023,1,Chemistry,Chloride,11/21/2023,197.84
+6b26ca2d-116a-4005-8301-d4805d1b42eb,04/17/2024,6,Chemistry,"TOC, Chloride, Phosphate, pH, Turbidity, Hardness",04/26/2024,669.52
+6f583b71-eb67-46bf-acc5-5c84e39eafa6,09/08/2024,7,Chemistry,"Hardness, Turbidity, pH, Phosphate, Heavy Metals, Chloride, TOC",10/01/2024,1139.01
+a5e9be42-73fc-4bfd-8703-016cca56e400,04/18/2024,9,Chemistry,"pH, Heavy Metals, Turbidity, TOC, Nitrate, Chloride, Alkalinity, Sulfate, Phosphate",04/28/2024,1385.07
+456ab020-d602-47ae-ab6a-ce5bbf4baf60,12/21/2023,4,Microbiology,NaN,01/12/2024,1045.86
+61e1ca70-979e-4aa2-b1bf-6e553c44adcd,09.01.2024,1,Microbiology,Total Coliforms,09/24/2024,NaN
+d83e7b4d-44f7-4bad-ae76-f81fb4b16383,04/14/2024,1,Chemistry,Sulfate,04/17/2024,247.45
+54b691e2-50cf-4fd5-838f-60070ee24ee7,12/21/2024,10,Chemistry,"Hardness, TOC, Alkalinity, Turbidity, Chloride, Phosphate, pH, Heavy Metals, Sulfate, Nitrate",01/01/2025,2369.31
+94f345fd-713e-437c-9379-097e7359f5c4,2024/12/05,3,Chemistry,"Phosphate, Hardness, Chloride",12/14/2024,546.44
+2ebb8c1b-5c62-4116-9213-d515b5d8d912,02/15/2023,4,Microbiology,"Heterotrophic Plate Count, Fecal Streptococci, E. coli, Legionella",02/18/2023,731.03
+37e68325-b6c9-4620-a037-45a72c6ed84a,09/12/2023,7,Chemistry,"Heavy Metals, Nitrate, Hardness, pH, Phosphate, Turbidity, Alkalinity",10/02/2023,1539.53
+89b58e24-c2ef-4dc0-89cf-6dc44e29150f,09/25/2024,8,Chemistry,"Hardness, Nitrate, Heavy Metals, Alkalinity, Chloride, pH, Turbidity, Phosphate",10/13/2024,842.36
+bc85b8d0-0c25-418a-88ab-dbb0089f572f,03/09/2024,6,Microbiology,"Enterococci, Pseudomonas aeruginosa, Total Coliforms, E. coli, Giardia, Clostridium perfringens",NaN,1662.71
+317a8fcd-e38c-4c5e-8a48-ebe17848c132,02/09/2023,7,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, E. coli, Total Coliforms, Fecal Streptococci, Giardia, Enterococci",03/01/2023,590.89
+8e740956-9516-49e6-838e-b33f0560bf21,08/15/2023,1,Microbiology,Cryptosporidium,09/01/2023,148.67
+1182bb77-63ef-4c0a-b374-8fa67e8b63b5,04/04/2024,9,Microbiology,"Clostridium perfringens, Heterotrophic Plate Count, E. coli, Enterococci, Total Coliforms, Giardia, Pseudomonas aeruginosa, Fecal Streptococci, Legionella",04/22/2024,788.73
+f112b31a-de20-4429-b731-f5e383336c28,03/27/2025,10,Microbiology,"Fecal Streptococci, E. coli, Clostridium perfringens, Giardia, Enterococci, Total Coliforms, Heterotrophic Plate Count, Cryptosporidium, Pseudomonas aeruginosa, Legionella",04/08/2025,1081.88
+f7a8d281-7e08-4a0e-9a93-1d7d551902c5,04/07/2025,9,Chemistry,"Turbidity, Chloride, TOC, Hardness, pH, Sulfate, Heavy Metals, Nitrate, Phosphate",NaN,1206.93
+38896614-f85a-4a34-847e-ef55c9d78ec4,04/05/2024,9,Chemistry,"Phosphate, Sulfate, Turbidity, TOC, pH, Chloride, Nitrate, Heavy Metals, Alkalinity",04/14/2024,1663.8
+4557d313-85c3-4015-87d2-821cba71741d,08/17/2023,8,Chemistry,"Alkalinity, Nitrate, Heavy Metals, Phosphate, Hardness, pH, Turbidity, TOC",09/14/2023,1705.12
+02887ae6-d155-4834-8cf1-6e95045e83a5,02/20/2024,2,Chemistry,"Hardness, Turbidity",03/19/2024,359.62
+b1cdf484-1bdf-4aa8-a114-1941dbc6b949,02.24.2023,4,Chemistry,"Turbidity, Sulfate, Alkalinity, Hardness",03/01/2023,696.38
+92129aa5-4b9b-4b88-abbc-97f50c489f36,02/23/2025,8,Microbiology,"Enterococci, E. coli, Pseudomonas aeruginosa, Heterotrophic Plate Count, Total Coliforms, Clostridium perfringens, Giardia, Legionella",03/14/2025,1447.34
+1b8c2539-ce84-485c-934f-68daa38921a6,05/19/2024,1,Chemistry,Hardness,05/22/2024,NaN
+2890a4bc-f052-4001-82c5-ca06285d998f,07/05/2023,1,Microbiology,Clostridium perfringens,07/30/2023,NaN
+3a1bafbc-987e-4179-abbc-1feeba70bfaa,08/31/2023,3,Microbiology,"Cryptosporidium, Total Coliforms, Enterococci",09/25/2023,538.36
+a531782c-53fe-45aa-8b3a-8d3da6b8b3f1,05/22/2024,9,Chemistry,"Chloride, Alkalinity, pH, TOC, Sulfate, Nitrate, Heavy Metals, Turbidity, Phosphate",06/06/2024,846.67
+365aeb8d-e73f-44e6-9cc2-39df3843f0ba,03/31/2023,1,Microbiology,Clostridium perfringens,04/15/2023,111.98
+dbad68e3-9ab6-4a31-8da3-7c224af9a874,02/17/2025,4,Microbiology,"Cryptosporidium, Clostridium perfringens, Total Coliforms, Heterotrophic Plate Count",03/15/2025,1079.43
+77150b36-5fe4-40bb-9b38-986a68cc25a0,03/28/2025,2,Chemistry,"Hardness, Turbidity",04/16/2025,314.03
+388afe02-863b-4a89-9faa-645ac0c53a1b,01/26/2025,1,Chemistry,Phosphate,02/02/2025,213.48
+afe6106c-9757-4fba-86d5-f791df85014f,08/21/2023,3,Microbiology,"Giardia, Legionella, Clostridium perfringens",08/25/2023,555.23
+6c9bffbd-dcb4-483c-975d-3e3c787a0168,03/02/2024,7,Chemistry,"Heavy Metals, Chloride, Phosphate, Sulfate, pH, Hardness, Turbidity",03/12/2024,585.83
+9901bd86-b0a2-4b59-af83-3f542017ed74,06/23/2024,3,Chemistry,"TOC, Sulfate, pH",07/21/2024,NaN
+6b020bc2-585d-4a91-85f8-94294f7b4841,01/29/2023,10,Chemistry,"Phosphate, Heavy Metals, pH, Nitrate, Hardness, Turbidity, Chloride, Sulfate, Alkalinity, TOC",02/15/2023,1827.27
+ee695bde-53af-4d0d-9ba4-ef22a162e33e,08/12/2023,1,Chemistry,Nitrate,09/01/2023,220.94
+4e8597c1-65f2-44c4-a6d2-02fdf4f0b576,02/24/2023,3,Microbiology,"Cryptosporidium, Pseudomonas aeruginosa, Enterococci",03/25/2023,617.26
+a2f2a690-f67c-4377-b8ad-ee7a8072ba25,09/08/2024,4,Chemistry,"pH, Turbidity, Heavy Metals, Nitrate",09/17/2024,552.73
+fdb07842-3b73-462b-a6e4-67464ea224eb,08/05/2024,1,Microbiology,Total Coliforms,08/31/2024,168.62
+91d2022e-e9fe-4eeb-b5b5-133a41dca34a,07/30/2023,2,Chemistry,"Sulfate, Hardness",08/10/2023,381.73
+08c456bc-7638-4327-a185-e3c221201f93,11/17/2023,4,Chemistry,"Phosphate, Alkalinity, Hardness, Nitrate",12/14/2023,784.74
+28334487-fcd9-4ba0-bc50-22fccb01b1ac,08/23/2023,10,Microbiology,"Total Coliforms, Fecal Streptococci, Cryptosporidium, Legionella, Heterotrophic Plate Count, Pseudomonas aeruginosa, E. coli, Giardia, Clostridium perfringens, Enterococci",08/26/2023,2764.53
+dd984ced-20be-49c3-a84c-5ae44b318abe,09/03/2023,2,Chemistry,"TOC, Turbidity",09/10/2023,455.6
+e9010980-2ca8-44db-b54b-5dadb9538621,12/03/2023,6,Chemistry,"Phosphate, TOC, Heavy Metals, Hardness, Nitrate, Sulfate",12/08/2023,1007.2
+58c4ed0f-b914-437d-ba0d-0b2b730b3d3b,02/16/2024,2,Microbiology,"Heterotrophic Plate Count, Pseudomonas aeruginosa",03/15/2024,584.63
+509aa7ff-b335-4feb-906a-e0dbf39329d5,09/30/2023,4,Chemistry,"Phosphate, Sulfate, TOC, Hardness",10/05/2023,434.57
+a5d768ec-af38-4390-8c2a-1e8431c0d93f,01/15/2025,5,Microbiology,"Pseudomonas aeruginosa, Enterococci, Cryptosporidium, Clostridium perfringens, Heterotrophic Plate Count",02/13/2025,560.21
+19e40957-3e47-4cf4-b477-3f401bd68f12,04/09/2025,4,Microbiology,"Fecal Streptococci, Giardia, Cryptosporidium, Heterotrophic Plate Count",05/02/2025,537.07
+cd1a08d4-1335-4107-966c-ab2413202aba,06/21/2024,10,Microbiology,"Legionella, Fecal Streptococci, Total Coliforms, Enterococci, Cryptosporidium, Giardia, Pseudomonas aeruginosa, Heterotrophic Plate Count, Clostridium perfringens, E. coli",07/18/2024,2525.35
+e997c6ff-8a04-4877-8638-fed95014f986,13-08-2023,1,Chemistry,TOC,09/02/2023,215.45
+ea195232-c3cd-4325-a54d-940eafb72782,02/05/2025,8,Chemistry,"Sulfate, TOC, Phosphate, Nitrate, Turbidity, Hardness, pH, Heavy Metals",02/09/2025,2158.68
+315014ad-4402-4ee0-96ab-42619fdb0a2a,12/29/2024,7,chemistry,"TOC, pH, Nitrate, Phosphate, Alkalinity, Hardness, Chloride",NaN,1917.33
+ef4baf0a-d89d-4066-aadd-dd3d676470cb,09/15/2023,6,Chemistry,"Alkalinity, Hardness, TOC, Nitrate, Phosphate, pH",09/18/2023,892.88
+53a22d0d-e8f4-403d-ad89-23e821e98958,05/05/2023,1,Chemistry,Nitrate,05/26/2023,205.6
+3d2093f1-9af2-4d71-b0be-a54cac6cfa74,02/27/2024,3,Microbiology,"Cryptosporidium, E. coli, Total Coliforms",03/10/2024,863.27
+402a120b-fc61-43d8-b0cc-7096039f250d,09/11/2023,3,Chemistry,"Phosphate, Turbidity, pH",10/11/2023,297.12
+279609a1-b1c7-4974-a3ce-8d54e6b6b898,03.23.2023,9,Microbiology,"Clostridium perfringens, Heterotrophic Plate Count, Pseudomonas aeruginosa, Enterococci, Legionella, Fecal Streptococci, Total Coliforms, E. coli, Cryptosporidium",04/18/2023,1242.18
+53442280-f2fd-4944-9c82-575185790cec,10/18/2023,8,Chemistry,NaN,11/16/2023,1718.48
+7632bd7c-d7ba-4403-b3b3-44d8ec2931e5,05/25/2023,6,Chemistry,"Nitrate, Heavy Metals, pH, Sulfate, TOC, Phosphate",06/04/2023,1475.4
+35c7af5b-ce7f-48b7-a9c2-15a07d6d9e3f,06/30/2023,4,Microbiology,"Total Coliforms, Heterotrophic Plate Count, E. coli, Giardia",07/06/2023,342.9
+df571dad-13df-468e-ab23-a87bfd651134,07/11/2024,3,Chemistry,"Phosphate, TOC, Nitrate",08/07/2024,840.64
+22d9a03b-67e6-4840-8ea6-c47a9c0094e2,03/14/2025,5,Chemistry,"Alkalinity, Chloride, Hardness, Sulfate, Heavy Metals",03/25/2025,683.54
+feddbba9-8820-4284-a5a9-fea095e47c20,12/12/2024,4,Chemistry,"Hardness, pH, Alkalinity, Nitrate",12/16/2024,817.39
+8b0654ae-fcc0-4441-bab5-a2027692a04b,04/23/2023,7,Microbiology,"Clostridium perfringens, Legionella, Fecal Streptococci, E. coli, Heterotrophic Plate Count, Cryptosporidium, Enterococci",05/20/2023,1779.85
+2911b4f4-971a-48d3-b139-5aa88bd0a07e,07/28/2024,4,Chemistry,"Sulfate, Chloride, TOC, Nitrate",08/18/2024,1189.94
+48f38a29-88e4-4f26-8f58-ecc8da7587a1,03/08/2024,10,Microbiology,"Giardia, E. coli, Fecal Streptococci, Pseudomonas aeruginosa, Total Coliforms, Enterococci, Clostridium perfringens, Heterotrophic Plate Count, Cryptosporidium, Legionella",03/21/2024,2662.94
+a2a2a518-604b-4818-addf-a7894a128291,11/28/2023,6,Microbiology,"Clostridium perfringens, Giardia, Total Coliforms, E. coli, Enterococci, Cryptosporidium",12/13/2023,963.46
+fdbbf717-fc65-46c9-a9ba-b945cf9535f7,08/20/2023,4,Chemistry,"Sulfate, Heavy Metals, Chloride, Nitrate",08/23/2023,1167.67
+9d92aaca-0886-4eae-8ecc-6befd67a74b0,03/27/2025,3,Chemistry,"Hardness, Turbidity, pH",04/23/2025,432.65
+4ef83568-cc4d-4e2f-a67a-fe3f8b19f230,11/16/2023,4,Chemistry,"Hardness, pH, Phosphate, Alkalinity",11/24/2023,754.57
+6998bc47-ff2a-468d-8c5b-66df7f270966,01/21/2025,6,Chemistry,"Nitrate, Sulfate, Phosphate, TOC, Chloride, pH",02/09/2025,842.49
+4ee52cfa-1e88-4340-9eb3-124a2624ad3e,11/07/2024,6,Microbiology,"Fecal Streptococci, Heterotrophic Plate Count, Pseudomonas aeruginosa, E. coli, Cryptosporidium, Giardia",11/12/2024,688.24
+b0761b8b-29f7-42bf-8cbe-db2cbbf86d68,03/28/2025,2,Chemistry,"Alkalinity, TOC",04/26/2025,329.92
+bb6dca4c-48db-49ca-8186-3f1375442237,04/23/2023,9,Microbiology,"Giardia, Heterotrophic Plate Count, Cryptosporidium, Clostridium perfringens, Legionella, Fecal Streptococci, E. coli, Enterococci, Total Coliforms",05/11/2023,2102.16
+9b065bf9-7290-4330-a08c-d6bc8767125d,02/12/2025,2,Microbiology,"Legionella, Enterococci",02/22/2025,277.82
+62d00f8a-48e4-45c6-b13d-3484cb043e4f,10/16/2023,9,Chemistry,"Chloride, Heavy Metals, Phosphate, Nitrate, pH, Hardness, Sulfate, TOC, Alkalinity",11/07/2023,2525.13
+36c0ab10-a2d9-4a4b-acff-f0f2d801aebc,02/13/2025,6,Chemistry,"Heavy Metals, Hardness, TOC, Phosphate, Alkalinity, Sulfate",03/01/2025,10000
+3736485b-6447-4ed1-8895-ea3cb9f14cc8,07/09/2023,6,Chemistry,NaN,08/07/2023,1661.27
+dfd54bbe-a190-4370-958c-345d8f5a9fea,04/19/2025,2,Chemistry,"Heavy Metals, Chloride",NaN,455.36
+e8c0324b-f803-4bc1-9497-aae87daa1ab9,05/25/2024,8,Microbiology,"E. coli, Clostridium perfringens, Heterotrophic Plate Count, Pseudomonas aeruginosa, Giardia, Legionella, Fecal Streptococci, Cryptosporidium",05/29/2024,833.19
+04ac9559-a251-4ec9-a8cb-f449d2dda061,02.02.2024,1,Chemistry,Turbidity,02/08/2024,222.85
+a1078fd3-fe45-47f3-8fa2-0c0f2f5ac7ae,01/31/2024,8,Microbiology,"Heterotrophic Plate Count, Total Coliforms, Cryptosporidium, Pseudomonas aeruginosa, Clostridium perfringens, Enterococci, Legionella, Giardia",02/18/2024,1173.99
+2e8fe7d1-b083-4862-b89b-961e66d95e4e,10/24/2023,1,Chemistry,Phosphate,11/01/2023,205.22
+ab74231f-23ad-43dc-ae72-bfa76de578ab,09/28/2024,5,Chemistry,"Hardness, Heavy Metals, Chloride, Nitrate, Turbidity",10/03/2024,887.37
+8dab9ffe-9f46-42c9-93e0-caae7be3342d,11/17/2024,1,Chemistry,Chloride,12/09/2024,103.2
+f7d850d8-b6a6-4b76-8ecc-9630091447b5,03/17/2023,10,Chemistry,"Turbidity, TOC, Sulfate, pH, Nitrate, Alkalinity, Phosphate, Heavy Metals, Chloride, Hardness",04/13/2023,2331.66
+60802c46-7dab-41fc-893d-f080efb35b26,06/15/2024,2,Microbiology,"Enterococci, Cryptosporidium",07/10/2024,537.84
+7a8f3024-ffce-4a32-a5d7-87883afda8f5,07/23/2024,8,Chemistry,"pH, Alkalinity, Sulfate, TOC, Phosphate, Turbidity, Nitrate, Heavy Metals",08/16/2024,1044.28
+7ddee272-a2ce-486f-acf7-df3ac99a7f8d,05/11/2024,6,Microbiology,"Clostridium perfringens, Giardia, Pseudomonas aeruginosa, E. coli, Heterotrophic Plate Count, Total Coliforms",05/30/2024,1544.35
+2beb93a2-137a-44b5-a48b-aaef787c3a2d,03/06/2024,1,Chemistry,NaN,03/19/2024,190.55
+2032778d-dd3a-4e4d-b1cb-d887355e078f,06/03/2023,7,Chemistry,"Alkalinity, Hardness, pH, Chloride, Turbidity, Nitrate, Phosphate",06/29/2023,1048.25
+33b98bfd-643a-4a22-9d75-eecdf1ab623d,05/27/2024,2,Microbiology,"E. coli, Heterotrophic Plate Count",06/22/2024,573.5
+45e72124-86cf-4ad2-98c5-bf51ea5a6e9f,05/06/2024,8,Chemistry,"TOC, Heavy Metals, Nitrate, Phosphate, Alkalinity, Hardness, Sulfate, pH",05/21/2024,1296.74
+b0e130dc-e73c-47c7-bce6-003f01605e21,06/17/2023,5,Chemistry,"Phosphate, Nitrate, Alkalinity, Turbidity, Heavy Metals",07/08/2023,433.8
+26213fe1-e29e-4fa3-a339-b29ace5750c4,05/29/2024,7,Chemistry,"Sulfate, Heavy Metals, Nitrate, Alkalinity, Hardness, Turbidity, Chloride",06/05/2024,1291.86
+84b35acf-0028-466f-ae1c-a263fee4ba59,08/11/2024,9,Chemistry,"Phosphate, Sulfate, Hardness, pH, Nitrate, TOC, Turbidity, Alkalinity, Heavy Metals",09/04/2024,1308.83
+29105a85-ad47-49ac-851b-04dbe539f13d,09/21/2023,7,Chemistry,"Chloride, TOC, Turbidity, Sulfate, Hardness, pH, Nitrate",10/05/2023,1884.62
+e62e88b3-9cd1-4bfa-8627-452914ede2c3,12/17/2024,9,Chemistry,"Chloride, Hardness, TOC, Sulfate, Nitrate, pH, Phosphate, Alkalinity, Heavy Metals",12/27/2024,1184.74
+01b4c470-710b-4fc3-b37c-1478e73caef1,06/21/2024,4,Microbiology,"Clostridium perfringens, Legionella, Enterococci, Total Coliforms",07/01/2024,364.43
+0b8c6797-482c-4a0d-9f5d-67aa104d2d18,11/04/2024,9,Chemistry,"Sulfate, Chloride, pH, Phosphate, Turbidity, Alkalinity, Hardness, Nitrate, Heavy Metals",11/12/2024,1145.66
+f2efb4ef-b849-44ba-baa0-c8fff64f3533,06/23/2024,4,Microbiology,"Pseudomonas aeruginosa, Cryptosporidium, Enterococci, E. coli",07/02/2024,835.53
+be5ecfc6-1fad-4513-bc63-d1dc1138eef7,10/27/2024,5,Microbiology,"Total Coliforms, Pseudomonas aeruginosa, Enterococci, Giardia, Fecal Streptococci",11/03/2024,660.87
+629c4a74-6483-452b-b710-80be206bb1eb,12/16/2023,2,Microbiology,"E. coli, Enterococci",12/29/2023,430.86
+f9a29f90-2e51-4aa2-b309-dd03f83a2d69,03/02/2025,5,Chemistry,"Phosphate, Nitrate, Hardness, Sulfate, Turbidity",03/26/2025,1265.68
+aefe5db0-6989-442c-8706-15cdc2c7c7d1,01/25/2025,5,Chemistry,"Chloride, Alkalinity, Nitrate, Hardness, Heavy Metals",01/30/2025,902.95
+841b3709-128d-4b4b-a432-3961b1129397,03/06/2023,1,Microbiology,Giardia,03/12/2023,139.39
+c6431cf3-8bfa-48cb-90a2-17066b86f2fe,07/22/2023,8,Microbiology,"E. coli, Giardia, Cryptosporidium, Total Coliforms, Enterococci, Pseudomonas aeruginosa, Heterotrophic Plate Count, Fecal Streptococci",NaN,2234.42
+7803e5a0-8d7e-4278-9a18-a7ff16e55a41,03/26/2024,5,Microbiology,"Fecal Streptococci, Pseudomonas aeruginosa, Heterotrophic Plate Count, Enterococci, Clostridium perfringens",04/04/2024,1397.47
+6f41b1a1-1a9c-4233-904e-85d93a23244b,08/16/2023,1,Microbiology,Fecal Streptococci,08/31/2023,186.01
+195ada78-1bf5-4278-8943-1362076208f3,12/10/2024,6,Microbiology,"Cryptosporidium, Giardia, Clostridium perfringens, E. coli, Pseudomonas aeruginosa, Legionella",01/03/2025,532.42
+2a90d777-9545-4e5a-921b-bed54841a942,06/06/2024,10,Microbiology,"Giardia, Heterotrophic Plate Count, Enterococci, Fecal Streptococci, Legionella, Clostridium perfringens, Cryptosporidium, E. coli, Pseudomonas aeruginosa, Total Coliforms",06/12/2024,2509.91
+e3d94014-a298-408c-8917-dad096583096,08/11/2024,3,Chemistry,"Phosphate, pH, TOC",08/27/2024,810.49
+9926a542-8bb1-4c98-88de-873eb685e5cf,10/26/2024,8,Microbiology,"Heterotrophic Plate Count, Total Coliforms, Cryptosporidium, Pseudomonas aeruginosa, E. coli, Clostridium perfringens, Fecal Streptococci, Enterococci",11/14/2024,NaN
+7e6daf58-f9e8-4d0e-bd4d-cfe740d92bb7,08/07/2024,9,Microbiology,"Pseudomonas aeruginosa, Heterotrophic Plate Count, Cryptosporidium, Giardia, E. coli, Clostridium perfringens, Total Coliforms, Legionella, Enterococci",09/05/2024,2009.83
+fecc2598-0f9d-414f-9e05-6d1d23b53b58,12/25/2023,2,Chemistry,NaN,01/24/2024,NaN
+f3508336-b8f0-43a4-b22c-996026e27ee0,07/30/2023,7,Microbiology,"Clostridium perfringens, Cryptosporidium, Total Coliforms, Legionella, E. coli, Fecal Streptococci, Pseudomonas aeruginosa",08/19/2023,1755.62
+038c54b9-5e71-45dd-b4ca-0d626d4470d3,03/31/2024,6,Microbiology,"Heterotrophic Plate Count, Giardia, Fecal Streptococci, Clostridium perfringens, Total Coliforms, E. coli",04/30/2024,745.87
+d981ccd9-6240-4039-b7a2-6130bfc034e2,03/13/2024,5,Microbiology,"Legionella, Heterotrophic Plate Count, Pseudomonas aeruginosa, Clostridium perfringens, Total Coliforms",04/07/2024,533.46
+9767bead-b49a-4523-bc3d-793aef29354f,08/28/2024,9,Microbiology,"Enterococci, Fecal Streptococci, Cryptosporidium, E. coli, Giardia, Total Coliforms, Heterotrophic Plate Count, Pseudomonas aeruginosa, Clostridium perfringens",NaN,1721.0
+310d71da-672a-472b-8769-67bc67f13460,05/01/2023,8,Chemistry,"Heavy Metals, pH, Phosphate, Chloride, Alkalinity, Turbidity, TOC, Nitrate",05/15/2023,852.81
+a803d60c-3cf6-4120-bbeb-105677bf5f3a,09/25/2024,1,Microbiology,Enterococci,10/06/2024,280.54
+9dab98aa-093e-4e0f-b1c1-d4368d3e6c02,09/25/2024,7,Microbiology,"E. coli, Legionella, Cryptosporidium, Fecal Streptococci, Pseudomonas aeruginosa, Total Coliforms, Giardia",10/16/2024,1525.55
+1cbb709f-28b7-42a0-9c2e-b3c33948a1b9,02/28/2023,6,Chemistry,"TOC, Sulfate, Alkalinity, Heavy Metals, pH, Nitrate",03/17/2023,NaN
+8f253a69-06f6-480e-b7fc-a8b05878aa56,05/19/2023,10,Chemistry,"Chloride, Alkalinity, Heavy Metals, Turbidity, TOC, Hardness, Nitrate, Sulfate, pH, Phosphate",06/08/2023,2872.3
+38e58a64-65df-4b9e-8f42-9dd9f4c1f397,06/13/2024,8,Microbiology,"Giardia, Total Coliforms, Clostridium perfringens, E. coli, Cryptosporidium, Enterococci, Legionella, Fecal Streptococci",07/10/2024,1116.34
+a504b29e-a603-4f29-a930-7c4f03ebf7dd,10/15/2024,4,Chemistry,"Turbidity, Hardness, Heavy Metals, Nitrate",10.24.2024,472.08
+82d38aa1-0bf8-425d-9bb2-c326d5561784,09/25/2023,7,Microbiology,"Clostridium perfringens, Cryptosporidium, Pseudomonas aeruginosa, Heterotrophic Plate Count, Giardia, Fecal Streptococci, Legionella",10/13/2023,888.67
+22113da0-da55-4c8c-b405-426b05858997,02/23/2024,8,Microbiology,"E. coli, Legionella, Clostridium perfringens, Giardia, Fecal Streptococci, Cryptosporidium, Enterococci, Pseudomonas aeruginosa",NaN,1978.47
+5773c32e-f006-4383-ad21-dabb948c6d02,03/25/2025,7,Microbiology,"E. coli, Heterotrophic Plate Count, Enterococci, Cryptosporidium, Giardia, Fecal Streptococci, Clostridium perfringens",04/22/2025,783.88
+2c440556-3e62-42a2-9ad9-891190686cea,02/25/2025,6,Microbiology,"E. coli, Enterococci, Heterotrophic Plate Count, Giardia, Pseudomonas aeruginosa, Clostridium perfringens",03/24/2025,1284.01
+4c2fdbcd-73c9-4082-bf14-a91ffe7c5d23,12/27/2023,9,Chemistry,"pH, Chloride, Hardness, TOC, Nitrate, Sulfate, Turbidity, Phosphate, Heavy Metals",01/26/2024,1300.82
+94b943cf-6321-4500-85d6-dc33aa4cf4d7,12/31/2023,6,Microbiology,"Cryptosporidium, E. coli, Fecal Streptococci, Giardia, Pseudomonas aeruginosa, Total Coliforms",NaN,1211.36
+01bd6ca7-d3b1-4278-a58a-58e594346527,12/20/2024,8,Chemistry,NaN,12/25/2024,2256.36
+957ee4d8-e0b1-4d3e-9b52-dae75b8c1124,05/09/2024,10,Chemistry,"TOC, Phosphate, pH, Turbidity, Chloride, Heavy Metals, Sulfate, Nitrate, Alkalinity, Hardness",05/13/2024,2145.99
+85303c1c-a8a2-4795-b3be-8792f82fa37f,10/07/2024,10,Chemistry,"Sulfate, Phosphate, Heavy Metals, Nitrate, Chloride, Hardness, Turbidity, pH, Alkalinity, TOC",10/23/2024,1724.68
+23c97ccb-9917-4942-aee5-d5f0de862b79,03/07/2024,9,Chemistry,"Alkalinity, Phosphate, Nitrate, pH, TOC, Turbidity, Chloride, Hardness, Sulfate",04/02/2024,5000
+beeabf6b-134f-420a-ab75-36b395f597c8,08/04/2023,6,Chemistry,"Nitrate, Chloride, Sulfate, Alkalinity, Heavy Metals, Hardness",08/22/2023,779.85
+8f6c01f7-d02d-4695-874a-6398608d3bda,03/01/2024,10,Chemistry,"Chloride, Nitrate, Alkalinity, TOC, pH, Hardness, Sulfate, Heavy Metals, Turbidity, Phosphate",03/08/2024,1499.86
+eb586b68-b498-4892-8b66-0ca9a7189acb,08/25/2023,5,Chemistry,"Phosphate, Heavy Metals, Nitrate, Hardness, pH",09/06/2023,1219.11
+b36e2727-57c9-42f0-9683-9a9709683388,01/19/2024,4,Chemistry,"Heavy Metals, TOC, Phosphate, Chloride",01/29/2024,1049.23
+e82b3220-9cf7-426e-9569-d4df9d1de265,12/11/2024,3,Microbiology,NaN,12/30/2024,763.93
+c2cb5f9a-ff3f-417f-a141-7c200c78eecc,04/01/2025,2,Chemistry,"Heavy Metals, Hardness",04/26/2025,340.86
+20b1584d-357e-482a-a37d-9f14120519d1,05/18/2023,8,Microbiology,"Pseudomonas aeruginosa, Legionella, Total Coliforms, Clostridium perfringens, Enterococci, Heterotrophic Plate Count, E. coli, Giardia",06/16/2023,1524.77
+89fcc219-217a-4bcc-95c4-260e5e5a9cc1,07/14/2023,3,Chemistry,NaN,08/01/2023,579.97
+924dc605-cd55-4052-adc4-c35cb5a6a12d,12/25/2024,1,Microbiology,Clostridium perfringens,01/21/2025,90.15
+5a5ec016-ec0e-4a50-a42f-cfb34658becd,04/30/2023,5,Chemistry,"Chloride, pH, Hardness, Nitrate, Sulfate",05/06/2023,1027.02
+fff207ed-bcea-4499-b2c1-2f1a3f71ffd2,10/29/2024,10,Microbiology,"Fecal Streptococci, Pseudomonas aeruginosa, Clostridium perfringens, E. coli, Heterotrophic Plate Count, Giardia, Cryptosporidium, Enterococci, Total Coliforms, Legionella",11/12/2024,2277.54
+5b8982bf-5d2b-40d1-9001-aecf2c18b9ab,04/01/2024,9,Microbiology,"Legionella, Fecal Streptococci, Clostridium perfringens, Total Coliforms, Pseudomonas aeruginosa, Heterotrophic Plate Count, Giardia, Enterococci, Cryptosporidium",04/12/2024,1843.82
+47c74ebf-15bf-4467-b2af-0c45d5353a7a,11/10/2024,10,Microbiology,"Fecal Streptococci, Clostridium perfringens, Pseudomonas aeruginosa, E. coli, Legionella, Enterococci, Heterotrophic Plate Count, Giardia, Total Coliforms, Cryptosporidium",11/22/2024,1354.84
+52b92831-e4ea-42f5-8ed7-f61399dfdacc,05/19/2024,2,Microbiology,"Clostridium perfringens, Enterococci",06/08/2024,591.94
+1dd3eec3-90b6-43ef-abda-242d2b4fc4cc,02/05/2024,5,Chemistry,"Chloride, Alkalinity, Nitrate, pH, Hardness",02.09.2024,1460.18
+a8338e40-d38a-4941-a954-bb627b2c508d,09/18/2023,9,Microbiology,"Cryptosporidium, Enterococci, Total Coliforms, E. coli, Legionella, Heterotrophic Plate Count, Clostridium perfringens, Pseudomonas aeruginosa, Giardia",09/25/2023,1174.57
+3ce31b49-5c79-4dd5-8142-025ec07f4ec2,10/17/2023,1,Chemistry,Turbidity,10/21/2023,10000
+d7a9a874-524d-4d34-a814-8f12976b41f4,11/19/2023,4,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, Legionella, Giardia",12/19/2023,1145.32
+1b89800d-238d-473f-bf57-1abc1b60209f,12/12/2024,3,Chemistry,"Sulfate, Alkalinity, Nitrate",12/31/2024,816.48
+b722aac1-f6b9-4a61-afcd-b12e34d361bf,02/05/2025,9,Microbiology,"Heterotrophic Plate Count, Fecal Streptococci, E. coli, Enterococci, Cryptosporidium, Pseudomonas aeruginosa, Clostridium perfringens, Giardia, Total Coliforms",23-02-2025,1423.53
+ed571542-8698-49d8-b480-f6838764db0b,10/12/2023,7,Chemistry,"Heavy Metals, Sulfate, Chloride, Turbidity, TOC, Hardness, Phosphate",10/20/2023,564.29
+fdc8476e-6d2b-4e9c-86e8-df708b6646e8,12/14/2023,3,Chemistry,NaN,12/25/2023,285.41
+877b4559-9c96-457e-b100-e4c181e06a24,06/18/2024,5,Microbiology,"Clostridium perfringens, Giardia, Enterococci, Heterotrophic Plate Count, Fecal Streptococci",06/21/2024,1448.44
+ef216e9d-cf32-4802-ac7d-ec92cf1c8a35,06/15/2024,7,Chemistry,"pH, Chloride, TOC, Turbidity, Alkalinity, Nitrate, Hardness",06/20/2024,1919.16
+287b3741-0cd6-4e95-82a5-072ce4966e50,10/30/2023,2,Microbiology,"E. coli, Clostridium perfringens",11/14/2023,339.83
+e5301746-9f48-4fdf-aecc-cb48cc7b1c6d,01/11/2025,8,Chemistry,NaN,02/10/2025,1457.84
+361a07ea-8804-4400-8a5e-41784cefbdea,01/21/2023,8,Microbiology,NaN,01/27/2023,1921.22
+f6363ea0-a0a6-4ddf-961d-eb4edccab8bf,03/14/2024,2,Chemistry,"Hardness, Phosphate",03/31/2024,393.41
+4b8cef50-919f-4b1f-8974-d527e55e2574,10/11/2023,9,Chemistry,"Phosphate, Chloride, Hardness, Turbidity, Heavy Metals, Nitrate, TOC, Sulfate, pH",11/05/2023,2691.1
+836b29d9-c71d-46bf-9a54-9e5ad7a8c699,08/11/2024,4,Chemistry,"Heavy Metals, Nitrate, pH, Turbidity",NaN,1037.51
+14105aa4-21ab-44b2-a180-1793808ef9ce,11/21/2023,4,Microbiology,NaN,11/29/2023,731.8
+7eb468ac-af98-4868-a8a6-31394c0db3ef,07/01/2023,9,Microbiology,"Fecal Streptococci, Clostridium perfringens, Enterococci, Heterotrophic Plate Count, Cryptosporidium, Pseudomonas aeruginosa, Giardia, Legionella, Total Coliforms",07/06/2023,2484.89
+a1421495-dd63-4ed2-9328-ad7e3ef12879,03/01/2023,6,Microbiology,"E. coli, Total Coliforms, Cryptosporidium, Fecal Streptococci, Pseudomonas aeruginosa, Heterotrophic Plate Count",03/07/2023,538.05
+4b55a5d8-3c15-40e9-80e9-19e5e587982a,03/07/2025,10,Microbiology,"Cryptosporidium, Giardia, Total Coliforms, E. coli, Pseudomonas aeruginosa, Heterotrophic Plate Count, Clostridium perfringens, Fecal Streptococci, Legionella, Enterococci",03/16/2025,1912.85
+4549deca-e98a-4574-96e9-607ef21f1f18,04/04/2025,9,Chemistry,"Phosphate, Alkalinity, Heavy Metals, TOC, Turbidity, Chloride, Sulfate, pH, Nitrate",04/15/2025,1150.39
+c2d3f86c-9b8c-4455-80b8-9f17ff8411eb,02/10/2023,4,Chemistry,"Hardness, Nitrate, Sulfate, Phosphate",02/13/2023,10
+f3d4c597-0d4e-4381-87d2-437968a48901,01/18/2025,10,Chemistry,"Hardness, Heavy Metals, Phosphate, Turbidity, TOC, Chloride, Alkalinity, pH, Nitrate, Sulfate",02/17/2025,2557.65
+6e0c169a-a77a-4f5b-a32f-69c5b3c64f78,12/20/2024,5,Microbiology,"E. coli, Enterococci, Pseudomonas aeruginosa, Heterotrophic Plate Count, Legionella",12/31/2024,658.93
+949bbdc3-300d-4658-ad2a-1bfbc52d23ea,12/04/2023,10,Chemistry,"Hardness, Heavy Metals, Sulfate, Alkalinity, TOC, Turbidity, Phosphate, Chloride, pH, Nitrate",12/17/2023,2394.38
+98423a81-0547-410f-98d8-0345ea2fe202,07/04/2024,4,Microbiology,NaN,07/25/2024,526.8
+dd2dc4b3-6f89-4018-b623-a12d598ffddb,08/04/2023,10,Microbiology,"Heterotrophic Plate Count, Clostridium perfringens, E. coli, Giardia, Fecal Streptococci, Enterococci, Pseudomonas aeruginosa, Cryptosporidium, Legionella, Total Coliforms",NaN,NaN
+54fd8089-62a7-4140-8bc9-f71be4d8bb2c,12/08/2024,9,Chemistry,"TOC, Chloride, Sulfate, Hardness, pH, Alkalinity, Heavy Metals, Phosphate, Turbidity",01/03/2025,1054.7
+48bbc0d1-2c17-48b5-b300-39824dfb2f6c,10/15/2023,9,Microbiology,"E. coli, Legionella, Heterotrophic Plate Count, Enterococci, Clostridium perfringens, Total Coliforms, Fecal Streptococci, Pseudomonas aeruginosa, Cryptosporidium",10/21/2023,1852.89
+aca93223-1bee-4a3b-a8a5-9ac910c04a19,01/14/2024,6,Microbiology,"Fecal Streptococci, Enterococci, Heterotrophic Plate Count, Clostridium perfringens, E. coli, Giardia",01/30/2024,1393.11
+62d16b68-e489-4ac1-980c-66c40f31894c,02/02/2025,3,Microbiology,"Giardia, Heterotrophic Plate Count, Cryptosporidium",02/15/2025,739.13
+603c6ec2-ec60-49c2-acb3-93e2e9f652fa,12/22/2024,4,Microbiology,"Cryptosporidium, Total Coliforms, E. coli, Giardia",01/17/2025,464.65
+f3284aec-e39e-4c38-98fc-0e6568304b44,27-02-2024,5,Microbiology,"Fecal Streptococci, Pseudomonas aeruginosa, E. coli, Heterotrophic Plate Count, Clostridium perfringens",03/22/2024,1463.11
+36f07660-5c64-4b53-af99-e26b60f7ff17,09/19/2024,1,Microbiology,Legionella,10/07/2024,222.59
+bcd2ca6a-929d-4421-8255-bb4359b38040,05/10/2023,2,Chemistry,"Alkalinity, Hardness",05/23/2023,516.19
+3f8c2c64-1005-4d06-a507-bc32ec9880d3,03/24/2024,6,Microbiology,NaN,04/20/2024,616.26
+e3692105-9001-4735-8f15-d25666d24831,04/11/2025,10,Microbiology,"Pseudomonas aeruginosa, Fecal Streptococci, Clostridium perfringens, Enterococci, Heterotrophic Plate Count, Legionella, Cryptosporidium, E. coli, Giardia, Total Coliforms",04/28/2025,2358.38
+d7b944a8-42bf-41c6-83b6-24a0304907bf,06/14/2024,5,Microbiology,"Total Coliforms, Legionella, E. coli, Fecal Streptococci, Clostridium perfringens",07/07/2024,462.01
+9976dee1-767d-4390-b190-bf6c884e8a77,01/04/2025,1,Chemistry,pH,01/26/2025,235.81
+3639516b-8d7e-41bf-a9d6-30a5b260b753,07/15/2023,7,Microbiology,"Enterococci, Fecal Streptococci, Legionella, E. coli, Cryptosporidium, Total Coliforms, Heterotrophic Plate Count",08/12/2023,1034.57
+5626e7da-1eeb-476e-8271-73c7c7ae376d,07/02/2024,8,Microbiology,"Clostridium perfringens, Fecal Streptococci, Giardia, E. coli, Cryptosporidium, Total Coliforms, Pseudomonas aeruginosa, Legionella",07/08/2024,NaN
+5702f70a-eff1-4b80-b777-32bb2969061b,11/30/2024,3,Microbiology,"Legionella, Total Coliforms, Fecal Streptococci",12/11/2024,736.3
+9dde1e21-a5e1-41d6-9ef2-17a91e03f39b,04/05/2024,3,Microbiology,"E. coli, Fecal Streptococci, Clostridium perfringens",04/14/2024,557.12
+5cb050e6-8cb5-49e2-800b-8fc67044dade,02/20/2024,6,Chemistry,"Phosphate, Alkalinity, pH, Nitrate, Sulfate, Hardness",02/24/2024,1281.41
+187cda05-df7a-42e6-a7cf-7f62f96077e7,07/28/2023,6,Microbiology,NaN,08/07/2023,1169.03
+143f8fe7-a678-4fed-a3c2-75972d74bc19,04/15/2025,5,Chemistry,"TOC, pH, Sulfate, Phosphate, Chloride",04/28/2025,1200.35
+06762a6a-cb48-46f2-b590-53a8c0e2b677,05/02/2023,10,Microbiology,"Fecal Streptococci, Enterococci, Cryptosporidium, E. coli, Giardia, Pseudomonas aeruginosa, Legionella, Heterotrophic Plate Count, Clostridium perfringens, Total Coliforms",05/06/2023,1427.59
+e7442c68-52e3-4b7a-b518-dee24ae5a1de,01/09/2023,9,Microbiology,"Heterotrophic Plate Count, Cryptosporidium, Clostridium perfringens, Giardia, Pseudomonas aeruginosa, Enterococci, Fecal Streptococci, E. coli, Total Coliforms",02/08/2023,918.38
+bea05aa6-c700-4853-9e97-0fbe11d15609,08/30/2023,4,Chemistry,"Chloride, Alkalinity, Heavy Metals, Nitrate",09/27/2023,522.84
+7203363f-91cf-421b-8d83-27b50bc7447d,04/18/2024,1,Microbiology,Giardia,04/22/2024,216.87
+19b1d8bf-536a-439d-a37e-534667107c27,08/12/2023,8,Chemistry,"Hardness, Phosphate, pH, Chloride, Alkalinity, Nitrate, Sulfate, TOC",08/24/2023,977.43
+4d305d8a-9863-4234-bb7c-a7cf8ab0ff8f,06/30/2024,6,Chemistry,"Turbidity, Nitrate, Phosphate, Chloride, TOC, pH",07/05/2024,865.98
+67c5ffb0-24f8-41b2-ab4a-716d8ed9e877,12/26/2023,10,Chemistry,"Nitrate, Heavy Metals, Hardness, Sulfate, Chloride, Turbidity, Phosphate, Alkalinity, pH, TOC",01/18/2024,2830.05
+732bbfe3-557d-44f7-b19c-fbd372596cc7,12/22/2024,2,Chemistry,"Heavy Metals, Sulfate",01/17/2025,432.18
+43884e38-92c4-4c6d-9b21-41ba8a36f9e1,03/19/2025,10,Chemistry,"Alkalinity, Nitrate, Sulfate, pH, Chloride, Turbidity, Phosphate, TOC, Heavy Metals, Hardness",03/24/2025,2981.32
+1aa36e27-8718-4d1a-8abf-d2f98b48ac1e,10/10/2023,1,Microbiology,E. coli,10/13/2023,125.85
+1e16a102-7a34-4ab7-ad19-39eab44b9243,11/12/2023,8,Microbiology,"Enterococci, E. coli, Total Coliforms, Fecal Streptococci, Clostridium perfringens, Pseudomonas aeruginosa, Cryptosporidium, Heterotrophic Plate Count",11/26/2023,1074.47
+edff6de2-efce-4f55-bb96-49501e952e5b,06/17/2024,10,Chemistry,"Sulfate, Chloride, Turbidity, Phosphate, Hardness, Alkalinity, pH, Nitrate, Heavy Metals, TOC",07/15/2024,1528.04
+5a29ee3c-3edf-45ab-a732-bb9f7e483953,07/22/2024,2,Chemistry,"Heavy Metals, Chloride",08/15/2024,308.65
+64fcf713-de4c-4e7d-9402-cf14afefca88,09/09/2023,1,Chemistry,Turbidity,09/17/2023,278.98
+1bfcd0d8-a983-4e38-869d-ac794adb94d1,10/10/2024,3,Chemistry,"Turbidity, TOC, Hardness",10/13/2024,561.69
+a40bf632-0ded-4436-8176-ad4802952a68,03/28/2023,8,Microbiology,"Pseudomonas aeruginosa, Heterotrophic Plate Count, Legionella, Total Coliforms, Cryptosporidium, Enterococci, Clostridium perfringens, E. coli",04/04/2023,2120.65
+7d2e2bac-e2fd-4a9f-91c7-2f56720c8c47,01/06/2023,7,Microbiology,"E. coli, Pseudomonas aeruginosa, Cryptosporidium, Total Coliforms, Legionella, Clostridium perfringens, Heterotrophic Plate Count",01/21/2023,907.08
+d04b55ac-6a13-4a31-ab88-2b18b1b28cc4,06/14/2023,2,Chemistry,"Hardness, pH",07/02/2023,504.41
+9c051f06-ea87-410d-a9a0-b16edcfdafda,07/22/2023,10,Chemistry,"Sulfate, pH, TOC, Hardness, Chloride, Alkalinity, Nitrate, Turbidity, Heavy Metals, Phosphate",08/06/2023,NaN
+15113f6b-e35e-402f-9f83-c6b163216461,04/04/2025,6,Chemistry,NaN,04/25/2025,1489.32
+620c5f26-f1e7-4e77-941f-b8f993a3488e,09/04/2024,7,Microbiology,"E. coli, Total Coliforms, Cryptosporidium, Enterococci, Legionella, Clostridium perfringens, Pseudomonas aeruginosa",09/10/2024,1308.76
+4d14eda1-e858-4e25-92b6-3599d05d4f96,05/27/2024,10,Chemistry,"TOC, Sulfate, Hardness, Nitrate, Alkalinity, Turbidity, Phosphate, Chloride, Heavy Metals, pH",06/17/2024,1363.5
+fe9da1ee-5854-42d1-9bd1-9f3e032d462a,05/25/2023,1,Chemistry,Chloride,06/23/2023,124.04
+baf353e7-66a1-400d-ae62-56114e74474b,05/16/2024,10,Microbiology,"Cryptosporidium, Fecal Streptococci, E. coli, Total Coliforms, Enterococci, Legionella, Pseudomonas aeruginosa, Giardia, Heterotrophic Plate Count, Clostridium perfringens",06/04/2024,2976.36
+53d07a63-cad8-4396-9915-a354c754e56e,11/27/2024,5,Microbio,NaN,12/20/2024,1112.77
+66ae2b5d-b5bb-45f5-9a7a-734b3eb999b0,01/09/2023,2,Microbiology,"Clostridium perfringens, Giardia",01/26/2023,239.34
+eabad6db-589b-4be6-b1f4-aa263bb8eea6,05/12/2024,8,Chemistry,"Nitrate, TOC, Sulfate, Phosphate, pH, Chloride, Turbidity, Alkalinity",06/11/2024,2369.76
+9dd0a61e-a804-422c-ba30-a81cc7869c54,02/18/2025,4,Microbiology,"Heterotrophic Plate Count, Pseudomonas aeruginosa, Fecal Streptococci, Enterococci",03/14/2025,592.83
+829dacb5-da8e-48ea-a0c3-3280d66c0095,09/28/2023,5,Microbiology,"Cryptosporidium, Giardia, Legionella, Fecal Streptococci, Total Coliforms",10/16/2023,NaN
+4aea790e-142f-4565-aa5c-1f3aa965aff3,03/16/2023,4,Chemistry,"Hardness, Nitrate, Alkalinity, Chloride",04/05/2023,454.97
+08a53f7e-fc3e-4c95-9ac9-1c9679d27335,02/17/2023,8,Microbiology,"Clostridium perfringens, Legionella, E. coli, Fecal Streptococci, Pseudomonas aeruginosa, Giardia, Total Coliforms, Cryptosporidium",03/10/2023,1171.18
+b41bc4a9-2fb8-4f0e-9f16-b2235f199fb9,06/30/2024,6,Chemistry,"TOC, Hardness, Chloride, Phosphate, Sulfate, Turbidity",07/06/2024,820.44
+772f5231-b210-4976-b10d-a5437abe869f,12/21/2023,8,Microbiology,"Heterotrophic Plate Count, E. coli, Total Coliforms, Giardia, Cryptosporidium, Fecal Streptococci, Clostridium perfringens, Pseudomonas aeruginosa",01/20/2024,1841.68
+da073597-654e-46bb-9783-624627428a14,08/01/2024,9,Chemistry,"Phosphate, Sulfate, Turbidity, Nitrate, Heavy Metals, Alkalinity, Chloride, pH, Hardness",08/14/2024,2368.74
+71d68ba3-43fb-4271-9e50-1cec615abb64,03/05/2023,4,Chemistry,"TOC, Hardness, Sulfate, Chloride",04/04/2023,575.2
+05876dc7-820f-4614-8253-306423c99289,03/29/2025,5,Chemistry,"Hardness, Heavy Metals, Nitrate, Alkalinity, TOC",04/06/2025,NaN
+df1eeb21-eb9d-484c-8f68-62dcac520133,02/14/2023,10,Chemistry,"Alkalinity, Sulfate, TOC, Phosphate, pH, Turbidity, Chloride, Hardness, Heavy Metals, Nitrate",02/19/2023,2251.87
+7f93b3ac-adfc-4601-b029-b04f664900f0,07/19/2024,1,Microbiology,NaN,08/10/2024,186.6
+e6f37276-bc25-4ec9-b358-53c8f87fa62b,01/31/2025,1,Microbiology,NaN,02/14/2025,NaN
+ae2f8155-7e90-4e67-9e96-83159996e559,06/20/2023,9,Chemistry,"Sulfate, Alkalinity, Chloride, Heavy Metals, Nitrate, Phosphate, TOC, Hardness, pH",07/13/2023,1575.66
+bcfecbfd-6b4f-4004-9fbe-56639904fc55,07/20/2023,3,Chemistry,"Sulfate, Hardness, Heavy Metals",08/03/2023,666.14
+291afe3f-93e1-40a6-89f8-6dcff4a4a75a,10/13/2024,8,Chemistry,"pH, Sulfate, Nitrate, Hardness, Alkalinity, Phosphate, Turbidity, Chloride",11/03/2024,1545.58
+4984df63-1fbc-4af3-80e3-1c60b4896381,12/29/2024,4,Microbiology,"Pseudomonas aeruginosa, Fecal Streptococci, Giardia, Total Coliforms",01/13/2025,354.38
+c5aea929-b777-455a-a479-d020d8ec438e,06/24/2024,9,Microbiology,"Heterotrophic Plate Count, Fecal Streptococci, Total Coliforms, Clostridium perfringens, Giardia, Legionella, Enterococci, Pseudomonas aeruginosa, E. coli",07/17/2024,1482.53
+bf90e6a3-e22e-494a-a2c3-fd1f8b71769c,01/02/2024,1,Microbiology,E. coli,01/27/2024,158.37
+ab6e35ec-aa22-457c-8c10-8314125af774,02/04/2023,5,Microbiology,"Giardia, Heterotrophic Plate Count, E. coli, Fecal Streptococci, Enterococci",02/27/2023,1409.67
+bdf9c22e-cd2c-41f5-b4c6-320574a9a88d,05/27/2024,9,Microbiology,"Heterotrophic Plate Count, Pseudomonas aeruginosa, Fecal Streptococci, Legionella, Enterococci, Cryptosporidium, Clostridium perfringens, E. coli, Total Coliforms",06/03/2024,1938.94
+6c9828e1-0f48-40d4-9b66-dafc2d5db1be,02/21/2024,7,Microbiology,"Heterotrophic Plate Count, Legionella, Clostridium perfringens, Enterococci, Giardia, Fecal Streptococci, Total Coliforms",03/06/2024,1979.72
+38260ce0-ec44-40ce-896f-bd7b0c93b5f3,07/30/2023,10,Chemistry,"Alkalinity, Nitrate, Heavy Metals, Hardness, pH, Phosphate, Chloride, Sulfate, Turbidity, TOC",08/22/2023,2062.0
+3aa38e71-e0b2-4bb3-b4aa-ffca41eaa203,09/04/2023,10,Chemistry,"TOC, pH, Heavy Metals, Alkalinity, Sulfate, Hardness, Chloride, Turbidity, Phosphate, Nitrate",10/03/2023,1020.73
+de19d3ee-49cd-40ab-a3ac-f5e56cb94502,02/14/2023,9,Microbiology,"Cryptosporidium, E. coli, Pseudomonas aeruginosa, Enterococci, Fecal Streptococci, Heterotrophic Plate Count, Clostridium perfringens, Giardia, Legionella",03/14/2023,2485.24
+4dab66b6-0d01-4b38-a09c-0ee8bb59384b,09/11/2024,5,Microbiology,"Enterococci, Legionella, Total Coliforms, Heterotrophic Plate Count, Pseudomonas aeruginosa",09/18/2024,941.63
+348e973a-f9db-4363-853c-45232f6689ba,04/27/2024,10,Chemistry,"Sulfate, Turbidity, Heavy Metals, pH, Nitrate, Chloride, TOC, Alkalinity, Hardness, Phosphate",05/18/2024,2847.71
+afd7eab9-b105-4f1c-b316-2e56f2741e60,03/11/2023,7,Microbiology,"Heterotrophic Plate Count, E. coli, Giardia, Total Coliforms, Cryptosporidium, Fecal Streptococci, Legionella",04/05/2023,637.73
+03fbd36c-3f5e-4c6a-9a4a-e08f3d6404b7,10/07/2023,10,Microbiology,"Legionella, E. coli, Clostridium perfringens, Pseudomonas aeruginosa, Enterococci, Fecal Streptococci, Cryptosporidium, Heterotrophic Plate Count, Total Coliforms, Giardia",10/12/2023,1822.42
+b3476eda-444c-43d5-b971-44d17e9dd6d2,04/13/2024,4,Microbiology,"E. coli, Pseudomonas aeruginosa, Total Coliforms, Enterococci",04/20/2024,887.42
+2b4e5d53-fd28-4c76-a44e-ec2a829a0174,06/21/2023,1,Chemistry,Phosphate,07/20/2023,284.34
+d7209230-7ec4-42b3-bf75-96a7706247b8,04/06/2023,5,Chemistry,"Sulfate, Nitrate, Heavy Metals, Alkalinity, Chloride",NaN,758.32
+b4bb097f-c8c7-4f9f-a57d-8b7387b278fa,08/09/2024,9,Microbiology,"Legionella, Fecal Streptococci, Giardia, Heterotrophic Plate Count, Clostridium perfringens, Total Coliforms, Enterococci, Pseudomonas aeruginosa, E. coli",08/20/2024,1018.83
+fe0cd10a-80b5-44c7-819e-8f842ce6eb30,07/02/2024,6,Chemistry,"Turbidity, Alkalinity, Sulfate, Chloride, TOC, Nitrate",07/19/2024,1017.85
+e282312a-fdc9-4842-9f17-2ed9adca2bee,01/07/2024,6,Microbiology,"Heterotrophic Plate Count, Clostridium perfringens, E. coli, Fecal Streptococci, Enterococci, Pseudomonas aeruginosa",01/30/2024,488.62
+8a614a33-0153-4e8c-9e42-0297d87e3680,11/16/2024,10,Microbiology,"Giardia, Legionella, Heterotrophic Plate Count, Clostridium perfringens, Enterococci, E. coli, Fecal Streptococci, Pseudomonas aeruginosa, Cryptosporidium, Total Coliforms",11/19/2024,2818.19
+843a0e76-b683-4815-99c3-fd0d7d525a61,03/11/2025,5,Microbiology,"Total Coliforms, Enterococci, Giardia, Pseudomonas aeruginosa, E. coli",03/16/2025,1333.76
+1da5253b-d5b4-4936-a307-ab5576fe98c9,06/08/2023,3,Chemistry,"Phosphate, Sulfate, Heavy Metals",06/22/2023,499.59
+cec1265e-948a-44d5-a877-37ebbf59ba69,11/12/2024,8,Chemistry,"Turbidity, Nitrate, pH, Alkalinity, Heavy Metals, Sulfate, TOC, Phosphate",11/24/2024,1936.69
+7adb6f72-e17a-46ca-b529-5c22bf279ec2,09/09/2024,10,Microbiology,"Heterotrophic Plate Count, Enterococci, Clostridium perfringens, Giardia, Cryptosporidium, Fecal Streptococci, Total Coliforms, E. coli, Legionella, Pseudomonas aeruginosa",10/08/2024,1029.83
+43ecbdeb-b0b2-43dd-9298-c2b515e405b6,03/23/2024,7,Microbiology,"E. coli, Cryptosporidium, Total Coliforms, Heterotrophic Plate Count, Legionella, Pseudomonas aeruginosa, Fecal Streptococci",04/17/2024,1814.11
+9834ecfa-3b73-49e1-a71a-9de59da873c7,12/23/2024,3,Chemistry,"Heavy Metals, Nitrate, Turbidity",12/30/2024,779.36
+2d0ccacb-b2f3-42fc-9e6c-73bc37cbb4da,11/16/2023,10,Microbiology,"E. coli, Clostridium perfringens, Pseudomonas aeruginosa, Total Coliforms, Heterotrophic Plate Count, Cryptosporidium, Enterococci, Legionella, Fecal Streptococci, Giardia",NaN,1841.61
+6f235143-fbe8-4dba-b7e7-b56f00e21a32,02/09/2024,5,Microbiology,"E. coli, Heterotrophic Plate Count, Fecal Streptococci, Giardia, Total Coliforms",02/19/2024,1470.35
+c98cde12-186f-4cfe-8c40-4c50c7333c80,01/14/2025,3,Microbiology,"Fecal Streptococci, Total Coliforms, Legionella",02/03/2025,666.26
+c3334bfc-2e3c-425d-8f4a-303faf8c96b2,02/06/2023,4,Chemistry,"Nitrate, Turbidity, TOC, Alkalinity",02/12/2023,344.87
+bbd4e99e-7ef4-4e89-92a5-9bee1e5818a1,10/24/2023,5,Microbiology,"Enterococci, Heterotrophic Plate Count, Cryptosporidium, Pseudomonas aeruginosa, Giardia",11/21/2023,1375.42
+6b4c2d47-08f4-44f1-9e02-26baad08d428,03/31/2023,3,Chemistry,"TOC, Nitrate, Heavy Metals",04/05/2023,NaN
+4d2d970e-dc5f-4cef-ab8e-749dfb5a1603,08/26/2024,3,Chemistry,"Hardness, Alkalinity, Heavy Metals",09/21/2024,806.71
+b565f423-dadf-4d5d-b344-18b6abf7d40c,11/30/2024,2,Chemistry,"Turbidity, Chloride",12/03/2024,570.81
+3e67afb6-0a45-412a-9ab8-e99aa81ff72f,12/12/2024,10,Microbiology,"Total Coliforms, Legionella, Giardia, Cryptosporidium, Enterococci, E. coli, Fecal Streptococci, Heterotrophic Plate Count, Pseudomonas aeruginosa, Clostridium perfringens",12/27/2024,907.03
+f5282b5c-8f22-4486-84c5-c444b84228b1,09/30/2024,4,Chemistry,"Hardness, Turbidity, Heavy Metals, TOC",10/26/2024,929.35
+f413e8f3-923f-4da2-a9e1-166cff4faf39,07/16/2024,4,Microbiology,"Clostridium perfringens, Enterococci, Heterotrophic Plate Count, Fecal Streptococci",07/20/2024,670.02
+0927a3a9-9bab-4d02-9754-da1485b619af,06/25/2023,2,Chemistry,"Sulfate, Chloride",07/18/2023,434.75
+6fc6848d-c46b-4740-886a-fc28bdf5ac3b,06/27/2024,8,Chemistry,"Phosphate, Alkalinity, pH, Turbidity, Nitrate, Sulfate, TOC, Heavy Metals",07/02/2024,999.3
+b5e7b207-af54-4ae8-b7f5-b64ef8bcfd70,12/06/2024,3,Microbiology,"Giardia, Pseudomonas aeruginosa, Fecal Streptococci",NaN,406.56
+9d4585d0-0c09-4be3-87aa-0cbaedeae40c,01/23/2023,7,Microbiology,"Fecal Streptococci, Total Coliforms, Legionella, Pseudomonas aeruginosa, Cryptosporidium, Heterotrophic Plate Count, Clostridium perfringens",01/29/2023,1201.17
+7f4cf9b8-1bb7-4d00-964b-f4aee76a45d6,11/11/2024,3,Microbiology,"Clostridium perfringens, E. coli, Fecal Streptococci",NaN,NaN
+db1318ed-2e5b-4ac2-b3e8-f3ea56c6e3b1,09/01/2023,10,Microbiology,"Pseudomonas aeruginosa, E. coli, Enterococci, Heterotrophic Plate Count, Total Coliforms, Clostridium perfringens, Giardia, Legionella, Cryptosporidium, Fecal Streptococci",09/27/2023,2555.88
+f00d50ed-c5cf-4422-8697-fed2fb5d8352,05/14/2024,4,Microbiology,"Giardia, Pseudomonas aeruginosa, Fecal Streptococci, Clostridium perfringens",05/19/2024,1139.91
+26516224-8dbc-44dc-98e4-ee0ef049a3b5,12/15/2024,2,Microbiology,"Enterococci, Heterotrophic Plate Count",12/22/2024,595.33
+db4bd248-09c8-48e5-8ed4-2e15d02d8a83,12/25/2024,7,Microbiology,"Clostridium perfringens, Enterococci, Cryptosporidium, Fecal Streptococci, Pseudomonas aeruginosa, Heterotrophic Plate Count, E. coli",12/30/2024,1577.45
+2e0ffdff-1834-4c2e-901a-7dd21f427429,10/22/2023,1,Microbiology,Legionella,10/27/2023,NaN
+17abe133-b344-490b-a71b-2d390449eb14,12/13/2023,2,Microbiology,"Heterotrophic Plate Count, Pseudomonas aeruginosa",01/10/2024,NaN
+24d2a6e1-055a-48c4-9f2d-2f708f8af085,03/27/2025,2,Microbiology,"Legionella, Enterococci",04/06/2025,494.18
+b1f1d1c6-0929-44e3-af1d-5c41a4d27153,17-02-2023,2,Chemistry,"Chloride, pH",03/19/2023,266.54
+40b92f89-d556-444a-9ed7-756bf677a69c,02.23.2023,5,Chemistry,"pH, Sulfate, Hardness, Alkalinity, TOC",03/23/2023,1065.99
+f5f86ff6-3836-4b47-b713-eb4484db42c0,10/23/2023,3,Chemistry,"Nitrate, Chloride, Alkalinity",10/27/2023,NaN
+ea46bf32-6175-4e02-9246-138ebc071e20,10/28/2024,7,Microbiology,"E. coli, Heterotrophic Plate Count, Legionella, Cryptosporidium, Fecal Streptococci, Total Coliforms, Clostridium perfringens",11/09/2024,1934.14
+662fd4ea-9480-428a-be5a-48bc4c7cd1b7,09/05/2024,2,Microbiology,"Total Coliforms, Clostridium perfringens",09/14/2024,195.43
+8fb900da-1763-41c6-98bf-dcb32bc3ed9c,03/22/2024,4,Chemistry,"Phosphate, Hardness, pH, Turbidity",2024/04/16,435.54
+b3acfdde-f910-431b-8d54-44d66cf53658,02/14/2023,5,Chemistry,"Heavy Metals, pH, Sulfate, Chloride, Hardness",NaN,579.72
+a6bf6974-5200-4e34-81e7-6f3c6d21a9ef,01/25/2025,1,Microbiology,Fecal Streptococci,02/17/2025,200.99
+9458012f-ca24-4f5a-a388-618dcc90eeed,13-04-2025,2,Chemistry,"Sulfate, Nitrate",05/12/2025,304.65
+45566023-25dc-4e29-ac4b-adb459e3143a,02/19/2025,6,Chemistry,"Turbidity, pH, Hardness, Nitrate, TOC, Sulfate",03/17/2025,574.92
+dfb5ef17-3f2b-454c-945c-babff293250b,07/16/2024,3,Microbiology,"Pseudomonas aeruginosa, Enterococci, Fecal Streptococci",28-07-2024,640.83
+6e55f517-89c2-4061-bf43-5e59b3f21096,05/24/2024,10,Chemistry,"TOC, pH, Chloride, Heavy Metals, Phosphate, Turbidity, Sulfate, Hardness, Alkalinity, Nitrate",06/09/2024,2478.07
+f6ec461a-62ae-4e7a-85ad-f78c76080462,11/25/2023,8,Chemistry,"Turbidity, Phosphate, Sulfate, pH, Hardness, Alkalinity, Heavy Metals, Nitrate",12/08/2023,1707.57
+57067e19-451e-444e-addf-38499805df74,12/17/2023,10,Chemistry,"Heavy Metals, Chloride, Sulfate, Alkalinity, Hardness, Phosphate, pH, Turbidity, Nitrate, TOC",12/23/2023,NaN
+05e1ef13-23e5-416c-8f98-195f13877cac,02/17/2025,10,Microbiology,"Giardia, Legionella, Cryptosporidium, Total Coliforms, Clostridium perfringens, Heterotrophic Plate Count, Enterococci, Pseudomonas aeruginosa, Fecal Streptococci, E. coli",02/21/2025,1239.52
+645f101c-0f67-47c9-babd-8e636b8029ad,05/06/2024,9,Chemistry,"Chloride, Sulfate, Turbidity, pH, Phosphate, Nitrate, TOC, Hardness, Alkalinity",06/04/2024,1443.15
+00484427-b56a-4df2-99a3-fd8dfe991305,12/30/2024,10,Microbiology,"Clostridium perfringens, Total Coliforms, Giardia, Cryptosporidium, Legionella, Enterococci, E. coli, Heterotrophic Plate Count, Pseudomonas aeruginosa, Fecal Streptococci",01/24/2025,NaN
+8316ec70-ddc5-4833-880c-7821a7abfa2a,12/03/2024,6,Chemistry,"TOC, Alkalinity, Hardness, Heavy Metals, Nitrate, Turbidity",01/01/2025,1070.27
+7a448d92-6d3c-4012-8fd3-48558c1a1da0,02/07/2025,8,Microbiology,NaN,NaN,5000
+47f18523-158a-455f-a10f-7c137096daee,09/30/2023,7,Chemistry,"Chloride, Alkalinity, Nitrate, pH, Hardness, Sulfate, TOC",10/17/2023,1389.85
+721adbe4-ae73-48fc-b3bc-c9f8a5a974d8,09/21/2023,1,Microbiology,Legionella,10/02/2023,269.68
+5328b3fe-33b2-45d8-9f68-0dba409fdf01,01/21/2025,9,Microbiology,"E. coli, Cryptosporidium, Pseudomonas aeruginosa, Heterotrophic Plate Count, Total Coliforms, Legionella, Fecal Streptococci, Giardia, Clostridium perfringens",02/09/2025,1336.07
+12d41888-7eae-4b91-843e-e3eff1e10c50,06/30/2023,9,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, Cryptosporidium, Fecal Streptococci, Giardia, Enterococci, Total Coliforms, E. coli, Heterotrophic Plate Count",07/18/2023,1113.81
+b03d5e9e-91d9-4c94-b04d-349cb991a07a,02/26/2024,4,Microbiology,"Legionella, Fecal Streptococci, E. coli, Pseudomonas aeruginosa",03/21/2024,951.18
+b2e4aed2-02db-45b3-81f1-2ae2734ae08d,12/26/2023,4,Microbiology,"Legionella, Giardia, Total Coliforms, E. coli",01/24/2024,559.13
+ac3c16bb-1986-4c44-8bd2-1468e963ad1d,07/07/2024,2,Microbiology,"Cryptosporidium, Total Coliforms",07/26/2024,586.98
+3f35daf8-f970-4bf1-9e00-812a01cac16f,08/20/2023,4,Microbiology,"Enterococci, Pseudomonas aeruginosa, Total Coliforms, Clostridium perfringens",09/18/2023,712.51
+600b82d3-d23d-4f73-8340-ca473d57ad47,09/18/2024,7,Microbiology,"Heterotrophic Plate Count, Clostridium perfringens, Giardia, Cryptosporidium, Pseudomonas aeruginosa, Fecal Streptococci, Total Coliforms",10/01/2024,10000
+f90b04ae-e05f-4564-9d27-2c7ea93f5756,07/02/2024,1,Chemistry,Heavy Metals,07/15/2024,143.5
+ab0c6c49-4369-4318-bd20-14b21d42fb8c,03/15/2025,8,Chemistry,"Heavy Metals, Turbidity, Alkalinity, TOC, Phosphate, Sulfate, Chloride, pH",04/01/2025,2215.68
+bd1841bd-0d95-4ccf-b56f-a71d418f50a2,02/19/2024,6,Microbiology,"Giardia, Cryptosporidium, Clostridium perfringens, Pseudomonas aeruginosa, E. coli, Total Coliforms",03/10/2024,655.17
+e126b6f8-7618-4022-b876-159c5144ec71,01/24/2023,9,Chemistry,"Nitrate, Heavy Metals, Chloride, Phosphate, Alkalinity, Turbidity, Sulfate, Hardness, TOC",01/27/2023,1543.63
+e31e8540-f992-49ab-a98b-02e075a5f941,11.09.2023,2,Microbiology,"Enterococci, Fecal Streptococci",11/20/2023,544.62
+afc129a4-8806-40f9-be36-382ea508d852,03/06/2025,9,Chemistry,"Sulfate, Nitrate, Heavy Metals, Chloride, Phosphate, Turbidity, Hardness, TOC, Alkalinity",04/03/2025,813.21
+8cf36cd2-d03b-4521-919c-6997795f0764,08/28/2024,5,Microbiology,"E. coli, Cryptosporidium, Pseudomonas aeruginosa, Total Coliforms, Enterococci",09/22/2024,1466.29
+1efa413e-ff8b-494f-992a-6b9a0160f261,01/02/2024,5,Chemistry,"Hardness, Alkalinity, TOC, Phosphate, Turbidity",01/19/2024,1488.94
+a16b803c-fe1b-4ee9-be39-e7e5d5e7485f,11/05/2023,7,Chemistry,"Alkalinity, Sulfate, Nitrate, pH, TOC, Hardness, Turbidity",12/01/2023,1430.51
+210e3eaf-e247-4c02-8872-b58f413f3bb2,04/08/2023,4,Chemistry,"Heavy Metals, Chloride, Alkalinity, Nitrate",04/20/2023,1051.55
+1b4f47dc-c6c2-4066-9837-c418b4b71dac,10/26/2024,8,Microbiology,"Legionella, Heterotrophic Plate Count, E. coli, Cryptosporidium, Enterococci, Pseudomonas aeruginosa, Clostridium perfringens, Total Coliforms",11/22/2024,1340.82
+d11f816f-2cef-4ca2-a9e7-134c58057aad,12/20/2024,1,Chemistry,Alkalinity,01/09/2025,272.99
+23b8674a-7bcb-4057-8079-db129be3e554,11/04/2024,8,Chemistry,"Turbidity, Chloride, Sulfate, Hardness, pH, Phosphate, Alkalinity, TOC",12/02/2024,1830.69
+d455a4a5-830c-486d-b0c6-2b9206cf14d8,05/16/2024,4,Chemistry,"Hardness, Sulfate, Phosphate, Chloride",06/10/2024,1088.63
+451c37bd-fd7a-4f37-a4b3-166d6d2b9fe2,10/09/2023,7,Microbiology,"Total Coliforms, Cryptosporidium, Enterococci, Heterotrophic Plate Count, Giardia, Clostridium perfringens, E. coli",10/25/2023,682.67
+89f7261d-8ffd-47f7-9f62-8f5b3347f380,12/21/2023,5,Chemistry,"pH, Nitrate, TOC, Heavy Metals, Hardness",01/04/2024,1409.43
+410da7bf-f4de-4c5d-86d5-72069b587323,05/18/2023,3,Microbiology,"Pseudomonas aeruginosa, Giardia, Heterotrophic Plate Count",05/30/2023,429.02
+f40949f4-08c8-4ee2-89c9-ad2811ccf5a7,01/07/2024,10,Microbiology,"Cryptosporidium, E. coli, Heterotrophic Plate Count, Clostridium perfringens, Enterococci, Giardia, Total Coliforms, Fecal Streptococci, Legionella, Pseudomonas aeruginosa",01/12/2024,1271.24
+8c447609-c3fe-4636-9fc0-e4ca828aa198,08/15/2023,1,Chemistry,Chloride,09/08/2023,165.14
+39601f1a-54c3-4c5d-8d00-2f8a905acec4,01/01/2024,1,Chemistry,pH,01/12/2024,209.29
+b156e2b0-1bcc-41b6-a40c-9d9509cec1c1,10/16/2023,2,Chemistry,"Nitrate, pH",NaN,543.03
+46831400-f511-412b-9ff6-bb6d9e5d8bb0,11/08/2023,8,Chemistry,"Chloride, Hardness, pH, Sulfate, Nitrate, Alkalinity, Turbidity, TOC",11/14/2023,1035.07
+649dac2b-4524-4379-9d0c-4090724fb9d2,12/12/2023,8,Microbiology,"Enterococci, Clostridium perfringens, E. coli, Total Coliforms, Cryptosporidium, Legionella, Fecal Streptococci, Heterotrophic Plate Count",12/29/2023,886.03
+7beb6e40-67c6-44b5-824b-39b76a4e2eb6,02/21/2023,7,Chemistry,"Turbidity, Hardness, pH, Heavy Metals, TOC, Nitrate, Chloride",03/12/2023,1061.66
+25934236-9481-4aea-bba0-1b98fb743275,12/05/2023,7,Chemistry,"Phosphate, Nitrate, pH, TOC, Sulfate, Hardness, Alkalinity",12/08/2023,1335.96
+020e04a7-422b-4302-aeb9-a07ef26700e4,03.27.2024,5,Microbiology,"Cryptosporidium, Fecal Streptococci, E. coli, Legionella, Giardia",04/24/2024,1309.04
+4650912b-5920-4301-a317-a1f5e99603f1,04/10/2025,5,Microbiology,"Enterococci, Cryptosporidium, Fecal Streptococci, Legionella, Heterotrophic Plate Count",05/09/2025,1199.48
+148bb136-24b6-4290-b70e-2f1bac4d85fd,07/08/2023,9,Microbiology,"Legionella, Pseudomonas aeruginosa, Giardia, Clostridium perfringens, E. coli, Heterotrophic Plate Count, Cryptosporidium, Fecal Streptococci, Enterococci",07/26/2023,2129.97
+543ff4c2-6aa2-4f8d-839a-a1283ae063e6,09/14/2024,4,Microbiology,"Enterococci, E. coli, Clostridium perfringens, Heterotrophic Plate Count",09/26/2024,823.24
+58a07912-0fbb-4ee9-b74a-012b16e1cfef,01/03/2024,3,Microbiology,"E. coli, Enterococci, Total Coliforms",01/09/2024,698.84
+e31d13c9-16fc-49b5-9de9-0c33a1445024,03/30/2024,10,Microbiology,"Clostridium perfringens, E. coli, Enterococci, Heterotrophic Plate Count, Legionella, Giardia, Pseudomonas aeruginosa, Cryptosporidium, Total Coliforms, Fecal Streptococci",04/09/2024,2069.69
+b3b0c594-960b-4494-9985-da82a5f4ac9c,01/04/2025,6,Microbiology,"Clostridium perfringens, Cryptosporidium, Heterotrophic Plate Count, Giardia, Enterococci, Legionella",02/03/2025,1199.66
+4b8ed886-4b50-4fac-9a75-852795333a23,03/12/2024,8,Chemistry,"Nitrate, Turbidity, Heavy Metals, Phosphate, Hardness, TOC, pH, Chloride",04/10/2024,791.22
+88947cd0-a657-4a92-b549-4eceac922aad,09/20/2024,4,Microbiology,"Heterotrophic Plate Count, Enterococci, E. coli, Pseudomonas aeruginosa",10/05/2024,1107.16
+bf6690fe-b21d-4cc4-b57c-12f953568739,03/06/2024,4,Microbiology,"Total Coliforms, Fecal Streptococci, Cryptosporidium, Clostridium perfringens",03/15/2024,336.2
+413c700c-b49f-4a63-b1e0-6076f7cee3da,12/09/2024,5,Microbiology,"Total Coliforms, E. coli, Pseudomonas aeruginosa, Fecal Streptococci, Legionella",12/25/2024,753.39
+dc014a45-6ca2-4825-934a-4314fad56739,11/03/2024,8,Microbiology,"Giardia, E. coli, Total Coliforms, Cryptosporidium, Heterotrophic Plate Count, Legionella, Fecal Streptococci, Clostridium perfringens",11/17/2024,925.15
+1d64a8a7-2639-4c9c-b817-8a8aa222ec0e,10/17/2023,5,Microbiology,"Enterococci, Fecal Streptococci, Pseudomonas aeruginosa, Giardia, E. coli",11/09/2023,1165.5
+88ab2ad1-25b1-4330-b1fb-ef413b8cfa90,09/19/2024,8,Microbiology,"Total Coliforms, Clostridium perfringens, Legionella, Pseudomonas aeruginosa, Giardia, Enterococci, Heterotrophic Plate Count, E. coli",10/14/2024,702.49
+555eaef0-e257-49fd-a56b-94338534149a,11/21/2024,7,Chemistry,"pH, Chloride, Turbidity, Heavy Metals, Hardness, TOC, Alkalinity",11/27/2024,1245.23
+1cb18edb-3495-4f4e-b706-279b35df4f2c,03/15/2023,6,Chemistry,"Hardness, Chloride, pH, Sulfate, Alkalinity, Nitrate",04/11/2023,1618.38
+a9e7f526-dc5d-4413-91ad-38d5db31acfa,03/22/2025,7,Microbiology,"Pseudomonas aeruginosa, Cryptosporidium, E. coli, Giardia, Legionella, Clostridium perfringens, Enterococci",04/21/2025,1678.93
+5cbba076-6d3e-4ddc-b460-70874c72d0bc,08/23/2024,1,Microbiology,Clostridium perfringens,09/08/2024,185.02
+effc0403-8916-465c-9cd8-a8d386420420,11/16/2024,6,Chemistry,"Turbidity, Nitrate, Hardness, Phosphate, Chloride, Alkalinity",12/15/2024,1759.93
+ba0c9a38-6ce4-4fd8-8766-6df684af8020,14-12-2024,2,Chemistry,"Turbidity, Phosphate",12/26/2024,196.45
+a97c2978-db13-4fba-a8b5-c3bae08a5ef8,10/31/2023,4,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, Giardia, Heterotrophic Plate Count",11/21/2023,396.0
+64ddac3a-33c1-48c3-bc9f-a7095b54f63b,11/24/2023,3,Microbiology,"E. coli, Heterotrophic Plate Count, Legionella",12/07/2023,809.25
+3e436e95-ce62-4d52-8709-0efdc63cad01,12/09/2023,7,Microbiology,"Legionella, E. coli, Enterococci, Cryptosporidium, Giardia, Pseudomonas aeruginosa, Total Coliforms",12/12/2023,994.53
+cb13e80b-5956-4b09-8b77-885dfd7b3b2f,05/21/2023,8,Microbiology,"Fecal Streptococci, Cryptosporidium, Heterotrophic Plate Count, Enterococci, E. coli, Clostridium perfringens, Legionella, Pseudomonas aeruginosa",NaN,1542.67
+d4aa15ea-b8cf-44c8-b9d0-e92816961b19,05/11/2024,4,Chemistry,"Turbidity, pH, Nitrate, Hardness",05/21/2024,771.22
+7ca6d3dc-5b65-416c-8607-b463feb012a3,12/21/2024,7,Microbiology,"Giardia, Legionella, Total Coliforms, Clostridium perfringens, Heterotrophic Plate Count, Fecal Streptococci, Cryptosporidium",01/16/2025,1392.46
+40063906-fae6-4209-911c-8a289264b88d,03/12/2025,3,Chemistry,"Chloride, Heavy Metals, pH",04/04/2025,809.84
+7cb0128a-6acd-4bb6-aba6-60cdbb3f451d,05/02/2023,8,Chemistry,"Alkalinity, Hardness, TOC, Sulfate, Phosphate, Chloride, pH, Heavy Metals",05/11/2023,1433.67
+a6e633b1-3cf3-4eb0-bec2-738fac9f1e5b,06/28/2024,3,Microbiology,"Legionella, Total Coliforms, Heterotrophic Plate Count",NaN,261.46
+0f460074-cd0c-460f-b317-36511df9c376,20-12-2024,2,Microbiology,"Total Coliforms, E. coli",01/18/2025,209.33
+016d98c3-7694-4c13-be96-3a8431c36d15,04/06/2024,3,Microbiology,"Clostridium perfringens, Giardia, Fecal Streptococci",04/26/2024,465.36
+a977786a-ebe7-480b-8d53-9786707cb6a5,03/31/2024,7,Chemistry,"Nitrate, Alkalinity, Sulfate, pH, Heavy Metals, TOC, Turbidity",04/11/2024,1199.98
+0081ec3b-fc47-432f-9dbe-f33afd302c68,01/18/2023,5,Chemistry,"Chloride, Turbidity, Alkalinity, TOC, Heavy Metals",02/06/2023,777.75
+83b16fbb-1973-4cf7-afb5-4b13978aee2c,07/17/2024,10,Microbiology,"Fecal Streptococci, Giardia, Pseudomonas aeruginosa, Clostridium perfringens, Cryptosporidium, Enterococci, Heterotrophic Plate Count, Legionella, E. coli, Total Coliforms",07/21/2024,1650.65
+5ef215fc-f72a-44cb-ae19-a8b6af48060f,10/05/2023,6,Microbiology,NaN,11/04/2023,1782.95
+c4f2e67a-098a-4fa9-9c56-2956717b19e4,03/01/2025,10,Microbiology,"E. coli, Enterococci, Cryptosporidium, Pseudomonas aeruginosa, Giardia, Total Coliforms, Heterotrophic Plate Count, Fecal Streptococci, Legionella, Clostridium perfringens",03/26/2025,1557.73
+afb788ea-b002-4427-860a-baa45ab9da6a,11/23/2024,8,Chemistry,NaN,NaN,2105.07
+a24fcc53-234f-438b-bab4-41b75788101a,05/24/2023,8,Chemistry,"pH, Nitrate, Sulfate, Phosphate, Chloride, Heavy Metals, Turbidity, Alkalinity",06/04/2023,2079.96
+f1f2ffa0-9d66-4359-b2c7-ff9a678b1d46,02/08/2024,3,Chemistry,"Heavy Metals, pH, Nitrate",02/25/2024,582.79
+e8cf18f2-55af-4c0b-9d9b-ba90933e06fe,03/07/2024,9,Chemistry,"Alkalinity, Nitrate, Sulfate, Turbidity, TOC, pH, Heavy Metals, Hardness, Chloride",03/12/2024,1968.29
+2298a058-6336-4c0c-848b-98bc7d9a75ba,07/25/2024,6,Chemistry,"Hardness, Nitrate, Chloride, Sulfate, Heavy Metals, pH",08/11/2024,1324.99
+517564b2-9006-48fd-a04a-5893cef61bd1,06/05/2023,2,Microbiology,"E. coli, Giardia",07/01/2023,424.57
+13b76f3c-e487-4b40-a263-71c4267e2755,03/22/2025,3,Microbiology,"Cryptosporidium, Giardia, Fecal Streptococci",03/26/2025,376.34
+5310cfc7-5cda-4155-b0e2-c814da52cb2b,12/05/2024,3,Chemistry,"Alkalinity, Nitrate, pH",12/24/2024,760.31
+e673ed0a-2f93-40a5-ac47-347f7f377b47,04/22/2024,10,Microbiology,"Legionella, Enterococci, Total Coliforms, Giardia, Heterotrophic Plate Count, Cryptosporidium, Fecal Streptococci, E. coli, Pseudomonas aeruginosa, Clostridium perfringens",04/30/2024,1701.97
+1fcf9ef2-ee91-48f1-a9b1-4ec3c1750de5,04/07/2023,10,Microbiology,"Legionella, Clostridium perfringens, Cryptosporidium, Pseudomonas aeruginosa, Fecal Streptococci, E. coli, Giardia, Enterococci, Heterotrophic Plate Count, Total Coliforms",04/13/2023,2226.0
+f736af50-c848-43bc-96d7-13cbace115c8,2023/10/27,4,Microbiology,"Cryptosporidium, Legionella, E. coli, Pseudomonas aeruginosa",11/25/2023,1186.12
+49baf2ab-7796-43bc-9b21-fccd1a62fe28,05/29/2023,2,Chemistry,"Sulfate, pH",06/13/2023,525.81
+cc5c1c4d-5356-4e99-b1ac-738fd8dfc417,01/10/2023,3,Chemistry,"TOC, Phosphate, Nitrate",02/09/2023,340.86
+64b321dc-fb1c-4ab5-a871-f7019dc81db3,2023/11/15,4,Chemistry,"pH, Heavy Metals, Nitrate, Alkalinity",11/24/2023,571.98
+e03bde53-c36c-4ba1-a3e4-7baa7e118721,04/02/2023,4,Chemistry,"Chloride, Alkalinity, Turbidity, TOC",04/29/2023,412.08
+2d8e7baf-71c1-4491-9a3f-2c97b7c496ee,09/02/2023,4,Microbiology,"Heterotrophic Plate Count, Legionella, Clostridium perfringens, Total Coliforms",09/25/2023,965.3
+79474188-8382-4e9e-a3f1-57567c690510,09/09/2023,7,Microbiology,"Pseudomonas aeruginosa, Total Coliforms, Giardia, Fecal Streptococci, Cryptosporidium, Clostridium perfringens, Legionella",09/26/2023,1951.94
+2fb2a894-3610-4b85-bc56-e7e6279a4ef5,06/19/2023,7,Microbiology,"Cryptosporidium, Heterotrophic Plate Count, E. coli, Total Coliforms, Enterococci, Fecal Streptococci, Legionella",07/12/2023,1527.82
+6cc8e924-35b7-4584-8eec-a5e542a776ba,09/05/2023,5,Microbiology,"Fecal Streptococci, Enterococci, Pseudomonas aeruginosa, Legionella, Cryptosporidium",09/11/2023,1118.51
+ab9f2627-1269-4da8-8023-e81cd11c235f,04/30/2023,5,Microbiology,NaN,05/08/2023,906.9
+98ad97fe-eacd-4fae-9531-1b2ff5adba08,10/25/2024,10,Microbiology,"Pseudomonas aeruginosa, E. coli, Enterococci, Heterotrophic Plate Count, Clostridium perfringens, Total Coliforms, Cryptosporidium, Fecal Streptococci, Legionella, Giardia",11/24/2024,1517.29
+36107a3f-f263-47c3-9a25-9b917c33e4ea,07/16/2023,8,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, Giardia, Enterococci, Heterotrophic Plate Count, Fecal Streptococci, E. coli, Total Coliforms",08/01/2023,946.49
+cff6fa23-7180-4d2a-8cad-daff94b89ce2,09/18/2023,10,Microbiology,"Clostridium perfringens, Fecal Streptococci, E. coli, Legionella, Cryptosporidium, Heterotrophic Plate Count, Giardia, Total Coliforms, Enterococci, Pseudomonas aeruginosa",09/22/2023,1118.17
+fe88d690-35cf-4d9d-814e-355f2125d0a1,03/10/2024,9,Chemistry,"pH, Alkalinity, Nitrate, Turbidity, Phosphate, Sulfate, Chloride, TOC, Heavy Metals",04/03/2024,1149.44
+92990d09-c70c-4dbc-a284-1505aaa072f5,01/19/2024,7,Microbiology,"Clostridium perfringens, Cryptosporidium, Total Coliforms, Heterotrophic Plate Count, Legionella, Giardia, Fecal Streptococci",02/03/2024,1723.18
+5de1cb0e-8017-4362-bb1f-c50fec9ed45b,06/21/2023,6,Chemistry,"Turbidity, Nitrate, Chloride, pH, Phosphate, Sulfate",07/21/2023,910.05
+d7e38d4f-51e4-40b6-beed-c1aa1c776341,10/06/2024,2,Microbiology,NaN,10/31/2024,422.93
+179d581d-25a6-4221-8fe4-44d701c341ef,02/25/2024,7,Chemistry,"Nitrate, Alkalinity, Phosphate, Heavy Metals, Turbidity, TOC, pH",03/21/2024,2038.18
+f77434da-ee66-413a-9707-51947c570e54,06/09/2024,9,Microbiology,"Legionella, E. coli, Cryptosporidium, Giardia, Total Coliforms, Pseudomonas aeruginosa, Clostridium perfringens, Heterotrophic Plate Count, Fecal Streptococci",06/25/2024,945.87
+3460d97b-f21a-4a71-b250-5cbe71f03613,02.27.2024,6,Chemistry,"Nitrate, Hardness, Turbidity, Chloride, TOC, Phosphate",03/25/2024,1275.47
+51ac166c-743d-4a9d-bf4e-fa4290206972,12/28/2023,5,Chemistry,"pH, Heavy Metals, Alkalinity, Phosphate, Hardness",01/25/2024,838.4
+a62f75fe-7b46-4bac-bea8-e2082a279e7f,09/01/2023,3,Chemistry,"Hardness, TOC, Turbidity",09/17/2023,583.96
+dd5fe2ef-55cd-426d-8ca7-5bdc7a20feb6,02/07/2025,1,Chemistry,Turbidity,02/28/2025,281.82
+47cdb957-a905-410f-9b7b-e317b6e36cc1,08/31/2023,9,Microbiology,"E. coli, Enterococci, Pseudomonas aeruginosa, Total Coliforms, Heterotrophic Plate Count, Giardia, Clostridium perfringens, Cryptosporidium, Fecal Streptococci",2023/09/24,1235.93
+bbf997c0-606b-4d07-a06a-9be9271a6705,08/05/2023,8,Chemistry,"TOC, Sulfate, Turbidity, Alkalinity, Heavy Metals, Phosphate, Chloride, Nitrate",08/22/2023,1068.93
+0e6fa367-b123-45b3-88d8-3a47234a099e,04/07/2025,4,Chemistry,"Heavy Metals, Nitrate, Turbidity, Hardness",04/19/2025,325.87
+fd80e869-b7d1-455e-a39a-cdbe8828365b,04/11/2024,1,Chemistry,Alkalinity,04/25/2024,154.45
+556f7974-e2d0-48fe-a402-fa219ba44830,02/16/2024,4,Microbiology,"E. coli, Enterococci, Fecal Streptococci, Total Coliforms",03/17/2024,513.05
+1a29e46c-d441-468d-b669-aab6bb372552,07/07/2023,5,Microbiology,"Legionella, Enterococci, Fecal Streptococci, Giardia, Clostridium perfringens",07/24/2023,1384.9
+4c06d4a1-7468-4974-ad22-5ee8b9f971eb,04/25/2024,2,Microbiology,"Enterococci, Clostridium perfringens",05/15/2024,162.54
+7ca8a614-2e0a-4bee-aced-e603ebf6cdfa,08/10/2023,6,Microbiology,"Total Coliforms, Cryptosporidium, Heterotrophic Plate Count, Clostridium perfringens, E. coli, Giardia",09/07/2023,NaN
+bc603835-ccc4-4f11-b261-02043bc9d860,04/17/2023,5,Microbiology,"Enterococci, Fecal Streptococci, E. coli, Legionella, Cryptosporidium",05/13/2023,10000
+7ae2ab85-5934-4fc8-b59b-66bddb005c98,05/31/2024,1,Microbiology,Fecal Streptococci,06/12/2024,262.19
+789d42d0-2ee5-442f-8830-52de9bfab9f8,01/05/2024,3,Chemistry,"Alkalinity, Heavy Metals, Chloride",01/26/2024,897.57
+fea35d58-4385-401c-9dbc-3ab82e9ab229,07/20/2024,5,Microbiology,"Giardia, Clostridium perfringens, Pseudomonas aeruginosa, E. coli, Total Coliforms",07/29/2024,629.62
+03d0ee50-e8a6-4f9c-9f15-105b0b10c873,01/05/2023,4,Microbiology,NaN,01/29/2023,896.72
+a84f24fd-baae-4b60-91ea-4a677f236943,02/28/2025,10,Microbiology,"Enterococci, Giardia, Cryptosporidium, Fecal Streptococci, Pseudomonas aeruginosa, Total Coliforms, E. coli, Legionella, Clostridium perfringens, Heterotrophic Plate Count",03/04/2025,NaN
+609b8ca2-ea18-4d57-83a7-f5f95142d6ad,02/14/2024,2,Chemistry,NaN,02/20/2024,315.33
+8738c428-a385-4abe-ae30-b3babbce644d,07/18/2023,7,Microbiology,"Fecal Streptococci, E. coli, Legionella, Enterococci, Cryptosporidium, Giardia, Total Coliforms",08/16/2023,1646.5
+c56e8e97-c8d8-47b5-8a6e-632b332e8585,02/21/2023,7,Chemistry,"Heavy Metals, Sulfate, Nitrate, Chloride, TOC, Alkalinity, Hardness",03/04/2023,1568.22
+2dbde42b-2191-4f99-ab97-b6822ec28667,03/26/2023,6,Chemistry,"Heavy Metals, TOC, Phosphate, Nitrate, Hardness, Chloride",04/22/2023,1118.26
+5b58456a-ee39-4d7a-b498-4c125781d828,11/13/2024,5,Chemistry,"pH, Chloride, Alkalinity, Sulfate, Heavy Metals",11/17/2024,946.54
+6e508fca-e479-462b-877d-cef5adbb0188,05/15/2023,8,Chemistry,"Nitrate, Chloride, Hardness, Alkalinity, Phosphate, pH, TOC, Heavy Metals",05/27/2023,1276.48
+f98854ba-a690-4aae-9b64-fb90279416f5,10/27/2024,3,Chemistry,"Heavy Metals, pH, Hardness",11/01/2024,858.3
+d264234a-b653-4699-a1e2-be301ecf2da2,08/15/2023,4,Microbiology,"E. coli, Cryptosporidium, Pseudomonas aeruginosa, Clostridium perfringens",08/18/2023,1079.2
+405b2bbd-2518-4b4e-b379-724dfe7dd4ba,10/08/2023,6,Microbiology,"Fecal Streptococci, E. coli, Clostridium perfringens, Cryptosporidium, Legionella, Giardia",10/12/2023,1174.22
+5a67b54d-fda6-41c4-97e0-2d11963f61e1,05/16/2024,5,Chemistry,"Phosphate, Alkalinity, Chloride, pH, Nitrate",05/28/2024,1232.02
+b4c829fa-6149-4b64-91c9-bbca90148d17,11/19/2024,2,Microbiology,"Total Coliforms, Clostridium perfringens",11/22/2024,215.27
+e37d6ce8-4ef1-43b2-8ed0-fd42325d885c,03/18/2023,8,Chemistry,NaN,04/08/2023,695.46
+c14c0ffe-79b2-4c0a-9359-70daa4d9f99b,10/18/2024,6,Microbiology,"Clostridium perfringens, Cryptosporidium, Total Coliforms, Giardia, Legionella, E. coli",11/12/2024,1645.81
+4f7119cf-f62d-4077-b389-4b268859f986,05/03/2024,10,Chemistry,"Phosphate, Nitrate, Alkalinity, Heavy Metals, TOC, Sulfate, Hardness, pH, Chloride, Turbidity",05/23/2024,1867.06
+7c6d7553-738b-40e0-8361-942f90393e7d,10/28/2023,8,Microbiology,"Giardia, Enterococci, Fecal Streptococci, Legionella, Cryptosporidium, Clostridium perfringens, E. coli, Heterotrophic Plate Count",11/24/2023,777.85
+34cb4fdc-8231-49d9-bce4-4b6df86da0cd,09/22/2023,6,Chemistry,"Nitrate, Alkalinity, Sulfate, pH, Chloride, Hardness",10/07/2023,1053.3
+7fd16374-5312-430a-98b9-7e081c12bc5c,01/09/2023,5,Microbiology,"Clostridium perfringens, Fecal Streptococci, Giardia, Legionella, Heterotrophic Plate Count",01/14/2023,532.26
+5886bc4e-379f-452f-bd13-ddc653dfe1e4,11/28/2023,10,Chemistry,"Sulfate, Hardness, Turbidity, Heavy Metals, Alkalinity, TOC, Phosphate, Chloride, pH, Nitrate",12/13/2023,2818.57
+ff77f902-b16c-4350-8fd6-738e87ac5722,03/24/2024,9,Chemistry,"Turbidity, pH, Sulfate, Nitrate, Hardness, Phosphate, Chloride, Alkalinity, TOC",04/01/2024,2110.21
+a1ec6c99-df4a-49f1-a746-a1b04cd6dbbb,07/11/2023,3,Microbiology,"Heterotrophic Plate Count, Legionella, Pseudomonas aeruginosa",08/09/2023,765.13
+b647bde6-3f43-4048-866a-0b3282de7b82,04/08/2024,10,Chemistry,"Heavy Metals, pH, Nitrate, Sulfate, Phosphate, Turbidity, Alkalinity, Hardness, TOC, Chloride",04/25/2024,2877.06
+de848655-9844-4380-ab3f-6982bfd8f1c2,01/12/2023,8,Chemistry,"Turbidity, Hardness, TOC, Sulfate, Phosphate, pH, Heavy Metals, Nitrate",NaN,2318.28
+eb6504a1-4a27-4af0-abff-eafa406e4914,01/21/2023,10,Chemistry,"Turbidity, Nitrate, Chloride, Sulfate, Phosphate, pH, Hardness, Heavy Metals, Alkalinity, TOC",02/20/2023,1594.67
+57d30034-0467-43ae-ba44-f50676a14e32,02/27/2023,9,Microbiology,"Clostridium perfringens, Total Coliforms, E. coli, Enterococci, Legionella, Giardia, Pseudomonas aeruginosa, Heterotrophic Plate Count, Cryptosporidium",03/26/2023,1459.06
+dae45c56-15e1-4a23-8587-71d72001388a,03/21/2024,4,Chemistry,"Heavy Metals, Alkalinity, Turbidity, Sulfate",2024/04/18,565.56
+2df52b19-b371-430c-b662-ba7571cc49b6,02/01/2025,2,Microbiology,"Enterococci, Giardia",02/20/2025,NaN
+1169c0d6-66cb-4a7e-94f9-50d6e5b0b5a0,10/17/2024,8,Chemistry,"TOC, Sulfate, Nitrate, Alkalinity, pH, Heavy Metals, Phosphate, Hardness",11/08/2024,1785.64
+58ee0ce4-d869-4951-985e-101a09e2c00d,07/21/2024,2,Microbiology,"Giardia, Total Coliforms",08/15/2024,265.87
+0e84726a-a573-490e-bc0f-b569e93182f5,11/17/2023,9,Microbiology,"Fecal Streptococci, Legionella, Total Coliforms, Heterotrophic Plate Count, Cryptosporidium, Pseudomonas aeruginosa, Clostridium perfringens, Enterococci, Giardia",11/23/2023,2378.26
+39681f78-bbab-4f7b-9674-af85204a93a3,11/09/2023,5,Chemistry,"Sulfate, Chloride, Nitrate, Heavy Metals, TOC",11/18/2023,1293.48
+47b81530-6a7f-4486-8a52-302b0b0308b3,08/04/2024,6,Chemistry,"Phosphate, Nitrate, Alkalinity, Hardness, Turbidity, TOC",08/15/2024,1668.81
+d48758ad-90cf-4e53-93fd-1edee6d0fd73,05/11/2024,5,Chemistry,"TOC, Phosphate, Alkalinity, Heavy Metals, Sulfate",06/01/2024,803.94
+269f3ef1-5d50-4f6c-9b4e-093c81aa82b0,06/07/2024,6,Chemistry,"Nitrate, Alkalinity, Chloride, Turbidity, Phosphate, pH",06/12/2024,938.75
+d24cf815-e3e8-49c5-8984-1c6e6016668c,05/21/2023,10,Chemistry,"Sulfate, TOC, Chloride, Nitrate, Turbidity, Alkalinity, pH, Heavy Metals, Phosphate, Hardness",05/24/2023,2498.33
+98cf1176-3a59-4d69-8e39-cab21331aa0d,05/30/2023,2,Chemistry,"Turbidity, Chloride",NaN,419.06
+29a26592-80cb-43bb-8767-002c223a3fc2,10/26/2023,10,Microbiology,"Cryptosporidium, Clostridium perfringens, Total Coliforms, Legionella, Fecal Streptococci, Heterotrophic Plate Count, E. coli, Giardia, Pseudomonas aeruginosa, Enterococci",11/13/2023,998.99
+f8438ad4-8a72-4ece-ae0e-208ea7ce3076,15-11-2023,10,Microbiology,NaN,12/15/2023,2241.47
+b43b7d7e-27ec-459e-8041-ab3f234f74ef,04/27/2024,8,Microbiology,"E. coli, Heterotrophic Plate Count, Pseudomonas aeruginosa, Giardia, Cryptosporidium, Clostridium perfringens, Total Coliforms, Legionella",05/24/2024,1383.05
+4ef3ae28-c36d-48a4-9121-75d737379c4b,01/06/2023,5,Microbiology,"Cryptosporidium, E. coli, Pseudomonas aeruginosa, Fecal Streptococci, Legionella",01/24/2023,555.02
+eb296d28-510a-49c3-9fbe-6ad2d5767f17,03/21/2023,10,Microbiology,NaN,04/02/2023,2568.38
+526c3eaf-a1a3-4681-bb0d-e89e79240fdc,11/14/2023,7,Chemistry,"Nitrate, Phosphate, pH, Heavy Metals, Turbidity, TOC, Hardness",12/12/2023,NaN
+b65a1c60-6b34-4255-858a-50789b5c90d8,09/25/2023,7,Microbiology,"Fecal Streptococci, Total Coliforms, Cryptosporidium, Giardia, Enterococci, Pseudomonas aeruginosa, Legionella",09/29/2023,579.2
+82f79fd4-0f80-41a4-bce6-7d6565fe0ef7,06/21/2024,6,Microbiology,"Heterotrophic Plate Count, Total Coliforms, E. coli, Enterococci, Giardia, Cryptosporidium",09-07-2024,1314.38
+975f141a-fe52-4e73-86b0-8d4b564556bc,08/26/2023,4,Microbiology,"Legionella, E. coli, Fecal Streptococci, Pseudomonas aeruginosa",09/23/2023,NaN
+c4ea0bac-7b71-4ef6-8938-f5923d012181,04/14/2023,9,Microbiology,"Pseudomonas aeruginosa, Giardia, Enterococci, Cryptosporidium, Total Coliforms, E. coli, Fecal Streptococci, Heterotrophic Plate Count, Legionella",04/30/2023,1657.0
+0ad29b89-9c44-4b0b-ad04-ea5b54a98b0a,05/28/2024,1,Chemistry,Hardness,06/01/2024,246.54
+02b3fa73-ff80-440b-aa4c-845d7d58f96e,10/30/2024,3,Chemistry,"Phosphate, Nitrate, Hardness",11/28/2024,823.13
+45a79e15-731e-4005-a7d2-a9a827aefcac,05/25/2023,6,Microbiology,"Heterotrophic Plate Count, Clostridium perfringens, Fecal Streptococci, E. coli, Cryptosporidium, Total Coliforms",06/10/2023,NaN
+8a9abd51-e4d4-4a7d-aeed-d877ec31b5dc,09/28/2024,10,Chemistry,"Hardness, Turbidity, Sulfate, Heavy Metals, pH, Nitrate, TOC, Phosphate, Alkalinity, Chloride",10/11/2024,1427.24
+f4b23ee9-5b42-401b-91c6-ebdee3046ab8,08/08/2023,6,Chemistry,"Turbidity, TOC, pH, Heavy Metals, Alkalinity, Nitrate",08/21/2023,1247.44
+68bdfb46-e819-48b3-9edf-b61fc1540aaa,02/21/2025,1,Chemistry,TOC,03/17/2025,252.22
+789348c4-4c1b-41ce-83ac-ef50f492f137,02/22/2025,3,Microbiology,"Pseudomonas aeruginosa, Enterococci, Fecal Streptococci",03/07/2025,709.87
+d99a4492-9f29-4a4d-bad5-e38db160e8c4,02/13/2024,5,Chemistry,"TOC, Chloride, Alkalinity, Sulfate, pH",03/06/2024,585.64
+18fc2d27-4959-454c-a7e9-1258f63c5a97,08/02/2023,1,Microbiology,Total Coliforms,NaN,261.34
+6f06b4a5-a88a-4d49-b31d-fb1c7ac38d42,01/09/2023,1,Microbiology,Fecal Streptococci,01/31/2023,179.75
+5b1dbbe5-fbf0-43b1-9406-77f4b5174ee6,06/30/2023,3,Chemistry,"Alkalinity, TOC, Sulfate",07/05/2023,710.99
+3d59e787-e85e-43c7-a94d-ea43852e272d,06/25/2024,7,Chemistry,"pH, TOC, Turbidity, Heavy Metals, Chloride, Alkalinity, Nitrate",07/06/2024,1456.37
+f0ca371b-be17-466c-8c64-d14de2cc1510,01/27/2023,5,Microbiology,"Giardia, E. coli, Enterococci, Legionella, Cryptosporidium",02/04/2023,1425.04
+21e045e6-3835-4895-aa85-1f0dd1f6c228,01/13/2024,10,Microbiology,"Fecal Streptococci, Heterotrophic Plate Count, Cryptosporidium, E. coli, Legionella, Pseudomonas aeruginosa, Clostridium perfringens, Enterococci, Giardia, Total Coliforms",2024/02/03,1400.77
+9654ed22-3a4e-4f22-a590-c4ceb9291725,08/28/2024,8,Microbiology,"Legionella, Heterotrophic Plate Count, E. coli, Clostridium perfringens, Enterococci, Total Coliforms, Giardia, Fecal Streptococci",09/24/2024,1122.74
+ec65010b-427c-45de-b3b5-10c09cb4049b,01/19/2024,1,Chemistry,Chloride,02/06/2024,268.06
+c8e241e8-73ce-4db8-a0ed-278c3be22eb6,11/16/2023,7,Chemistry,"Hardness, Nitrate, Sulfate, Turbidity, Alkalinity, Phosphate, Chloride",12/06/2023,1804.74
+105b40e1-eb4b-4f4b-91b8-dcf8e0e1fd60,10/25/2023,10,Microbiology,"Giardia, Legionella, Pseudomonas aeruginosa, Heterotrophic Plate Count, Clostridium perfringens, Total Coliforms, Enterococci, Cryptosporidium, Fecal Streptococci, E. coli",11/04/2023,2313.46
+47311ec2-6948-411a-9581-2706b171fa6e,03/07/2024,6,Microbiology,"Cryptosporidium, Pseudomonas aeruginosa, Fecal Streptococci, Clostridium perfringens, Heterotrophic Plate Count, Total Coliforms",31-03-2024,1710.91
+12fc8987-cee3-4b38-b927-466a66207306,12/31/2024,9,Microbiology,"Giardia, Legionella, Enterococci, Clostridium perfringens, Total Coliforms, E. coli, Heterotrophic Plate Count, Fecal Streptococci, Cryptosporidium",01/20/2025,2634.72
+0112a506-93a2-43e7-a4f0-a990aba28b88,01/04/2023,5,Microbiology,"Pseudomonas aeruginosa, Total Coliforms, Legionella, Enterococci, Cryptosporidium",01.13.2023,1395.72
+b2aec5d6-379e-431e-949f-fc11aaac031f,01/27/2023,7,Chemistry,NaN,02/04/2023,744.42
+5652d0b4-7f93-4579-aca4-70ed1483c12a,01.04.2023,10,Chemistry,"pH, Chloride, Sulfate, Hardness, Heavy Metals, TOC, Nitrate, Turbidity, Alkalinity, Phosphate",NaN,1504.73
+3da6f0d6-e7af-4797-97ee-b6706a61cfb4,06/23/2024,9,Chemistry,"Nitrate, Heavy Metals, pH, Alkalinity, TOC, Turbidity, Phosphate, Hardness, Sulfate",07/20/2024,2626.0
+4ac9e05b-77a9-49db-999b-981384f64ba5,11/24/2024,3,Chemistry,"Turbidity, Hardness, pH",11/29/2024,437.62
+f45aeed1-8eec-4ad8-9864-7624216f77e1,01/16/2025,4,Chemistry,"pH, Phosphate, TOC, Sulfate",01/26/2025,1133.07
+b7147913-3446-47b2-88d5-839a43be50ae,03/03/2024,10,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, Fecal Streptococci, Legionella, Enterococci, E. coli, Total Coliforms, Heterotrophic Plate Count, Giardia, Cryptosporidium",03/13/2024,NaN
+12ddc8e3-9b9c-46b8-9ef0-544facd36ba8,11/09/2023,6,Chemistry,"Nitrate, Turbidity, Chloride, Sulfate, Heavy Metals, pH",11/25/2023,1096.59
+3cc3ab80-9482-41c2-9ee5-d78241e2f4a5,05/07/2023,2,Microbiology,"Pseudomonas aeruginosa, Cryptosporidium",06/05/2023,530.31
+4dce5e99-0a4f-4354-9f62-3d34baae93f3,01/12/2025,3,Microbiology,"Cryptosporidium, Pseudomonas aeruginosa, Fecal Streptococci",01/22/2025,525.99
+d126ba9a-48ce-4e22-8d92-94135c367ca9,05/18/2024,2,Microbiology,"Heterotrophic Plate Count, Legionella",05/28/2024,NaN
+d33983dd-d8fe-4200-b8cc-6f8d40b13b25,10/16/2024,3,Microbiology,"Legionella, Cryptosporidium, Total Coliforms",11/15/2024,391.6
+18d6117e-dd70-4802-b47d-d7f8d9ee7528,02/13/2025,3,Chemistry,"pH, Alkalinity, Heavy Metals",03/15/2025,454.79
+6d34af63-b4dc-40f9-ac17-b64562ae2206,10/29/2024,2,Microbiology,"Legionella, Fecal Streptococci",11/09/2024,162.44
+484e85e8-2c59-4a3a-b1c9-8ebb3b237bc7,04/03/2023,3,Chemistry,"Phosphate, Hardness, Alkalinity",04/11/2023,882.18
+1bd11503-2424-4183-ae44-7f06acc061e4,11/12/2023,6,Microbiology,"Total Coliforms, Enterococci, E. coli, Giardia, Fecal Streptococci, Clostridium perfringens",11/15/2023,639.41
+d5d7d0a0-132a-4a81-b039-b0f2ee504fa8,09/19/2024,8,Microbiology,"Pseudomonas aeruginosa, Giardia, Heterotrophic Plate Count, Legionella, E. coli, Total Coliforms, Enterococci, Cryptosporidium",09/26/2024,1277.16
+9747d0d6-65ee-4a35-bccd-3bfd1d7ae219,02/23/2024,10,Microbiology,"Fecal Streptococci, Pseudomonas aeruginosa, E. coli, Cryptosporidium, Total Coliforms, Legionella, Clostridium perfringens, Heterotrophic Plate Count, Giardia, Enterococci",03/15/2024,842.12
+af1c539b-c0cb-4700-b503-88baf5010d80,05/06/2024,9,Microbiology,"Cryptosporidium, Total Coliforms, Enterococci, Fecal Streptococci, Heterotrophic Plate Count, Giardia, Clostridium perfringens, Legionella, Pseudomonas aeruginosa",06/03/2024,727.72
+943d94a5-3052-415b-b4f3-b4eaf551c8b8,11/07/2023,7,Chemistry,"pH, TOC, Alkalinity, Chloride, Turbidity, Nitrate, Sulfate",11/29/2023,1911.62
+b7d2d255-9fc5-4c8c-870c-877f35dc35b8,06/10/2024,7,Microbiology,"E. coli, Enterococci, Cryptosporidium, Clostridium perfringens, Legionella, Giardia, Pseudomonas aeruginosa",07/09/2024,909.05
+493043eb-8a8e-41da-bfc9-fa4ba12e5bc8,08/24/2024,2,Chemistry,NaN,09/13/2024,473.59
+14fdde3e-9003-4639-9466-997397f16650,04/17/2023,9,Microbiology,"Cryptosporidium, Giardia, Pseudomonas aeruginosa, Enterococci, E. coli, Heterotrophic Plate Count, Total Coliforms, Legionella, Fecal Streptococci",05/17/2023,1482.78
+ff5cc2e3-7881-4544-aab9-06c56cbecbde,03/12/2025,8,Chemistry,"Sulfate, Heavy Metals, pH, Chloride, Nitrate, Phosphate, Hardness, Turbidity",04/04/2025,10
+097995fa-4f3a-4931-8838-e5b07302556e,12/28/2024,9,Microbiology,"Pseudomonas aeruginosa, Total Coliforms, Heterotrophic Plate Count, Giardia, Fecal Streptococci, E. coli, Cryptosporidium, Legionella, Clostridium perfringens",01/03/2025,1001.5
+f09ebb66-2252-4914-bf43-44acac092ec8,08/26/2024,3,Microbiology,"Total Coliforms, Fecal Streptococci, Heterotrophic Plate Count",09/03/2024,540.11
+85c5c2ee-76a5-44b9-9731-30912cee5157,05/28/2024,4,Chemistry,"Sulfate, Turbidity, Alkalinity, Chloride",NaN,348.48
+cb137566-882b-446f-b770-e131efd33a10,05/13/2024,3,Chemistry,"Heavy Metals, Turbidity, Chloride",05/26/2024,472.65
+828603f0-8f5e-4ae5-8d21-7c968858c083,07/15/2023,4,Microbiology,"Fecal Streptococci, Giardia, Enterococci, Cryptosporidium",08/04/2023,1001.6
+82c4d33c-1102-4d40-9f59-160e28118a5d,07/30/2024,6,Microbiology,"Pseudomonas aeruginosa, Total Coliforms, Giardia, Clostridium perfringens, Legionella, Enterococci",08/26/2024,510.6
+8ffba609-2b53-469f-b9ee-0d3674dcd5f6,01/27/2023,6,Microbiology,"Clostridium perfringens, Cryptosporidium, Heterotrophic Plate Count, Pseudomonas aeruginosa, Giardia, Legionella",02/24/2023,1122.23
+3f0249b4-b515-4659-8c44-7e178923731d,03/15/2023,6,Microbiology,"Total Coliforms, Enterococci, Fecal Streptococci, E. coli, Cryptosporidium, Clostridium perfringens",04/13/2023,685.89
+e6877b6c-0311-420d-9a5f-605d56375029,03/02/2024,4,Microbiology,"Pseudomonas aeruginosa, Legionella, Heterotrophic Plate Count, Enterococci",03/06/2024,438.81
+b77fb5b6-858a-4e60-abd3-be105a33904c,08/28/2023,3,Microbiology,"Heterotrophic Plate Count, E. coli, Legionella",09/27/2023,468.15
+b945fadc-bc53-42be-b0d7-04f34ee78e84,08/17/2023,3,Microbiology,"E. coli, Fecal Streptococci, Heterotrophic Plate Count",09/08/2023,242.4
+e5fe9fe2-0ec0-46ac-a56e-d97df6bdfa93,10/12/2024,10,Microbiology,"Heterotrophic Plate Count, Total Coliforms, E. coli, Clostridium perfringens, Fecal Streptococci, Giardia, Enterococci, Pseudomonas aeruginosa, Legionella, Cryptosporidium",10/29/2024,846.74
+8c77f2d1-6199-4203-a1b6-e3a36770bb46,09/03/2023,2,chemistry,"Alkalinity, Turbidity",09/30/2023,191.6
+c1afa0e4-9de9-4831-8fc7-18d5c1f9474a,09.28.2024,6,Microbiology,"Fecal Streptococci, Clostridium perfringens, Giardia, Total Coliforms, E. coli, Enterococci",10/16/2024,650.07
+75e5e614-46c5-4b25-97f0-2bc761263b44,12/24/2024,10,Microbiology,"Cryptosporidium, Legionella, Clostridium perfringens, Enterococci, Fecal Streptococci, Heterotrophic Plate Count, Total Coliforms, Pseudomonas aeruginosa, Giardia, E. coli",01/15/2025,NaN
+ec1f4087-8abd-4791-98b4-36ca80744d55,01/25/2024,6,Microbiology,"Legionella, Fecal Streptococci, Clostridium perfringens, E. coli, Giardia, Total Coliforms",02/23/2024,1679.35
+7fbc7b80-c74f-46dc-9850-e769a94623a9,04/07/2023,7,Chemistry,"Heavy Metals, Nitrate, TOC, Hardness, Sulfate, Chloride, Phosphate",04/22/2023,616.21
+98a29f48-a040-40b0-aece-fde462e285ce,09/03/2024,5,Microbiology,"Giardia, Fecal Streptococci, Pseudomonas aeruginosa, Cryptosporidium, E. coli",09/22/2024,806.18
+dbf4b991-b90b-4f72-9720-b35084e01e34,02/16/2024,6,Chemistry,NaN,03/14/2024,913.22
+81917b76-5dd0-47e2-96a7-8221b5cd2082,05/14/2024,4,Microbiology,"Enterococci, Heterotrophic Plate Count, E. coli, Fecal Streptococci",05/25/2024,334.01
+bd03370f-f8fa-42c9-a71a-7e99b316bce3,06/12/2023,10,Chemistry,"Chloride, Heavy Metals, Sulfate, TOC, Turbidity, Nitrate, pH, Alkalinity, Hardness, Phosphate",07/03/2023,1023.37
+fdec837c-ac8c-4944-a930-f4a6420796eb,09/27/2024,7,Microbiology,"Giardia, Heterotrophic Plate Count, Enterococci, E. coli, Clostridium perfringens, Fecal Streptococci, Total Coliforms",10/06/2024,2049.46
+97e49aa4-0069-4ab0-880b-84b052913857,11/20/2023,7,Chemistry,"Turbidity, Chloride, Hardness, Alkalinity, pH, Sulfate, Heavy Metals",12/12/2023,NaN
+16750f75-ddec-44ce-85f2-a389af85f109,09/07/2024,6,Microbiology,"Clostridium perfringens, Total Coliforms, Cryptosporidium, Enterococci, Fecal Streptococci, Giardia",09/12/2024,1089.57
+be4db0c6-5d06-4688-a19a-ab678b49eab1,03/11/2024,1,Chemistry,Nitrate,03/21/2024,199.2
+cf84158a-abda-48d1-a61c-19a9c8a89f51,11/29/2023,7,Chemistry,"Sulfate, Alkalinity, Heavy Metals, Phosphate, Turbidity, Chloride, pH",12/06/2023,1484.92
+051a7fe3-919e-474b-bb58-b7289c346c05,04/27/2024,9,Chemistry,"Heavy Metals, pH, Turbidity, TOC, Sulfate, Alkalinity, Phosphate, Nitrate, Chloride",05/11/2024,1509.07
+fe3460da-4343-4915-813c-dfb236101a7d,11/20/2023,10,Chemistry,"Hardness, Heavy Metals, Sulfate, TOC, Phosphate, Nitrate, Turbidity, Alkalinity, pH, Chloride",12/01/2023,2047.36
+55c8ef54-b18c-464a-b718-0b8f7ecc3c91,05/29/2023,2,Chemistry,"Heavy Metals, Nitrate",06/28/2023,5000
+0ed999a5-180f-4e71-865c-c783f56608bd,07/13/2024,2,Microbiology,"Pseudomonas aeruginosa, Fecal Streptococci",08/08/2024,199.3
+5f6f2f75-a350-4dec-9ef8-65a469a38738,06/14/2024,9,Chemistry,"Chloride, Nitrate, Sulfate, pH, TOC, Alkalinity, Turbidity, Heavy Metals, Hardness",07/02/2024,1398.27
+823bf876-88bb-4095-8c4a-f514134b91f4,10/11/2024,10,Microbiology,"Cryptosporidium, Heterotrophic Plate Count, Legionella, E. coli, Fecal Streptococci, Clostridium perfringens, Enterococci, Giardia, Pseudomonas aeruginosa, Total Coliforms",11/05/2024,1046.55
+cbb20400-2e28-468e-8bcd-9dbbf8886759,01/08/2023,9,Chemistry,"pH, Nitrate, Sulfate, Chloride, Heavy Metals, Alkalinity, TOC, Hardness, Turbidity",01/12/2023,2279.08
+b22e47d8-a9d0-4bd4-8a7f-9c51113a5bab,06/17/2023,1,Chemistry,pH,07/14/2023,235.94
+723f7cf9-f679-4255-a486-9970e94beccf,09/14/2024,6,Microbiology,"Pseudomonas aeruginosa, Heterotrophic Plate Count, Cryptosporidium, Enterococci, Total Coliforms, Fecal Streptococci",09/26/2024,895.21
+a2e39483-79ce-4c15-a466-70d5f71b837c,10/09/2023,3,Chemistry,"Phosphate, Heavy Metals, Chloride",11/08/2023,374.31
+5bfa0430-b7cd-410d-8626-a770f54f005d,11/24/2023,10,Chemistry,"Phosphate, Nitrate, Sulfate, pH, Turbidity, Hardness, Chloride, TOC, Heavy Metals, Alkalinity",12/15/2023,929.33
+7800c3ea-f54f-4934-b12e-9127f5fffd14,03/16/2023,4,Microbiology,"Legionella, Cryptosporidium, Total Coliforms, Pseudomonas aeruginosa",04/09/2023,1135.95
+5362826a-b755-4b20-ba92-a03e114bd075,10/07/2024,6,Chemistry,"Chloride, Sulfate, Alkalinity, pH, Hardness, Turbidity",10/27/2024,916.42
+3ab45219-742b-48b9-9097-ed5bb0044b9b,03/15/2024,6,Chemistry,"Heavy Metals, Chloride, Turbidity, TOC, Hardness, Nitrate",05-04-2024,1701.25
+8041b5f2-20bc-4a79-9f1d-8dc20e00a67a,08/14/2024,1,Microbiology,Clostridium perfringens,08/17/2024,156.2
+9e187a01-2aef-4635-b481-44ff36a0ed5f,05/08/2023,3,Microbiology,"Fecal Streptococci, Total Coliforms, E. coli",05/19/2023,730.72
+54cc4a13-d86e-42e1-bad2-560c9507027f,08/24/2023,4,Microbiology,"Legionella, Giardia, Clostridium perfringens, Fecal Streptococci",09/06/2023,1013.13
+68589aae-ab5c-4316-8df8-cdaee884174a,09/12/2024,6,Microbiology,"Legionella, Fecal Streptococci, Cryptosporidium, Enterococci, Pseudomonas aeruginosa, Clostridium perfringens",09/29/2024,1107.79
+237dbf03-6c2a-4101-972c-7e9970a8eb7f,01/28/2024,4,Microbiology,"Heterotrophic Plate Count, E. coli, Pseudomonas aeruginosa, Enterococci",02/13/2024,1071.83
+fa0faeb0-6ba3-4797-8523-43a7edb7a0d2,09/30/2023,1,Chemistry,pH,10/19/2023,160.41
+43032484-b3b5-4251-a350-e0c2d39f7f55,11/23/2023,4,Microbiology,"Clostridium perfringens, Heterotrophic Plate Count, Fecal Streptococci, Cryptosporidium",12/10/2023,619.46
+55e2a7ed-0873-4883-90f9-007d985bec80,02/24/2024,7,Microbiology,"E. coli, Heterotrophic Plate Count, Giardia, Enterococci, Legionella, Total Coliforms, Pseudomonas aeruginosa",03/23/2024,932.96
+57082c03-059f-4db2-a3f0-7a85270a0c6e,03/20/2024,6,Chemistry,"Phosphate, Hardness, Turbidity, Chloride, pH, Alkalinity",03/23/2024,1202.69
+5caed9f3-699e-4802-9242-acd35190abd9,03/22/2023,4,Chemistry,"Heavy Metals, Hardness, Alkalinity, TOC",04/11/2023,917.75
+09675fdb-572d-4420-be85-5c3baae021d4,06/27/2023,7,Chemistry,"pH, Sulfate, Chloride, Alkalinity, Heavy Metals, Turbidity, Hardness",07/06/2023,1320.67
+470ad392-4106-4da8-82e6-386eaa3aa0ee,04/12/2025,1,Chemistry,pH,05/09/2025,244.39
+508bd9d7-c7b7-45e9-968c-fab7ef122601,01/05/2023,3,Microbiology,"Total Coliforms, Cryptosporidium, E. coli",01/10/2023,360.4
+63aad7ef-ac4f-4828-b508-2e262f0db84e,12/23/2024,8,Microbiology,"Total Coliforms, Giardia, Legionella, E. coli, Pseudomonas aeruginosa, Fecal Streptococci, Enterococci, Cryptosporidium",12/30/2024,1754.52
+8dbfc5ad-481a-4d1a-95ef-980d5d18e701,03/20/2023,6,Microbiology,"Giardia, Pseudomonas aeruginosa, Total Coliforms, Enterococci, Clostridium perfringens, Heterotrophic Plate Count",04/13/2023,1795.73
+1dd03eff-0e0d-4a07-9796-9c37d94adf65,01/29/2025,1,Microbiology,Pseudomonas aeruginosa,02/17/2025,126.38
+0db598fb-6d7e-48b1-b77f-c208f3a41470,03/24/2024,5,Chemistry,"Hardness, TOC, Chloride, Alkalinity, Nitrate",04/14/2024,1164.59
+2ced99ef-60cf-41c8-b096-cec0fd9e2047,04/10/2023,1,Microbiology,Giardia,05/01/2023,228.32
+33b52cb4-d6b6-4011-ac7a-e51f1195f49d,12/23/2024,8,Chemistry,"Chloride, Sulfate, Hardness, Phosphate, Nitrate, Alkalinity, Turbidity, pH",01/06/2025,1807.04
+89124ad7-8f44-4874-bc8f-38506e4a6f6e,08/13/2023,7,Chemistry,NaN,09/03/2023,1762.7
+ce0babdd-3a31-4d2a-bfef-d90d78a2748b,05/20/2023,9,Chemistry,"TOC, Turbidity, pH, Sulfate, Hardness, Alkalinity, Heavy Metals, Phosphate, Chloride",06/18/2023,NaN
+fefd1d62-e14b-499b-be85-4a35d790ec56,06/20/2024,10,Chemistry,"Chloride, Heavy Metals, Turbidity, TOC, Hardness, Alkalinity, Phosphate, Nitrate, Sulfate, pH",06/23/2024,899.79
+6ffb02a7-fbf8-4fd2-83b7-661455418147,02/25/2025,4,Chemistry,"Phosphate, Chloride, TOC, Nitrate",03/19/2025,618.04
+5dfeb4a3-a5ab-4b9c-8367-e2a4f8c5d31a,06/26/2023,2,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens",07/03/2023,NaN
+ad742ac1-d09b-45ac-89f1-33695dc9c28f,04/23/2024,2,Chemistry,"Sulfate, pH",05/12/2024,583.65
+08dad981-fbc6-4f8e-a2c8-215f84b9c815,11/22/2023,4,Microbiology,"Fecal Streptococci, Giardia, Enterococci, Pseudomonas aeruginosa",12/04/2023,966.19
+e65ceab8-e24e-466b-a3fd-d5182f25418f,09/29/2024,9,Chemistry,"pH, Turbidity, Heavy Metals, Hardness, Nitrate, Chloride, Phosphate, Sulfate, Alkalinity",10/04/2024,920.42
+5ddb791f-5001-4fa9-88ce-9d1e67872905,01/21/2024,1,Chemistry,Hardness,NaN,229.13
+53002b22-da29-4213-87c0-4e3fbb59604e,05/14/2023,4,Microbiology,"Legionella, Clostridium perfringens, Giardia, Fecal Streptococci",06/06/2023,1117.38
+5500a256-9f1e-425e-8c55-0b3574d2404a,02/09/2023,1,Chemistry,NaN,NaN,279.71
+47c71a79-5318-4f14-834c-263d80e3f8d1,01/29/2024,8,Microbiology,"Legionella, Fecal Streptococci, Total Coliforms, Pseudomonas aeruginosa, Giardia, Cryptosporidium, Clostridium perfringens, E. coli",02/09/2024,691.51
+817eacfb-2b22-4bd0-bd51-10ca3a64750b,01/03/2025,4,Chemistry,"Nitrate, pH, Alkalinity, Sulfate",01/15/2025,5000
+8fb1b041-7706-42cf-bb55-ac021fcb5076,10/29/2023,9,Chemistry,NaN,11/21/2023,NaN
+e3b05425-53b6-4de9-806c-9cbd1a9334a6,05/27/2023,6,Chemistry,"Heavy Metals, pH, Nitrate, Phosphate, Hardness, Chloride",06/23/2023,1340.18
+53df53e3-2b0e-4c98-a067-a38a39830420,12/26/2023,4,Microbiology,"Enterococci, Cryptosporidium, Legionella, Total Coliforms",01/17/2024,1077.04
+405a610e-1b07-480d-945c-c9d1b257bfc7,03/19/2024,2,Chemistry,"Phosphate, Nitrate",03/23/2024,423.02
+10ebb395-ca97-4a7e-a5e8-72a9b4c127f9,08/07/2023,5,Microbiology,"Clostridium perfringens, Total Coliforms, Giardia, Cryptosporidium, E. coli",08/14/2023,431.65
+1167f2fe-8b59-4f5a-82fb-1d5f0d61a7b2,09/11/2024,4,Microbiology,"Cryptosporidium, Giardia, Fecal Streptococci, Legionella",09/21/2024,369.11
+57645084-434b-4214-a0f5-83df3f885173,08/30/2024,3,Chemistry,"Chloride, Phosphate, Nitrate",09/27/2024,346.62
+08d1a7c5-e9a9-4768-a7fa-2916cb864bd9,08/03/2024,10,Chemistry,NaN,08/12/2024,1277.0
+0bd0773f-f419-410b-a78f-1b08ba875017,09/12/2024,1,Microbiology,Cryptosporidium,10/02/2024,183.92
+f3364078-8156-447a-b6df-ec3f15562a07,03/28/2025,8,Chemistry,"Chloride, Phosphate, Hardness, Sulfate, Nitrate, TOC, pH, Turbidity",04/27/2025,2041.63
+6973bc10-977e-4e7e-b90d-d3fd039d998f,08/25/2024,8,Microbiology,"E. coli, Cryptosporidium, Pseudomonas aeruginosa, Heterotrophic Plate Count, Enterococci, Clostridium perfringens, Giardia, Fecal Streptococci",09/15/2024,1029.16
+d5d41c0c-4421-4133-a362-b5cef6af4f6f,06/02/2024,1,Chemistry,Sulfate,06/17/2024,134.17
+6b616184-e8af-4915-9307-9934768807ee,07/30/2024,6,Microbiology,"Clostridium perfringens, Cryptosporidium, Pseudomonas aeruginosa, Heterotrophic Plate Count, E. coli, Total Coliforms",08/28/2024,1009.24
+44ea0ded-10c9-49c0-8b5a-ade8edb6b01d,11/23/2023,3,Chemistry,"Hardness, Chloride, pH",11/28/2023,654.89
+a61b0dff-b3e9-4989-bf4b-949cdf77714e,01/05/2024,4,Microbiology,"Pseudomonas aeruginosa, E. coli, Fecal Streptococci, Giardia",01/13/2024,1013.0
+7633d712-e16c-4a25-be94-04e1a1ae29ac,04/07/2023,5,Chemistry,"Heavy Metals, Phosphate, TOC, Hardness, Nitrate",05/02/2023,10
+62e7d2ac-8cfd-4c98-b8f8-e2ceade1bee7,05/17/2024,4,Microbiology,"E. coli, Giardia, Clostridium perfringens, Pseudomonas aeruginosa",06/04/2024,718.49
+e3f68218-2a93-429f-a8bb-69242b1d3eea,12/12/2023,8,Chemistry,"pH, Phosphate, Hardness, TOC, Chloride, Nitrate, Heavy Metals, Alkalinity",12/15/2023,1615.4
+cbca0b1b-dc3c-4748-8935-3910d93057be,04/14/2023,6,Chemistry,"TOC, Heavy Metals, Nitrate, pH, Phosphate, Hardness",05/06/2023,1574.25
+9c333a75-c6e1-44e0-8132-7c29643da5e7,01/31/2023,1,Chemistry,Phosphate,02/13/2023,125.69
+9b77407a-9623-4c34-aae3-987f3402c710,10/03/2023,2,Chemistry,"TOC, Turbidity",10/19/2023,404.0
+8eaa212a-e6b4-458b-9cfb-602e8901bb5c,05/02/2023,6,Chemistry,"TOC, Chloride, Nitrate, Turbidity, Sulfate, Phosphate",05/21/2023,627.1
+0533d7ec-5823-4fe6-83fd-7fbe23e67d09,06/23/2023,1,Chemistry,Sulfate,07/15/2023,160.22
+5e4fd236-3df2-4270-8aba-b6850301480b,03/04/2025,7,Chemistry,"Chloride, Turbidity, TOC, Phosphate, Hardness, Nitrate, Sulfate",03/25/2025,912.89
+79d9d01e-5812-4bd0-a54f-7052747a4b7a,01/13/2024,8,Chemistry,"Heavy Metals, Turbidity, Chloride, Sulfate, TOC, Alkalinity, Nitrate, Phosphate",01/30/2024,869.14
+baee66c7-3e34-4db2-87ae-03b12123a29b,06/02/2023,1,Chemistry,Sulfate,06/05/2023,87.33
+b5c15a10-2338-4372-b7a3-4a0610efeaa9,03/07/2024,3,Chemistry,"Hardness, Nitrate, pH",04/01/2024,331.78
+0607e7b8-f949-406c-aa08-40199fe8c050,02/25/2024,9,Chemistry,"Phosphate, Sulfate, Heavy Metals, Chloride, Turbidity, Nitrate, TOC, pH, Hardness",03/10/2024,2168.65
+4874b106-eb5d-40f8-a3e9-2bef1896921a,04/11/2024,4,Microbiology,"Pseudomonas aeruginosa, Total Coliforms, Legionella, E. coli",04.24.2024,1138.15
+80433710-ebeb-42e3-aff5-28638a446e9b,07/18/2024,5,Microbiology,"Clostridium perfringens, Total Coliforms, Legionella, Giardia, Heterotrophic Plate Count",08/17/2024,949.72
+d947e698-3d09-4baa-8dc2-f8cf1f9e2939,02/10/2023,10,Chemistry,"Turbidity, Alkalinity, Phosphate, pH, Nitrate, Chloride, Heavy Metals, TOC, Hardness, Sulfate",02/23/2023,2860.41
+f4f7ce95-ce47-463c-8e94-425d1155df80,10/25/2024,1,Microbiology,Clostridium perfringens,NaN,294.57
+62e81edb-b159-440a-bc0a-b8044a78bccc,03/13/2024,7,Chemistry,"Nitrate, pH, Phosphate, Chloride, Heavy Metals, TOC, Sulfate",03/18/2024,947.47
+fbc184d5-3275-4eea-a951-4c5d0af80228,02/20/2025,7,Chemistry,"Nitrate, pH, Sulfate, TOC, Turbidity, Heavy Metals, Chloride",02/28/2025,1798.64
+4ce9eb77-b3a9-426b-91db-917a1ae88b81,04/07/2025,8,Microbiology,"Giardia, Cryptosporidium, Total Coliforms, E. coli, Enterococci, Legionella, Pseudomonas aeruginosa, Fecal Streptococci",05/07/2025,1984.56
+ee12b0d3-315b-4919-8d8f-6814526df49d,03/04/2025,8,Chemistry,"Chloride, Phosphate, Nitrate, Hardness, Heavy Metals, pH, Alkalinity, TOC",03/08/2025,10000
+0eeb0fce-2431-4168-9ced-c82a4a2fb1ef,01/04/2023,7,Chemistry,"Alkalinity, Chloride, TOC, Nitrate, Sulfate, Heavy Metals, pH",2023/01/14,718.49
+8112d832-3661-4f34-9e24-3d89c3ae04e0,12/02/2023,7,Microbiology,"Legionella, Giardia, E. coli, Fecal Streptococci, Total Coliforms, Enterococci, Clostridium perfringens",12/12/2023,1751.45
+5cc65226-befc-4a42-b616-f3e408a8a695,01/05/2023,10,Microbiology,"Total Coliforms, Legionella, Enterococci, Giardia, Heterotrophic Plate Count, Clostridium perfringens, E. coli, Pseudomonas aeruginosa, Cryptosporidium, Fecal Streptococci",02/04/2023,1410.8
+d9a91d23-5a58-45eb-b90d-8994a999d14b,01/09/2025,5,Chemistry,"Sulfate, Alkalinity, Nitrate, Hardness, TOC",02/01/2025,1110.62
+8a3cd8e2-d875-49d8-8616-071336f6e6a2,03/15/2024,5,Chemistry,"Chloride, Turbidity, Alkalinity, pH, Nitrate",03/21/2024,966.7
+abfce290-2be8-4001-9820-48050cdfc860,09/03/2024,4,Microbiology,"Heterotrophic Plate Count, E. coli, Enterococci, Cryptosporidium",09/08/2024,644.34
+1cc70364-6c9a-4377-ad71-0f145701f492,05/06/2024,1,Chemistry,pH,05/25/2024,149.97
+c21be0c6-bf76-4347-83ac-2be24aae5eb0,09/28/2024,6,Microbiology,"Total Coliforms, E. coli, Clostridium perfringens, Fecal Streptococci, Pseudomonas aeruginosa, Giardia",10/20/2024,1429.79
+92360ccb-59ce-43b7-a7f2-040a7387fc3b,04/28/2023,3,Microbiology,"Enterococci, Clostridium perfringens, Fecal Streptococci",05/03/2023,256.86
+3557c098-98de-439e-ab84-1ce418207227,01/30/2023,5,Chemistry,"TOC, Nitrate, Hardness, Sulfate, Phosphate",02/07/2023,765.53
+dab08d18-5023-47c8-b2aa-2419800247f5,02/17/2024,9,Microbiology,NaN,03/17/2024,2268.65
+8ccb9359-1c78-4bd2-8ac2-7caaf724f2d1,10/13/2024,10,Microbiology,"Pseudomonas aeruginosa, Enterococci, Total Coliforms, E. coli, Giardia, Fecal Streptococci, Heterotrophic Plate Count, Clostridium perfringens, Cryptosporidium, Legionella",10/30/2024,2991.23
+985acae8-bdcb-4086-be35-3b581f2b4880,05/29/2024,3,Chemistry,"Alkalinity, Hardness, Turbidity",06/10/2024,852.76
+2ff9dfb9-5e3a-4919-9a87-d45e370da062,02/20/2025,1,Chemistry,Phosphate,NaN,194.36
+9db41ec2-eff8-4f62-b955-a66dd2624fef,07/15/2024,4,Chemistry,"Heavy Metals, Nitrate, Sulfate, Phosphate",08/02/2024,547.18
+43d06efe-1d57-4e9e-bdbe-8b51e37f5eef,04/01/2024,4,Chemistry,"pH, Sulfate, Turbidity, TOC",04/12/2024,NaN
+5403937e-e59b-4c8e-b206-d9998e1cd643,03/28/2024,6,Chemistry,"Phosphate, Turbidity, Alkalinity, TOC, pH, Heavy Metals",04/07/2024,1111.53
+1cdfc49f-3207-4f48-8f1f-34094f78381d,03/10/2023,1,Chemistry,TOC,NaN,NaN
+847e8671-ca14-4e27-87fb-630a1cdd36fc,08/27/2023,1,Microbiology,Enterococci,09/23/2023,288.88
+8cabebf2-97f1-4244-adc4-330add734b2b,03/24/2023,3,Chemistry,"Heavy Metals, Hardness, pH",03/28/2023,782.37
+ccf4a8c6-acfb-450f-9b1f-827bd83e8e00,08/08/2023,4,Chemistry,NaN,08/28/2023,693.0
+2f39ec73-428a-42a9-8a88-ece5726040ff,09/16/2023,8,Microbiology,"Enterococci, Clostridium perfringens, Giardia, Cryptosporidium, Pseudomonas aeruginosa, Heterotrophic Plate Count, Fecal Streptococci, E. coli",10/02/2023,1050.06
+f5e06e05-a2dd-4d83-9f0a-c2b0fb4a682c,09/09/2024,9,Microbiology,"Fecal Streptococci, Pseudomonas aeruginosa, Cryptosporidium, Giardia, E. coli, Total Coliforms, Legionella, Enterococci, Heterotrophic Plate Count",09/15/2024,2162.31
+6ef4b3ba-00de-4f1e-a652-c72d336cb8fe,06/06/2023,10,Chemistry,"Turbidity, Heavy Metals, Hardness, Sulfate, pH, Nitrate, Phosphate, TOC, Chloride, Alkalinity",06/17/2023,1410.66
+84de6219-184e-408a-9765-fcef6d591dc5,06/07/2023,8,Microbiology,"Clostridium perfringens, Enterococci, Giardia, Fecal Streptococci, Pseudomonas aeruginosa, E. coli, Heterotrophic Plate Count, Total Coliforms",06/25/2023,NaN
+fdf221a0-b5a4-4de1-b872-e327d12397b9,05.13.2024,10,MICROBIOLOGY,"Giardia, Legionella, Clostridium perfringens, E. coli, Enterococci, Cryptosporidium, Pseudomonas aeruginosa, Fecal Streptococci, Total Coliforms, Heterotrophic Plate Count",05/31/2024,2385.05
+2789e9e5-2430-4317-bd96-abfbe0f9ae7c,11/24/2023,9,Microbiology,"E. coli, Enterococci, Giardia, Pseudomonas aeruginosa, Fecal Streptococci, Heterotrophic Plate Count, Legionella, Clostridium perfringens, Total Coliforms",12/24/2023,1967.33
+cc9ef65f-a135-4a8e-8ab0-2a6cbd5e0d6f,01/25/2023,2,Microbiology,"Legionella, Enterococci",02/04/2023,406.44
+1a6565de-2e35-4886-ad10-648245b856ed,10/24/2024,4,Microbiology,"E. coli, Total Coliforms, Clostridium perfringens, Pseudomonas aeruginosa",11/14/2024,1028.05
+7e01fde9-ea09-43dd-aa43-164f6c9e1907,12/23/2023,2,Microbiology,"E. coli, Pseudomonas aeruginosa",01/20/2024,453.75
+e58e47e9-824f-435e-955f-594430bf1584,06/04/2024,6,Chemistry,"Hardness, pH, Phosphate, Sulfate, TOC, Alkalinity",06/27/2024,1158.75
+1a936d21-0509-410c-ada1-9fd6fc58aeea,06/27/2023,7,Microbiology,NaN,07/14/2023,1825.19
+99a007af-f655-4842-9be2-2634fb9350ba,12/05/2023,7,Microbiology,"Cryptosporidium, Heterotrophic Plate Count, Enterococci, Legionella, Clostridium perfringens, Pseudomonas aeruginosa, E. coli",12/27/2023,1691.25
+5e19d286-e033-4931-83a4-c4e035b5853e,03/05/2024,2,Microbiology,"Giardia, Clostridium perfringens",03/25/2024,380.98
+bd59ec95-bc03-4951-86ed-fa95ec00f7d6,12/31/2023,2,Microbiology,"Cryptosporidium, Giardia",01/16/2024,339.91
+6930fd06-e365-48e8-9758-204b11df8b2f,08/18/2023,6,Microbiology,"Heterotrophic Plate Count, Fecal Streptococci, Legionella, Enterococci, Giardia, E. coli",08/23/2023,1517.2
+d1264731-acb4-461b-8250-36678453f888,09/11/2023,3,Chemistry,"Phosphate, pH, TOC",10/08/2023,262.43
+bb2938fc-aec3-429d-9e2d-980aaf412be0,11/09/2023,3,Chemistry,NaN,12/03/2023,243.04
+088e33a3-c4b9-4c91-86e5-620b82c64a4f,01/12/2024,4,Microbiology,"Fecal Streptococci, Enterococci, Cryptosporidium, E. coli",01/31/2024,NaN
+1de86f75-5bd3-44c8-a18e-f7639705adfd,03/31/2023,7,Microbiology,"Pseudomonas aeruginosa, Legionella, Giardia, Enterococci, Cryptosporidium, Total Coliforms, Clostridium perfringens",04/09/2023,1671.04
+c33cff9d-7771-4b35-8d79-4942c5dc7a3d,02/28/2023,8,Chemistry,"Hardness, Sulfate, pH, Phosphate, Turbidity, Alkalinity, Chloride, Nitrate",03/14/2023,1103.06
+b9680ab9-0824-407d-bb58-a4d2c869ba1f,09/23/2024,5,Microbiology,"Legionella, Heterotrophic Plate Count, Pseudomonas aeruginosa, Clostridium perfringens, Fecal Streptococci",10.08.2024,881.3
+57179630-d61f-4f7f-845c-bb730e952460,02/01/2024,8,Chemistry,"Alkalinity, pH, Phosphate, Sulfate, Nitrate, Chloride, TOC, Turbidity",02/10/2024,696.87
+ba4854e8-8a35-4da3-a37d-351c5569cfbd,01/12/2023,2,Chemistry,"Alkalinity, Nitrate",01/18/2023,546.32
+faa77364-7b4e-4555-ae23-771c369eaa81,10/26/2023,4,Microbiology,"Total Coliforms, Fecal Streptococci, Giardia, Enterococci",11/15/2023,1003.11
+0446fb2a-eb33-46b8-be14-c3dca1cea179,06/21/2024,8,Microbiology,"E. coli, Heterotrophic Plate Count, Enterococci, Legionella, Clostridium perfringens, Total Coliforms, Giardia, Cryptosporidium",06/24/2024,993.18
+0b634265-2f65-42be-92e0-8cd996d504d3,09/10/2024,9,Microbiology,"Cryptosporidium, Enterococci, Total Coliforms, Clostridium perfringens, Pseudomonas aeruginosa, Fecal Streptococci, Giardia, Heterotrophic Plate Count, Legionella",09/29/2024,893.93
+8d244951-28dd-45e7-9455-0b9dec9aa1e5,06/06/2023,5,Microbiology,"Clostridium perfringens, Giardia, Cryptosporidium, Legionella, Total Coliforms",06/21/2023,1448.99
+7f5c64f3-fc29-4c24-9002-e4b76bec3f56,08/18/2024,10,chemistry,"Heavy Metals, Hardness, pH, Turbidity, Chloride, Phosphate, Sulfate, Nitrate, Alkalinity, TOC",09/11/2024,2508.15
+9cfce890-5a7b-4646-9edb-f27ec38f4b77,10/28/2024,10,Microbiology,NaN,11/21/2024,1364.95
+1cda4042-5d7c-4a67-bc7e-1aa1b9e1f9f3,12/22/2023,3,Chemistry,"Chloride, Sulfate, Turbidity",12/25/2023,10
+45411995-644c-4797-952a-c396110230b9,11/14/2023,9,Microbiology,"Legionella, Total Coliforms, Giardia, Cryptosporidium, Heterotrophic Plate Count, E. coli, Enterococci, Clostridium perfringens, Fecal Streptococci",11/29/2023,1276.8
+1d94fb14-ea62-48ef-a74a-751362e232b3,11/26/2024,5,Chemistry,"Hardness, Heavy Metals, pH, Sulfate, Nitrate",12/01/2024,1335.39
+d04b9c57-a2f9-4d58-af06-6ad3a0c393a5,08/12/2024,3,Chemistry,"TOC, Alkalinity, Sulfate",08/30/2024,312.96
+10f1c513-8587-4bb5-9a6d-cc3335d74fc6,05/28/2024,8,Chemistry,"Turbidity, TOC, Heavy Metals, Phosphate, Hardness, Nitrate, Chloride, pH",06/07/2024,1729.51
+897962eb-ce38-4425-b0ae-403eb15f1673,02/19/2023,10,Chemistry,"Sulfate, Nitrate, Phosphate, Turbidity, Heavy Metals, pH, Hardness, TOC, Chloride, Alkalinity",03/17/2023,2716.26
+4891ed39-e735-42c6-ae13-e5731c0dc5df,01/16/2023,4,Chemistry,"Heavy Metals, Sulfate, Turbidity, Nitrate",01/28/2023,397.44
+daceac8b-ac58-4511-b4c1-46448b27387f,07/03/2023,9,Microbiology,"Heterotrophic Plate Count, Fecal Streptococci, E. coli, Pseudomonas aeruginosa, Total Coliforms, Legionella, Enterococci, Clostridium perfringens, Cryptosporidium",07/12/2023,1439.73
+437b7d2e-b96e-4374-b0c8-5b374a179a9e,08/06/2024,7,Chemistry,"Nitrate, Alkalinity, Turbidity, pH, Chloride, Hardness, Phosphate",08/16/2024,2082.11
+1cffdd04-147a-4212-9175-e3aa8a143803,02/20/2023,8,Microbiology,"Pseudomonas aeruginosa, Cryptosporidium, Legionella, Total Coliforms, E. coli, Enterococci, Heterotrophic Plate Count, Giardia",03/08/2023,1395.58
+d0ce2d0e-65c7-46a8-8bbb-e9bee5877cf5,12/22/2023,3,Chemistry,"TOC, Alkalinity, Heavy Metals",12/27/2023,496.1
+a42a17cd-ad69-48b2-9070-4a0e00c13931,09/08/2023,8,Microbiology,"Legionella, Enterococci, Fecal Streptococci, Cryptosporidium, Giardia, E. coli, Heterotrophic Plate Count, Clostridium perfringens",09/13/2023,NaN
+18a7e701-cf54-4c59-8aed-9386df4c7211,01/23/2025,7,Microbiology,"Heterotrophic Plate Count, Fecal Streptococci, Legionella, E. coli, Enterococci, Giardia, Cryptosporidium",02/07/2025,1162.29
+9a1d466a-459b-452b-a88d-5a6bb5547b10,07/08/2023,7,Chemistry,"pH, Nitrate, Chloride, Heavy Metals, Alkalinity, Hardness, Phosphate",07/21/2023,1639.15
+7035eeb2-063c-4ce1-9a74-452c49e3388a,09/13/2023,3,Microbiology,"Heterotrophic Plate Count, Clostridium perfringens, Cryptosporidium",09/30/2023,528.41
+af0460bf-4ecf-4f6c-9442-8078b75d22bf,09/05/2023,2,Microbiology,"E. coli, Legionella",09/17/2023,540.12
+ac6a869a-c201-4dce-bfe1-7eb6adf65e43,03/03/2025,2,Chemistry,"Nitrate, Phosphate",03/16/2025,361.91
+bbb17617-c661-490d-9cc3-77b733cbd760,02/26/2024,9,Microbiology,"Clostridium perfringens, Total Coliforms, Fecal Streptococci, Cryptosporidium, Enterococci, E. coli, Legionella, Pseudomonas aeruginosa, Heterotrophic Plate Count",03/12/2024,1272.35
+afb03217-6393-47ec-b903-31870478b48e,02/14/2024,6,Chemistry,"pH, TOC, Sulfate, Chloride, Alkalinity, Turbidity",03/05/2024,1224.16
+1434c5a1-f0f1-4b1d-b174-bdc7724c5b0e,01/17/2024,10,Microbiology,"Clostridium perfringens, Cryptosporidium, Legionella, Fecal Streptococci, Enterococci, Total Coliforms, Pseudomonas aeruginosa, Giardia, Heterotrophic Plate Count, E. coli",01/24/2024,2873.33
+72f82b8c-7040-40f3-9e78-834ee974227f,06/17/2024,2,Microbiology,"E. coli, Total Coliforms",NaN,390.96
+2d37dfd5-601c-4bbb-a1a8-d5e8fb19bd0a,10/12/2023,5,Microbiology,"Legionella, Pseudomonas aeruginosa, Fecal Streptococci, E. coli, Total Coliforms",11/01/2023,1130.38
+3d549ec9-6996-4326-8a8a-6987093b976d,06/01/2024,7,Chemistry,"pH, Phosphate, Sulfate, Chloride, Hardness, Turbidity, Heavy Metals",06/08/2024,894.69
+86bc8f72-9f89-4c9e-b117-4434a7d60672,09/13/2024,5,Chemistry,"Turbidity, pH, Heavy Metals, Nitrate, Sulfate",09/26/2024,579.29
+d9070688-36d3-41e4-bd83-6c2995e5c415,06/29/2023,4,Chemistry,"pH, Turbidity, Phosphate, Alkalinity",07/14/2023,352.24
+1bd299ba-6989-4c25-97b1-a6c7e78ad512,01/28/2025,1,Chemistry,Sulfate,02/17/2025,216.33
+da783687-0956-48a2-baed-ce6612721bff,05/20/2024,4,Microbiology,"Enterococci, Legionella, Clostridium perfringens, Fecal Streptococci",06/17/2024,895.58
+9954a4a6-585f-45d5-92ef-13581a7c5c6c,10/09/2024,10,Chemistry,"TOC, Alkalinity, Turbidity, Chloride, Sulfate, Hardness, Heavy Metals, pH, Phosphate, Nitrate",10/31/2024,2299.21
+e80e74f2-35e5-4c70-a38f-79c814516a5f,05/27/2024,10,Microbiology,"Enterococci, Fecal Streptococci, Heterotrophic Plate Count, Cryptosporidium, E. coli, Total Coliforms, Pseudomonas aeruginosa, Legionella, Clostridium perfringens, Giardia",06/08/2024,2436.64
+9eca5d80-7d6d-432b-806b-0b93c1caf37e,08/14/2024,7,Chemistry,"Turbidity, Phosphate, pH, Nitrate, Hardness, Sulfate, Alkalinity",08/24/2024,1105.48
+5958376e-81bc-435e-911a-8deccfc869fe,06/20/2024,9,Microbiology,"Legionella, Total Coliforms, Heterotrophic Plate Count, E. coli, Clostridium perfringens, Fecal Streptococci, Giardia, Pseudomonas aeruginosa, Enterococci",NaN,1328.21
+ab6ae899-3eae-41da-83dd-a8dc3ad395a0,01/21/2024,7,Microbiology,"Total Coliforms, Heterotrophic Plate Count, Enterococci, E. coli, Clostridium perfringens, Legionella, Giardia",01/28/2024,1711.51
+1a3e4b5a-9b82-42b4-8a7a-3d0d4deb10aa,10/19/2024,9,Microbiology,"Clostridium perfringens, Enterococci, Legionella, Cryptosporidium, E. coli, Pseudomonas aeruginosa, Giardia, Fecal Streptococci, Heterotrophic Plate Count",10/25/2024,959.62
+9b91d946-b0a5-43a5-ad09-1b52af841508,05/29/2024,6,Chemistry,"Hardness, Turbidity, pH, Phosphate, Sulfate, Chloride",06/07/2024,1692.17
+c8b7266d-a5ed-4b26-b3d5-e35eaaa1ad45,02/26/2025,3,Chemistry,"Nitrate, Alkalinity, pH",03/26/2025,743.05
+837e2215-de4d-4991-aed6-c3538a3011ed,03/02/2024,2,Chemistry,"Chloride, Phosphate",03/23/2024,256.27
+4cba012e-af69-4ec9-bdff-1b41cb3e922a,03/07/2023,7,Chemistry,"TOC, Hardness, Alkalinity, Sulfate, Nitrate, Chloride, Phosphate",03/16/2023,1670.13
+600179bb-7829-4f3f-9a78-b7c8ffdc96f6,02/04/2023,10,Microbiology,"Cryptosporidium, Fecal Streptococci, Clostridium perfringens, Enterococci, Legionella, Giardia, Heterotrophic Plate Count, Pseudomonas aeruginosa, E. coli, Total Coliforms",02/25/2023,1479.51
+e42016a5-962c-4286-8630-2c312ea12ae0,04/21/2023,6,Chemistry,"TOC, Alkalinity, Sulfate, Phosphate, pH, Chloride",05/15/2023,1202.63
+e5ec2ece-3e1d-4d7c-a1fb-1f0012571d8b,09/01/2024,3,Microbiology,"Heterotrophic Plate Count, Enterococci, Clostridium perfringens",09/11/2024,515.65
+2f7893a4-2abc-4102-b5b2-d7ae8733fca8,10/16/2024,2,Microbiology,"Heterotrophic Plate Count, Giardia",11/01/2024,524.24
+51f3268a-fdc5-4203-beed-ce6d0c8571e3,07/01/2023,3,Microbiology,"Enterococci, Legionella, Fecal Streptococci",NaN,283.98
+1dfe70b0-2b83-4bf3-b7d9-79d0aee2fe65,06/20/2024,8,Microbiology,"Legionella, Enterococci, Giardia, Pseudomonas aeruginosa, Fecal Streptococci, Clostridium perfringens, Total Coliforms, Cryptosporidium",07/10/2024,2313.79
+050bbbf0-368a-449f-8b36-8b38a136f9af,03/12/2025,3,Chemistry,"pH, Heavy Metals, Hardness",04/03/2025,453.78
+3e0eb7b5-4e61-4f47-b70f-e31aab6d8002,03/27/2025,7,Chemistry,"Hardness, TOC, Heavy Metals, Alkalinity, Phosphate, Chloride, Nitrate",04/06/2025,2015.27
+d4192eb1-5361-49a8-b48f-24e6252bf6b5,03/24/2025,8,Microbiology,"Pseudomonas aeruginosa, Clostridium perfringens, Heterotrophic Plate Count, Giardia, Fecal Streptococci, Total Coliforms, Legionella, E. coli",03/28/2025,1843.52
+a03e199a-131e-45f5-9479-5cc785b3b5f6,09/17/2024,4,Chemistry,"Hardness, pH, TOC, Phosphate",10/09/2024,383.94
+76cf835b-7829-4ff4-8991-3797594549eb,09/08/2023,9,Microbiology,"Pseudomonas aeruginosa, Giardia, E. coli, Enterococci, Heterotrophic Plate Count, Cryptosporidium, Total Coliforms, Fecal Streptococci, Clostridium perfringens",09/12/2023,1219.16
+43c01bcc-9543-45ed-a634-563671867b1d,03/09/2024,7,Microbiology,"Heterotrophic Plate Count, Cryptosporidium, Pseudomonas aeruginosa, E. coli, Total Coliforms, Fecal Streptococci, Clostridium perfringens",04/08/2024,968.96
+aad79013-0b82-4be3-bdae-2310d6632091,12/06/2023,1,Microbiology,Fecal Streptococci,12/24/2023,134.71
+2b24e460-9c3a-4af5-b1ae-7bb76bc70e8b,09/01/2024,2,Microbiology,"Total Coliforms, Legionella",09/29/2024,10
+701434bd-43ef-4609-919e-6bcf536a1962,03/09/2024,10,Chemistry,"Sulfate, Phosphate, Alkalinity, Chloride, Nitrate, Hardness, Turbidity, TOC, Heavy Metals, pH",04/05/2024,1141.5
+ef1d9323-e9b9-4576-9db0-51b96f4dd800,04/10/2024,6,Chemistry,"pH, Chloride, Heavy Metals, Alkalinity, Turbidity, Phosphate",05/07/2024,NaN
+c456d89d-3864-4fa1-8ca0-88ad4319f3f0,11/25/2023,8,Microbiology,"Fecal Streptococci, Enterococci, Total Coliforms, Clostridium perfringens, Heterotrophic Plate Count, Giardia, Cryptosporidium, Pseudomonas aeruginosa",12/03/2023,1561.43
+b016a248-de1a-4736-a407-fd7a9be8db12,08/06/2023,9,Microbiology,"Clostridium perfringens, Total Coliforms, Enterococci, Heterotrophic Plate Count, E. coli, Pseudomonas aeruginosa, Cryptosporidium, Fecal Streptococci, Giardia",08/22/2023,1623.07
+0b0d5402-2dc0-4f75-8230-2d37d5a98fd6,09/22/2023,4,Microbiology,"Legionella, Fecal Streptococci, Giardia, Total Coliforms",10/02/2023,950.74
+014590fd-9768-490b-b791-6f39b4c10fce,09/10/2023,4,Chemistry,"Sulfate, Alkalinity, Nitrate, pH",09/15/2023,390.31
+286a4ee7-8316-4b11-8a23-e219abdd5dfd,02/23/2023,4,Chemistry,"Alkalinity, Heavy Metals, Hardness, Phosphate",02/26/2023,422.49
+a6cb25de-59ad-4663-8233-a5e10d65b1b1,12/07/2024,3,Chemistry,"Sulfate, Heavy Metals, Chloride",12/17/2024,847.25
+e97f7e11-f591-4544-b98b-eff7566d6acd,01/08/2025,6,Chemistry,"Turbidity, Nitrate, TOC, Chloride, Phosphate, Alkalinity",01/15/2025,1430.24
+8ad67a91-4877-41a9-a92f-9903c2a0a312,12/10/2023,4,Microbiology,"Clostridium perfringens, Pseudomonas aeruginosa, Enterococci, Fecal Streptococci",12/20/2023,406.28
+bb2211b3-0c74-4852-a411-171b96324625,08/28/2024,7,Microbiology,"Enterococci, Clostridium perfringens, Pseudomonas aeruginosa, Heterotrophic Plate Count, Fecal Streptococci, E. coli, Cryptosporidium",09/03/2024,2027.26
+59099d04-f6b5-483a-9b1f-38adc4c3aa8f,05/26/2023,3,Chemistry,"Nitrate, Alkalinity, Chloride",06/16/2023,786.53
+db43b27a-cbd2-4f28-a062-38044f5acec1,02/24/2024,9,Microbiology,"E. coli, Heterotrophic Plate Count, Cryptosporidium, Pseudomonas aeruginosa, Total Coliforms, Legionella, Fecal Streptococci, Enterococci, Clostridium perfringens",03/10/2024,2143.11
+a788efaf-9201-4876-bb63-38d5d3b6d361,02/08/2023,8,Microbiology,"Pseudomonas aeruginosa, Fecal Streptococci, Giardia, Total Coliforms, Cryptosporidium, Clostridium perfringens, Heterotrophic Plate Count, Legionella",03/07/2023,1933.86
+38d99f78-ed62-44f2-9f60-eceb93732925,07/26/2024,6,Microbiology,"Cryptosporidium, Heterotrophic Plate Count, E. coli, Giardia, Enterococci, Total Coliforms",08/11/2024,1143.36
+7f943f0c-1f46-4a49-bb59-797deaf27d72,07/17/2023,8,Chemistry,"Heavy Metals, Nitrate, Sulfate, pH, Hardness, Turbidity, TOC, Alkalinity",08/13/2023,1148.28
+5bab6082-4751-4ba9-80b0-46db019ca183,06/03/2023,1,Microbiology,Giardia,NaN,276.51
+a1ecf2ac-ed37-4ed4-bf52-e0ea16b791da,01/27/2023,6,Microbiology,"Heterotrophic Plate Count, Pseudomonas aeruginosa, E. coli, Enterococci, Fecal Streptococci, Cryptosporidium",02/12/2023,549.17
+61fb669d-84d9-4be4-9e35-4ae3f549c5f7,02/11/2025,9,Chemistry,"Alkalinity, pH, Nitrate, Chloride, TOC, Hardness, Turbidity, Sulfate, Heavy Metals",02/25/2025,755.21
+cca88978-3ae6-4217-82b7-65e4ac4492c8,11/29/2024,5,Chemistry,"Heavy Metals, Alkalinity, Sulfate, Nitrate, Hardness",12/02/2024,1298.25
+804a6a98-9c2e-443b-96eb-0664912ba7e2,05/11/2024,7,Microbiology,NaN,05/20/2024,833.08
+e8de0b66-a30e-4240-8113-0d7b37ceac64,07/20/2024,10,Chemistry,"Nitrate, Heavy Metals, Phosphate, Turbidity, Alkalinity, pH, Hardness, Sulfate, Chloride, TOC",08/14/2024,2770.72
+1cd88c6e-1ed9-4cdc-83ff-15b2be4d32ab,09/17/2023,1,Chemistry,Phosphate,09/22/2023,287.14
+5f725846-3b4b-4c9d-ba50-91895f83be92,04/09/2023,2,Microbiology,"Clostridium perfringens, Total Coliforms",05/09/2023,532.51
+ac734494-4cad-42f1-8986-00ed93505b59,01/20/2025,8,Microbiology,"Pseudomonas aeruginosa, Giardia, Legionella, Total Coliforms, E. coli, Clostridium perfringens, Cryptosporidium, Fecal Streptococci",02/04/2025,2350.66
+ab0ca6cd-e7d4-44b4-9330-2472f87c1e68,02/17/2025,9,Chemistry,"Alkalinity, Nitrate, Hardness, pH, Turbidity, Sulfate, TOC, Heavy Metals, Chloride",03/07/2025,940.11
+d916ff9e-7c62-48b2-9e3e-caffc65bc4ee,09/18/2023,9,Chemistry,"Hardness, Turbidity, TOC, Phosphate, Nitrate, pH, Chloride, Sulfate, Heavy Metals",09/27/2023,1135.77
+7d3a5ec0-b77d-4b5f-b416-181c973d5d54,08/17/2023,8,Microbiology,"Legionella, Clostridium perfringens, Giardia, Heterotrophic Plate Count, Pseudomonas aeruginosa, Total Coliforms, E. coli, Cryptosporidium",09/01/2023,1349.94
+4f40cb1c-c411-4127-ad53-e953fa69a990,02/23/2023,2,Chemistry,"TOC, Alkalinity",03/02/2023,294.1
+a5d55361-ffb2-4a07-ae9c-b6e583d67559,03/28/2025,1,Microbiology,Legionella,04/20/2025,125.83
+6b07481d-7848-4f24-aaae-dbb988becc99,10/16/2023,9,Chemistry,"Sulfate, Hardness, Nitrate, Heavy Metals, pH, Chloride, Alkalinity, Phosphate, Turbidity",11/08/2023,1934.21
+157f22eb-ae04-4714-a20a-74155cfb8e88,04/14/2025,5,Microbiology,"Legionella, Giardia, Fecal Streptococci, Enterococci, Heterotrophic Plate Count",04/26/2025,1189.16
+ef8434e8-34ca-4155-bdff-deaa520c879b,11/13/2024,2,Chemistry,"Heavy Metals, Alkalinity",12/08/2024,345.87
+51f601eb-3aa1-45ca-bef9-569d7309035a,12/03/2023,8,Microbiology,NaN,12/29/2023,1020.94
+3264645b-252d-4f3f-a9f4-15cf446b8ff7,05/31/2024,3,Microbiology,"Total Coliforms, Legionella, Heterotrophic Plate Count",06/05/2024,560.86
+5e50ddbf-e6f7-4734-b86e-d5f3dd7faa63,09/15/2024,4,Chemistry,"Nitrate, Alkalinity, Phosphate, Hardness",NaN,1082.04
+137fcf32-f9a1-4a9d-b3c5-6375901c46b5,05/07/2024,7,Microbiology,"Giardia, Enterococci, Total Coliforms, Fecal Streptococci, Legionella, Clostridium perfringens, Cryptosporidium",05/19/2024,960.48
+505daa34-2a40-496e-9766-2675df457d09,03/10/2024,6,Chemistry,"Turbidity, Nitrate, pH, Sulfate, Heavy Metals, TOC",03/26/2024,1375.07
+d7d55369-add7-488b-9d4f-de545a658849,02/21/2025,4,Microbiology,"Cryptosporidium, Legionella, Clostridium perfringens, Heterotrophic Plate Count",03/17/2025,1162.9
+fb921145-9521-4008-9dc6-46ad29a82d82,10/21/2024,1,Chemistry,NaN,11/18/2024,258.25
+927feb08-8fa3-4565-933c-edab0f64c190,07/17/2024,8,Microbiology,"Cryptosporidium, Fecal Streptococci, Legionella, Pseudomonas aeruginosa, Total Coliforms, Enterococci, Heterotrophic Plate Count, Giardia",08/03/2024,2341.22
+57a5a528-c9f6-40e4-9f10-65c45b76f0bf,04/14/2023,5,Microbiology,"Enterococci, Giardia, Legionella, Pseudomonas aeruginosa, Cryptosporidium",05/04/2023,NaN
+543fbd10-226b-49fc-8e17-7879a873c35e,12/19/2024,9,Chemistry,"Nitrate, Phosphate, Alkalinity, Hardness, pH, Sulfate, TOC, Chloride, Heavy Metals",01/16/2025,1950.79
+cd837934-5583-42af-b8df-54d0859b428b,01/18/2025,10,Chemistry,"Turbidity, Sulfate, Hardness, pH, TOC, Alkalinity, Heavy Metals, Phosphate, Chloride, Nitrate",02/15/2025,2819.9
+83d0d57f-5998-4551-9add-170fc6687755,12/23/2024,3,Microbiology,"Heterotrophic Plate Count, Giardia, Enterococci",01/19/2025,492.82
+38071d6d-6e05-4c28-b6d3-2c732edc04f7,06/24/2023,4,Chemistry,"Hardness, Alkalinity, Heavy Metals, Nitrate",07/06/2023,441.74
+9f32f92e-1e32-4c6e-a990-cb28cad0c6fc,01/15/2024,10,Microbiology,"Cryptosporidium, Heterotrophic Plate Count, Clostridium perfringens, Giardia, Fecal Streptococci, Enterococci, Legionella, Pseudomonas aeruginosa, E. coli, Total Coliforms",01/20/2024,2590.39
+60522aa8-23e5-46e2-a7a1-940d19cfe5a4,01/13/2025,3,Chemistry,"Hardness, Turbidity, Nitrate",01/18/2025,326.35
+91319c9b-73d2-4262-9da8-c9a23fbff484,05/20/2024,10,Chemistry,"pH, Chloride, Heavy Metals, Nitrate, Turbidity, Phosphate, Hardness, Alkalinity, Sulfate, TOC",06/05/2024,1929.16
+58c00ff3-ab39-43f3-97d5-91614cb83821,01/20/2025,8,Microbiology,"Heterotrophic Plate Count, Legionella, Clostridium perfringens, E. coli, Fecal Streptococci, Giardia, Cryptosporidium, Enterococci",02/02/2025,758.6
+3d948522-f1c6-4e26-a188-d1d03142d162,07/17/2024,10,Microbiology,"Enterococci, Fecal Streptococci, Pseudomonas aeruginosa, Giardia, Cryptosporidium, Total Coliforms, E. coli, Legionella, Clostridium perfringens, Heterotrophic Plate Count",NaN,2655.47
+bb616dc0-6665-4fbb-9d76-73a1670c7574,03/20/2023,9,Microbiology,"Legionella, Pseudomonas aeruginosa, Cryptosporidium, E. coli, Clostridium perfringens, Enterococci, Total Coliforms, Heterotrophic Plate Count, Giardia",04/14/2023,1123.96
+b74e3a0d-2118-4f9c-a035-58ebd2095514,08/02/2024,7,Microbiology,"Enterococci, Cryptosporidium, E. coli, Heterotrophic Plate Count, Clostridium perfringens, Total Coliforms, Giardia",08/25/2024,1456.34
+a5599f34-8456-4853-9887-d4025b70f1e3,21-02-2025,7,Microbiology,"Total Coliforms, Cryptosporidium, Heterotrophic Plate Count, Giardia, Pseudomonas aeruginosa, Fecal Streptococci, E. coli",03/20/2025,801.13
+fe1850b3-7a89-426b-a15e-1d829fac1b61,01/12/2024,7,Chemistry,"Nitrate, pH, Phosphate, TOC, Alkalinity, Heavy Metals, Sulfate",02/07/2024,1054.4
+8298aa9c-7ad7-4290-872b-5353a513f7f3,07/22/2024,10,Chemistry,"pH, Phosphate, Heavy Metals, Chloride, Nitrate, Sulfate, Alkalinity, Hardness, Turbidity, TOC",08/08/2024,1613.8
+86ba5df7-517c-4304-8a22-339d7e990e2b,04/26/2023,4,Microbiology,"Cryptosporidium, Giardia, Fecal Streptococci, Clostridium perfringens",05/10/2023,653.05
+53807b45-da81-4c9f-897f-d0491edb6f02,03/08/2025,10,Chemistry,"Hardness, Heavy Metals, Alkalinity, TOC, pH, Turbidity, Phosphate, Sulfate, Nitrate, Chloride",03/16/2025,1469.18
+23f8deab-cafa-4acb-a6fc-88a84613f964,09/01/2023,9,Chemistry,"Phosphate, Sulfate, TOC, pH, Nitrate, Heavy Metals, Hardness, Chloride, Turbidity",09/09/2023,1889.09
+f3f1f276-02dc-48bb-8174-002d36f72aa0,04/14/2025,5,Microbiology,"Cryptosporidium, Clostridium perfringens, Pseudomonas aeruginosa, Enterococci, Giardia",05/04/2025,1265.36
+5db176a6-10ea-42fa-a4ea-36a2203142d9,08/16/2024,7,Chemistry,NaN,NaN,1314.22
+3c782388-3664-44ca-8189-a656f48da4ba,01/14/2025,2,Microbiology,"Enterococci, E. coli",01/25/2025,588.57
+7f023d10-16c1-41c5-96f4-b1f5d29629b8,02/07/2024,1,Chemistry,Heavy Metals,02/29/2024,119.09
+866656c9-17cd-41b1-a3a3-051c3594ad56,04/05/2023,3,Microbiology,"Total Coliforms, Clostridium perfringens, Enterococci",04/23/2023,831.39
+5659328a-8a41-4e78-8c38-e29f2e7964da,07.27.2024,9,Microbiology,"Clostridium perfringens, E. coli, Total Coliforms, Fecal Streptococci, Giardia, Legionella, Heterotrophic Plate Count, Enterococci, Pseudomonas aeruginosa",NaN,1524.14
+69308895-b315-47cb-b20f-903937e802dc,02/25/2025,6,Chemistry,NaN,03/08/2025,577.09
+14d79b3c-34c6-4395-811f-9c00f7144f72,05/04/2024,3,Chemistry,NaN,05/31/2024,606.26
+0da78a38-d974-4cc1-9aba-f9d18ad850b1,01/07/2023,4,Microbiology,"Enterococci, Total Coliforms, Cryptosporidium, Legionella",01/16/2023,710.29
+d79e9478-228e-4300-a4e4-981385e47708,09/23/2023,2,Microbiology,"Legionella, Total Coliforms",09/29/2023,NaN
+d0c1328a-0d0e-4ebf-a756-b2d04e18a2f0,09/14/2024,5,Microbiology,"Pseudomonas aeruginosa, Giardia, Fecal Streptococci, E. coli, Legionella",09/18/2024,929.04
+341ee590-b46f-4469-88dc-369fa8869bcf,04/11/2025,7,Microbiology,"Heterotrophic Plate Count, E. coli, Enterococci, Clostridium perfringens, Pseudomonas aeruginosa, Giardia, Total Coliforms",04/20/2025,1656.62
+96e5d92e-032d-4bca-98f0-529261212b88,11/19/2023,7,Chemistry,"TOC, Heavy Metals, Turbidity, Chloride, Sulfate, Hardness, Phosphate",27-11-2023,1953.86
+1d55d05b-5d23-4380-9097-1f8286fc8c41,12/24/2024,9,Microbiology,"Giardia, E. coli, Pseudomonas aeruginosa, Cryptosporidium, Heterotrophic Plate Count, Total Coliforms, Clostridium perfringens, Legionella, Fecal Streptococci",01/18/2025,1935.72
+82e69422-cb15-4e11-af29-4d067b10dfcd,04/14/2023,5,Chemistry,"Turbidity, TOC, Hardness, Sulfate, Chloride",04/22/2023,1063.55
+0b967f13-0ba3-4614-a219-48d31fbe100a,03/22/2025,5,Chemistry,NaN,04/12/2025,810.84
+3ff5b686-36d1-4722-9253-340900d7ab10,08/05/2024,10,Chemistry,"Sulfate, Nitrate, Hardness, Heavy Metals, TOC, Turbidity, Chloride, Alkalinity, pH, Phosphate",08/13/2024,1830.08
+338116be-286f-4734-b377-5ebafa61fd3f,01/21/2024,9,Microbiology,NaN,02/17/2024,1304.68
+89e9d970-47dc-4e3d-ba65-58f22a4bf1e0,06/16/2023,7,Chemistry,"Phosphate, Nitrate, pH, Alkalinity, Chloride, Heavy Metals, Turbidity",06/27/2023,1720.41
+b4397608-56f6-4222-b877-c0222abc4082,06/18/2023,4,Microbiology,"Legionella, Cryptosporidium, E. coli, Pseudomonas aeruginosa",NaN,912.73
+1f9218d3-bc5b-46f7-8c5a-0d1b9f0cd235,07.31.2023,6,Microbiology,"Total Coliforms, Legionella, Enterococci, Cryptosporidium, Giardia, E. coli",NaN,725.94
+bdfa0546-64da-46db-9270-a8c205e0d912,06/29/2023,7,Chemistry,"Heavy Metals, Hardness, TOC, pH, Sulfate, Turbidity, Alkalinity",07/29/2023,688.25
+a33ba1cc-3be6-4c4c-8725-dac9c2cc0811,11/23/2024,9,Microbiology,"Giardia, Legionella, E. coli, Total Coliforms, Heterotrophic Plate Count, Pseudomonas aeruginosa, Fecal Streptococci, Enterococci, Cryptosporidium",11/29/2024,1036.1
+f20414b1-a035-44d8-b66d-1626d7a5031b,01/13/2024,9,Chemistry,"Chloride, Turbidity, pH, Sulfate, Alkalinity, Heavy Metals, Hardness, TOC, Phosphate",02/12/2024,859.3
+bc6a6cba-0b3d-446d-beb7-672a5d4c34fd,12/20/2023,2,chemistry,"Phosphate, Sulfate",01/08/2024,463.46
+d5797a84-2ef9-4038-9da7-4b9f76c0765a,03/09/2025,1,Microbiology,Fecal Streptococci,04/06/2025,235.48
+d569dfaf-5299-464c-9669-625135c0536e,11/01/2023,6,Microbiology,"Fecal Streptococci, Total Coliforms, Pseudomonas aeruginosa, Clostridium perfringens, Legionella, Cryptosporidium",11/22/2023,1779.29
+6e3cac3f-7407-4f6d-a281-9ff53036834d,09/12/2024,9,Microbiology,"Pseudomonas aeruginosa, Cryptosporidium, Enterococci, Legionella, E. coli, Total Coliforms, Fecal Streptococci, Heterotrophic Plate Count, Clostridium perfringens",NaN,727.87
+bd0fecec-1adb-4ccf-8894-53f28ca8fce6,06/28/2023,7,Chemistry,"Alkalinity, Hardness, Sulfate, Chloride, Phosphate, pH, Nitrate",07/10/2023,NaN
+28a1a119-5bad-4859-b657-a56412884f2e,09/06/2023,5,Chemistry,"TOC, Nitrate, Heavy Metals, Phosphate, Turbidity",09/29/2023,1388.87
+b1824bc5-48a6-4ed6-8c26-7677e55290dd,12/13/2023,3,Microbiology,"Total Coliforms, Pseudomonas aeruginosa, Legionella",01/09/2024,664.48
+5a87b8cb-8398-4110-ba24-1e61e99de127,07/07/2023,1,Chemistry,NaN,07.17.2023,232.54
+705017c8-e5b3-4e30-853b-3769320b2714,04/20/2024,1,Microbiology,Enterococci,04/23/2024,210.49
+5aede601-51e7-4f9a-bc86-879c3008dd0a,10/28/2024,7,Microbiology,"Pseudomonas aeruginosa, Cryptosporidium, Clostridium perfringens, Legionella, Fecal Streptococci, Total Coliforms, Heterotrophic Plate Count",11/22/2024,769.82
+65d8d9ae-facf-4f6f-93f8-b88063390e71,07/20/2023,10,Chemistry,"TOC, Sulfate, Turbidity, Heavy Metals, Hardness, Phosphate, Chloride, pH, Alkalinity, Nitrate",08/12/2023,1226.46
+8bdf3032-5d3b-4a6d-8441-f789995ea9f3,03/05/2025,3,Chemistry,"Alkalinity, Phosphate, Nitrate",03/27/2025,509.06
+963d3bf5-458e-47ba-907d-fb0f608fe538,04/28/2023,4,Microbiology,"Fecal Streptococci, Total Coliforms, Clostridium perfringens, Heterotrophic Plate Count",05/15/2023,1088.78
+eab253c4-9803-49a6-a5b2-3f3c601823f6,06/13/2024,9,Chemistry,"TOC, Nitrate, Turbidity, Phosphate, Heavy Metals, Hardness, Chloride, Sulfate, Alkalinity",07/08/2024,2212.19
+2849d2c0-00a3-41be-ad7d-2bfd2046cfc8,03/13/2024,5,Microbiology,"Giardia, E. coli, Total Coliforms, Cryptosporidium, Legionella",04/03/2024,1160.86
+5a41351a-41fd-41e2-b692-70a5e0774d5a,11/03/2024,10,Chemistry,"Phosphate, Nitrate, Heavy Metals, Chloride, pH, TOC, Sulfate, Turbidity, Alkalinity, Hardness",NaN,NaN
+1d5eb4ad-5a9e-4f51-828f-9c50fc6abaa3,04/22/2023,6,Microbiology,NaN,05/10/2023,1765.36
+08fcfdd4-fc53-4d53-8fe7-e44911216204,03/19/2025,7,MICROBIOLOGY,"Heterotrophic Plate Count, Pseudomonas aeruginosa, Cryptosporidium, Clostridium perfringens, Fecal Streptococci, E. coli, Total Coliforms",04/18/2025,958.93
+30db0d59-b890-4e6f-ab96-25f595ecd177,06/01/2023,7,Microbiology,"Legionella, Heterotrophic Plate Count, Giardia, Cryptosporidium, E. coli, Fecal Streptococci, Pseudomonas aeruginosa",06/15/2023,1807.82
+4c8dd4e4-bfc8-4288-8822-bc4e150e91fb,05/16/2023,1,Chemistry,Heavy Metals,05/26/2023,282.42
+1514269b-27a3-40df-a66e-bb02493fce1b,02/08/2023,6,Chemistry,"pH, TOC, Hardness, Phosphate, Sulfate, Nitrate",02/17/2023,1284.71
+39efbadb-b37f-4fab-8ab3-7f4269a6adda,02/07/2023,6,Microbiology,"Heterotrophic Plate Count, Clostridium perfringens, Total Coliforms, Cryptosporidium, Enterococci, Fecal Streptococci",02/22/2023,1593.29
+3a984961-b9e4-4125-be5a-342ae5579361,10/21/2024,2,Microbiology,NaN,10/28/2024,431.78
+0c4f83c6-4550-4d58-966f-b046024b8486,03/25/2025,4,Chemistry,NaN,03/29/2025,807.24
+081f2233-df00-44be-a744-f4810058e025,03/06/2025,1,Microbiology,Giardia,03/26/2025,277.41
+cb1a70e5-6dcf-40bf-856d-bd280141b051,09/27/2024,10,Chemistry,"Nitrate, Phosphate, Turbidity, Hardness, Sulfate, Alkalinity, pH, Heavy Metals, TOC, Chloride",09/30/2024,2320.01
+17e83641-0964-4988-bd57-662574c77ca3,07/14/2024,1,Microbiology,Pseudomonas aeruginosa,07/28/2024,188.99
+eb0f3e3b-1b09-4b43-afc2-f508fb40f877,08/11/2023,4,Microbiology,"Fecal Streptococci, Pseudomonas aeruginosa, Clostridium perfringens, E. coli",NaN,746.58
+90b96750-93d9-46b8-81bc-19ceab3b734e,05/31/2023,6,Chemistry,"Heavy Metals, Sulfate, Chloride, Nitrate, Hardness, Phosphate",06/19/2023,774.71
+2385f36a-4aab-4ad7-9c66-b2d30e5a5995,06/11/2024,1,Chemistry,Heavy Metals,06/27/2024,190.82
+3418a96b-8258-445b-916a-5687d7eda83b,02/17/2023,9,Microbiology,"Fecal Streptococci, Cryptosporidium, Enterococci, Clostridium perfringens, Pseudomonas aeruginosa, E. coli, Legionella, Heterotrophic Plate Count, Total Coliforms",03/17/2023,1683.31
+72b0adb8-de78-4364-a3e2-a5944737c5bd,07/21/2024,7,Microbiology,NaN,08/13/2024,1901.4
+add45d74-c7eb-440b-9f75-f90031f1435e,01/06/2024,1,Chemistry,Heavy Metals,01/27/2024,136.61
+1effbfbf-1013-454b-b03c-dd8f873b35fe,05/15/2023,7,Chemistry,"pH, Heavy Metals, Alkalinity, Phosphate, Hardness, Turbidity, Nitrate",05/29/2023,651.62
+c985bc19-e1f1-4746-9c9e-7d536ade5010,02/21/2024,9,Microbio,"Cryptosporidium, Heterotrophic Plate Count, Clostridium perfringens, Legionella, Fecal Streptococci, Pseudomonas aeruginosa, E. coli, Enterococci, Giardia",02/24/2024,1550.22
+8a19e036-ef87-47df-83f2-eeafcf11cf5e,12/26/2023,6,Chemistry,"Heavy Metals, Chloride, Nitrate, Alkalinity, pH, Hardness",01/24/2024,500.18
+573b411a-9682-4a35-acb1-e0f775ba5b8a,11/06/2023,2,Chemistry,"TOC, Nitrate",11/19/2023,218.36
+62f54e57-6f25-4f67-ab82-f0d22acbfa51,09/11/2024,2,Microbiology,"Enterococci, Clostridium perfringens",09/30/2024,529.45
+834a8d96-9404-4088-af30-f107dd431e34,12/19/2023,5,Chemistry,"TOC, Sulfate, Phosphate, Hardness, Alkalinity",01/17/2024,669.08
+0d3dd8ea-1bdf-4129-8302-478ca6c05721,11/01/2023,2,Microbiology,"Giardia, Clostridium perfringens",11/07/2023,437.03
+2774097f-0b30-45bf-bf17-bf1888359ef9,10/11/2024,8,Chemistry,"Alkalinity, Hardness, Heavy Metals, Phosphate, pH, Chloride, Turbidity, TOC",11/07/2024,748.82
+159455ac-bcdd-4068-aa3a-94131f10d981,02/16/2024,10,Chemistry,"Alkalinity, Nitrate, Phosphate, pH, Heavy Metals, TOC, Chloride, Hardness, Turbidity, Sulfate",03/04/2024,2602.54
+e2f4a27d-643b-4685-8f0d-aa9457b687ac,10/23/2024,4,Microbiology,"Enterococci, Clostridium perfringens, Cryptosporidium, Legionella",11/01/2024,794.19
+a3327e4a-59fe-4bc4-954d-8570969d8d7d,03/19/2023,2,Chemistry,"pH, Nitrate",04/10/2023,170.46
+7530798a-0a35-49a5-afeb-09a9ac832ecc,11/30/2024,5,Microbiology,"Clostridium perfringens, E. coli, Pseudomonas aeruginosa, Heterotrophic Plate Count, Fecal Streptococci",12/13/2024,799.21
+71fb588b-0de9-4b44-acee-bb349b6023f2,04/02/2023,9,Microbiology,"Fecal Streptococci, Legionella, E. coli, Heterotrophic Plate Count, Pseudomonas aeruginosa, Enterococci, Total Coliforms, Cryptosporidium, Clostridium perfringens",04/12/2023,1589.11
+6abf7194-3941-4ec2-9cae-c1e0de2d16e8,01/10/2024,6,Microbiology,NaN,01/14/2024,914.77
+c3bd412d-66f0-4af1-a47a-2f2efe87431e,12/06/2023,1,Chemistry,Heavy Metals,12/09/2023,228.39
+206486fa-50f8-4942-8b07-c9b64fb3623d,04/09/2024,8,Microbiology,"Cryptosporidium, Fecal Streptococci, Enterococci, Legionella, Heterotrophic Plate Count, Clostridium perfringens, E. coli, Total Coliforms",05/05/2024,1088.45
+479a4e74-93e9-4be0-8d51-3908f0babe33,12/10/2024,8,Microbiology,NaN,01/06/2025,1616.41
+736ace6a-f9e5-42e7-9666-eab8497255fe,05/28/2023,7,Microbiology,"Pseudomonas aeruginosa, Giardia, Legionella, Total Coliforms, Clostridium perfringens, Fecal Streptococci, Cryptosporidium",06/20/2023,928.25
+9f2e37b4-9242-4c9e-9c35-c45cdd58f695,11/10/2024,2,Chemistry,"Alkalinity, Chloride",12/03/2024,544.88
+928a4457-bc2b-4e3c-9c4c-c37991db98a0,01/25/2023,3,Microbiology,"E. coli, Legionella, Pseudomonas aeruginosa",01/28/2023,810.4
+83fe4027-fbad-4879-8563-f154a1015636,10/12/2023,6,Microbiology,"Enterococci, Pseudomonas aeruginosa, Giardia, E. coli, Total Coliforms, Fecal Streptococci",10/30/2023,1534.23
+0c25ee0f-e105-4529-a571-34eeddea3c36,05/23/2024,8,Microbiology,"Total Coliforms, Enterococci, Clostridium perfringens, Legionella, Fecal Streptococci, Pseudomonas aeruginosa, E. coli, Heterotrophic Plate Count",NaN,NaN
+be391cbc-9bd1-4fec-ab63-830a8d6e91d8,10/26/2024,9,Microbiology,"Legionella, Clostridium perfringens, Enterococci, E. coli, Pseudomonas aeruginosa, Heterotrophic Plate Count, Fecal Streptococci, Giardia, Total Coliforms",11/22/2024,2158.34
+acbeab45-4cf4-4dec-8699-ae15eb03ddfa,04/02/2025,2,Microbiology,"Heterotrophic Plate Count, Giardia",04/16/2025,576.72
+26516224-8dbc-44dc-98e4-ee0ef049a3b5,12/15/2024,2,Microbiology,"Enterococci, Heterotrophic Plate Count",12/22/2024,595.33
+985acae8-bdcb-4086-be35-3b581f2b4880,05/29/2024,3,Chemistry,"Alkalinity, Hardness, Turbidity",06/10/2024,852.76
+361a07ea-8804-4400-8a5e-41784cefbdea,01/21/2023,8,Microbiology,NaN,01/27/2023,1921.22
+9458012f-ca24-4f5a-a388-618dcc90eeed,13-04-2025,2,Chemistry,"Sulfate, Nitrate",05/12/2025,304.65
+abfce290-2be8-4001-9820-48050cdfc860,09/03/2024,4,Microbiology,"Heterotrophic Plate Count, E. coli, Enterococci, Cryptosporidium",09/08/2024,644.34
+159455ac-bcdd-4068-aa3a-94131f10d981,02/16/2024,10,Chemistry,"Alkalinity, Nitrate, Phosphate, pH, Heavy Metals, TOC, Chloride, Hardness, Turbidity, Sulfate",03/04/2024,2602.54
+3736485b-6447-4ed1-8895-ea3cb9f14cc8,07/09/2023,6,Chemistry,NaN,08/07/2023,1661.27
+8ccb9359-1c78-4bd2-8ac2-7caaf724f2d1,10/13/2024,10,Microbiology,"Pseudomonas aeruginosa, Enterococci, Total Coliforms, E. coli, Giardia, Fecal Streptococci, Heterotrophic Plate Count, Clostridium perfringens, Cryptosporidium, Legionella",10/30/2024,2991.23
+a9e7f526-dc5d-4413-91ad-38d5db31acfa,03/22/2025,7,Microbiology,"Pseudomonas aeruginosa, Cryptosporidium, E. coli, Giardia, Legionella, Clostridium perfringens, Enterococci",04/21/2025,1678.93
+088e33a3-c4b9-4c91-86e5-620b82c64a4f,01/12/2024,4,Microbiology,"Fecal Streptococci, Enterococci, Cryptosporidium, E. coli",01/31/2024,NaN
+d0ce2d0e-65c7-46a8-8bbb-e9bee5877cf5,12/22/2023,3,Chemistry,"TOC, Alkalinity, Heavy Metals",12/27/2023,496.1
+71fb588b-0de9-4b44-acee-bb349b6023f2,04/02/2023,9,Microbiology,"Fecal Streptococci, Legionella, E. coli, Heterotrophic Plate Count, Pseudomonas aeruginosa, Enterococci, Total Coliforms, Cryptosporidium, Clostridium perfringens",04/12/2023,1589.11
+c1afa0e4-9de9-4831-8fc7-18d5c1f9474a,09.28.2024,6,Microbiology,"Fecal Streptococci, Clostridium perfringens, Giardia, Total Coliforms, E. coli, Enterococci",10/16/2024,650.07
+9dab98aa-093e-4e0f-b1c1-d4368d3e6c02,09/25/2024,7,Microbiology,"E. coli, Legionella, Cryptosporidium, Fecal Streptococci, Pseudomonas aeruginosa, Total Coliforms, Giardia",10/16/2024,1525.55
+573b411a-9682-4a35-acb1-e0f775ba5b8a,11/06/2023,2,Chemistry,"TOC, Nitrate",11/19/2023,218.36
+bd03370f-f8fa-42c9-a71a-7e99b316bce3,06/12/2023,10,Chemistry,"Chloride, Heavy Metals, Sulfate, TOC, Turbidity, Nitrate, pH, Alkalinity, Hardness, Phosphate",07/03/2023,1023.37
+36c0ab10-a2d9-4a4b-acff-f0f2d801aebc,02/13/2025,6,Chemistry,"Heavy Metals, Hardness, TOC, Phosphate, Alkalinity, Sulfate",03/01/2025,10000
+6abf7194-3941-4ec2-9cae-c1e0de2d16e8,01/10/2024,6,Microbiology,NaN,01/14/2024,914.77
+7c3c31aa-1d69-4499-abbb-90f8bb5b3e35,08/06/2024,3,Chemistry,"Sulfate, Nitrate, Hardness",08/18/2024,886.89
+8d244951-28dd-45e7-9455-0b9dec9aa1e5,06/06/2023,5,Microbiology,"Clostridium perfringens, Giardia, Cryptosporidium, Legionella, Total Coliforms",06/21/2023,1448.99

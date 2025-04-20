@@ -1,0 +1,7 @@
+Request_ID,Sample_Received_Date,Number_of_Tests,Test_Type,Test_Names,Final_CofA_Date,Revenue
+f47ac10b-58cc-4372-a567-0e02b2c3d479,03/15/2023,5,Chemistry,pH, Nitrate, Chloride, Alkalinity, Hardness,04/02/2023,1250.45
+8f14e45f-ceea-4f8b-9d8c-1e3b9c2f6e7a,07/22/2023,3,Microbiology,Total Coliforms, E. coli, Enterococci,08/10/2023,720.89
+3c6e0b8a-9b3e-4f2d-8c9d-7f8e2c3b5a1c,11/10/2024,7,Chemistry,Turbidity, Phosphate, Sulfate,NaN,1980.12
+a1b2c3d4-e5f6-7890-abcd-ef1234567890,2024/05/12,4,Microbio,Fecal Streptococci, Clostridium perfringens,NaN,5000.00
+f47ac10b-58cc-4372-a567-0e02b2c3d479,03/15/2023,5,Chemistry,pH, Nitrate, Chloride, Alkalinity, Hardness,04/02/2023,1250.45
+...

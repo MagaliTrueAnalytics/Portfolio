@@ -4,6 +4,8 @@
 
 This dataset was **generated to simulate** the operations of an environmental analysis laboratory specializing in **water quality testing**🚰, inspired by services like those offered by [H2Lab](https://h2lab.ca/) (e.g., drinking water analysis). The dataset represents **Certificates of Analysis (CofA)** for water samples, capturing key details about the **analysis process from sample reception to final certification**. It was created with the assistance of [Grok](https://grok.com/), an AI developed by **xAI**, which generated the dataset based on specified criteria to ensure realism and complexity for data analysis tasks.
 
+Grok provided the [Python script](https://github.com/MagaliTrueAnalytics/Portfolio/edit/main/Projet3/Data/environmental_dataset.py) to generate the dataset, and the .py file was executed in **VS Code** to produce the .csv file. 
+
 <h3>📊Content</h3>
 
 The dataset contains 1000+ rows (including duplicates) and the following columns:

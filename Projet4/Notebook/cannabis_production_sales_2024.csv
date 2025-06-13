@@ -1,0 +1,37 @@
+Date,Strain_Type,Yield_kg,Growth_Rate_pct,Humidity_pct,Temperature_C,Production_Cost_USD_per_kg,Stock_Available_kg,Distribution_Delay_days,Region,Sales_Volume_kg,Client_Type,Revenue_USD,Client_Satisfaction_pct
+2024-01-01,Indica,150,2.5,65,22,120,200,3,North,50,Détaillant,25000,85
+2024-01-01,Sativa,120,2.3,60,23,130,180,4,South,40,Grossiste,20000,80
+2024-01-01,Hybrid,100,2.1,62,21,125,150,3,West,30,Consommateur direct,18000,90
+2024-02-01,Indica,160,2.6,66,23,118,210,3,North,55,Détaillant,27500,86
+2024-02-01,Sativa,130,2.4,61,24,128,190,4,South,45,Grossiste,22500,81
+2024-02-01,Hybrid,110,2.2,63,22,123,160,3,West,35,Consommateur direct,21000,91
+2024-03-01,Indica,170,2.7,67,24,115,220,2,North,60,Détaillant,30000,87
+2024-03-01,Sativa,140,2.5,62,25,126,200,3,South,50,Grossiste,25000,82
+2024-03-01,Hybrid,120,2.3,64,23,121,170,2,West,40,Consommateur direct,24000,92
+2024-04-01,Indica,180,2.8,68,25,112,230,2,North,65,Détaillant,32500,88
+2024-04-01,Sativa,150,2.6,63,26,124,210,3,South,55,Grossiste,27500,83
+2024-04-01,Hybrid,130,2.4,65,24,119,180,2,West,45,Consommateur direct,27000,93
+2024-05-01,Indica,190,2.9,69,26,110,240,2,North,70,Détaillant,35000,89
+2024-05-01,Sativa,160,2.7,64,27,122,220,3,South,60,Grossiste,30000,84
+2024-05-01,Hybrid,140,2.5,66,25,117,190,2,West,50,Consommateur direct,30000,94
+2024-06-01,Indica,200,3.0,70,27,108,250,1,North,75,Détaillant,37500,90
+2024-06-01,Sativa,170,2.8,65,28,120,230,2,South,65,Grossiste,32500,85
+2024-06-01,Hybrid,150,2.6,67,26,115,200,1,West,55,Consommateur direct,33000,95
+2024-07-01,Indica,210,3.1,71,28,106,260,1,North,80,Détaillant,40000,91
+2024-07-01,Sativa,180,2.9,66,29,118,240,2,South,70,Grossiste,35000,86
+2024-07-01,Hybrid,160,2.7,68,27,113,210,1,West,60,Consommateur direct,36000,96
+2024-08-01,Indica,220,3.2,72,29,104,270,1,North,85,Détaillant,42500,92
+2024-08-01,Sativa,190,3.0,67,30,116,250,2,South,75,Grossiste,37500,87
+2024-08-01,Hybrid,170,2.8,69,28,111,220,1,West,65,Consommateur direct,39000,97
+2024-09-01,Indica,230,3.3,73,28,102,280,1,North,90,Détaillant,45000,93
+2024-09-01,Sativa,200,3.1,68,29,114,260,2,South,80,Grossiste,40000,88
+2024-09-01,Hybrid,180,2.9,70,27,109,230,1,West,70,Consommateur direct,42000,98
+2024-10-01,Indica,240,3.4,74,27,100,290,1,North,95,Détaillant,47500,94
+2024-10-01,Sativa,210,3.2,69,28,112,270,2,South,85,Grossiste,42500,89
+2024-10-01,Hybrid,190,3.0,71,26,107,240,1,West,75,Consommateur direct,45000,99
+2024-11-01,Indica,230,3.3,73,26,102,280,1,North,90,Détaillant,45000,93
+2024-11-01,Sativa,200,3.1,68,27,114,260,2,South,80,Grossiste,40000,88
+2024-11-01,Hybrid,180,2.9,70,25,109,230,1,West,70,Consommateur direct,42000,98
+2024-12-01,Indica,220,3.2,72,25,104,270,1,North,85,Détaillant,42500,92
+2024-12-01,Sativa,190,3.0,67,26,116,250,2,South,75,Grossiste,37500,87
+2024-12-01,Hybrid,170,2.8,69,24,111,220,1,West,65,Consommateur direct,39000,97

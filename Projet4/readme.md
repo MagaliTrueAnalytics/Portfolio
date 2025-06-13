@@ -10,13 +10,13 @@ Through **data-driven visualizations**, the report presents:
 
 ## 📂 **Repository Structure**  
 ```
-📦 Cannabis_Production_Sales_Analysis
+📦 Projet4
  ┣ 📂 Data
- ┃ ┣ 📄 Cannabis_Sales_Production.csv  → Synthetic dataset used for analysis
+ ┃ ┣ 📄 cannabis_production_sales_2024.csv  → Synthetic dataset used for analysis
  ┣ 📂 Report
  ┃ ┣ 📄 Cannabis_Production_Sales_Analysis_v1.pbix → Power BI report file
- ┃ ┣ 📄 Cannabis Production & Sales Analysis A Power BI Exploration.pdf → Final report summary
- ┣ 📄 Jupyter_Notebook_SOP.ipynb → Step-by-step ETL and visualization process
+ ┃ ┣ 📄 Cannabis Production & Sales Analysis A Power BI Exploration.pdf → Power BI report summary
+ ┣ 📄 Cannabis_Production_Sales _Analysis_PowerBI_Exploration.ipynb → Step-by-step ETL and visualization process
  ┣ 📄 README.md → Project documentation
 ```
 
@@ -57,9 +57,3 @@ git clone https://github.com/MagaliTrueAnalytics/Portfolio.git
 ## 📜 **License & Usage**  
 This project is for **educational purposes**, demonstrating **data analytics workflows using Power BI**.  
 For inquiries or collaboration, feel free to reach out! 🚀  
-
----
-
-Would you like me to tweak any sections or add **specific details**? 😊  
-I can also adjust Markdown formatting if needed! 🎨📖
-

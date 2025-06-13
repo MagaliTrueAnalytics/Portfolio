@@ -28,6 +28,8 @@ A **Plotly/Dash dashboard** URL when an interactive version is accessible.
 
 🚰 **[Project 3]** AquaMetrics : Operational Performance & Revenue [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet3)
 
+🌱 **[Project 4]** Cannabis Production & Sales Analysis: A Power BI Exploration [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet4)
+
 💡 **Additional Work**: Check out my [IBM-Capstone-Project](https://github.com/MagaliTrueAnalytics/IBM-Capstone-Project) to explore my skills in data cleaning, manipulation, and visualization.
 
 🔜 Stay tuned—more projects coming soon!

@@ -12,7 +12,7 @@ Each project is organized into a dedicated folder containing three subdirectorie
 
 📊 **Data** – Includes the dataset, typically in CSV format, used for analysis.
 
-📜 **Notebook** – Contains the Jupyter Notebook with Python code, structured as a **SOP (Standard Operating Procedure)** including methodology, data cleaning, visualizations, and insights.
+📜 **Notebook** – Contains the Jupyter Notebook. For BI projects using Power BI, the notebook is available but does not contain Python code, as all data analysis is performed directly in Power BI. For other projects, it includes Python code and is structured as a **SOP (Standard Operating Procedure)** detailing methodology, data cleaning, visualizations, and insights.
 
 📄 **Report** – Stores the final report in PDF format, generated using PowerPoint, Google Slides, or Canva. Additionally, this folder includes either:
 

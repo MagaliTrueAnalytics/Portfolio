@@ -4,7 +4,7 @@ This repository showcases **real-world case studies** based on publicly availabl
 
 In addition to existing datasets, realistic datasets simulating real-world scenarios can also be **generated using GenAI**, tailored to specific characteristics provided for analysis.
 
-As of now, three projects are available, with more exciting analyses on the way!
+As of now, four projects are available, with more exciting analyses on the way!
 
 <h2>📂Project Structure</h2>
 

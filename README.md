@@ -14,7 +14,7 @@ Each project is organized into a dedicated folder containing three subdirectorie
 
 📜 **Notebook** – Contains the Jupyter Notebook. For BI projects using Power BI, the notebook is available but does not contain Python code, as all data analysis is performed directly in Power BI. For other projects, it includes Python code and is structured as a **SOP (Standard Operating Procedure)** detailing methodology, data cleaning, visualizations, and insights.
 
-📄 **Report** – Stores the final report in PDF format, generated using PowerPoint, Google Slides, or Canva. Additionally, this folder includes either:
+📄 **Report** – Stores the final report in PDF format, generated using PowerPoint, Google Slides, or Canva (except for Power BI projects). Additionally, this folder includes either:
 
 A PDF version of dashboards created in environments like **IBM Cognos or Power BI**, where interactive URLs are not available due to platform limitations without subscription.
 

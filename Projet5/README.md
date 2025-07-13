@@ -1,4 +1,4 @@
-# 📊 Power BI Capstone Project – Tailwind Traders
+# 📊 Power BI Capstone Project – Tailwind Traders Sales & Profit Analysis
 
 This project is part of the [**Microsoft Power BI Data Analyst Professional Certificate**](https://www.coursera.org/professional-certificates/microsoft-power-bi-data-analyst) and showcases the full lifecycle of a Power BI solution developed for Tailwind Traders. It combines financial modeling, interactive reporting, cloud deployment, and time intelligence to simulate a real-world analytics environment.
 

@@ -1,10 +1,10 @@
-<h1>Welcome to my Data Analysis portfolio!</h1>
+<h1>🚀Welcome to my Data Analysis portfolio!✨</h1>
 
 This repository showcases **real-world case studies** based on publicly available datasets, such as those on **Kaggle**, featuring comprehensive analyses, visualizations, and insights.
 
 In addition to existing datasets, realistic datasets simulating real-world scenarios can also be **generated using GenAI**, tailored to specific characteristics provided for analysis.
 
-As of now, four projects are available, with more exciting analyses on the way!
+As of now, five projects are available, with more exciting analyses on the way!
 
 <h2>📂Project Structure</h2>
 
@@ -29,6 +29,8 @@ A **Plotly/Dash dashboard** URL when an interactive version is accessible.
 🚰 **[Project 3]** AquaMetrics : Operational Performance & Revenue [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet3)
 
 🌱 **[Project 4]** Cannabis Production & Sales Analysis: A Power BI Exploration [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet4)
+
+💵 **[Project 5]** Power BI Capstone Project – Tailwind Traders Sales & Profit Analysis [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet5)
 
 💡 **Additional Work**: Check out my [IBM-Capstone-Project](https://github.com/MagaliTrueAnalytics/IBM-Capstone-Project) to explore my skills in data cleaning, manipulation, and visualization.
 

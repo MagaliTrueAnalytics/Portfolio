@@ -22,3 +22,5 @@ As with other portfolio projects, the repository includes three main folders:
 - `/Data` — contains the raw `.csv` and `.xlsx` datasets  
 - `/Notebook` — includes a structured Jupyter Notebook documenting each step from data collection to analysis and report creation, written as a SOP-style workflow  
 - `/Report` — hosts the Power BI `.pbix` file, a static `.pdf` version of the dashboard, and a Canva-formatted report for broader readability
+
+***Note : All producer and brand names are publicly listed via SQDC. For neutrality and benchmarking usability, some visualizations may use anonymized labels.***

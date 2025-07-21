@@ -25,6 +25,11 @@ As with other portfolio projects, the repository includes three main folders:
 All names are anonymized in the PDF and Canva reports for public neutrality.  
 Tooltips in Power BI reveal original names only for internal reference and personalized insight.
 
+### 🖥️ Viewing the Power BI Report
+The interactive report file (.pbix) can be opened and explored using the free version of Power BI Desktop, available for download here: [Download Power BI Desktop](https://www.microsoft.com/en-us/power-platform/products/power-bi/downloads)
+
+This format offers full interactivity, including dynamic filters, tooltips, and rich analytics. It makes the dashboard fully accessible to all producers—including small-scale actors and those who haven't yet embraced a fully data-driven culture.
+
 ### 🛡️ Intellectual Property & Usage Disclaimer
 
 This project, **Cannabis Market Snapshot: Québec’s SQDC Landscape (July 2025)**, was developed as part of an independent data analytics initiative. It includes original data processing scripts, Power BI semantic modeling, and interactive dashboards based on both publicly available data and authorized web scraping.

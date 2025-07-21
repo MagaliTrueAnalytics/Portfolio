@@ -19,7 +19,7 @@ The project offers a sectoral snapshot, combining manually collected and webscra
 As with other portfolio projects, the repository includes three main folders:  
 - `/Data` — contains the raw `.csv` and `.xlsx` datasets  
 - `/Notebook` — includes a structured Jupyter Notebook documenting each step from data collection to analysis and report creation, written as a SOP-style workflow  
-- `/Report` — hosts the Power BI `.pbix` file, a static `.pdf` version of the dashboard, and a Canva-formatted report for broader readability
+- `/Report` — hosts the Power BI `.pbix` file, a static `.pdf` version of the dashboard, and a Canva-formatted report for broader readability (french only)
 
 🛈 Notes on Producer/Brand Labeling  
 All names are anonymized in the PDF and Canva reports for public neutrality.  

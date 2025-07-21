@@ -1,0 +1,108 @@
+Succursale_Nom,Ville,Latitude,Longitude,Date_Ouverture,Succursale_ID
+Alma,Alma,48.5500,-71.5667,2019-10-20,37
+Amqui,Amqui,48.4667,-67.4333,2025-03-22,2274
+Aylmer,Aylmer,45.4000,-75.8333,2022-03-14,2214
+Baie-Comeau,Baie-Comeau,49.2167,-68.1500,2021-03-23,65
+Beloeil,Beloeil,45.5667,-73.2000,2020-03-08,21
+Boucherville,Boucherville,45.6000,-73.4333,2020-03-16,17
+Bromont,Bromont,45.3167,-72.6667,2025-02-04,2273
+Brossard - boulevard Matte,Brossard,45.4500,-73.4500,2019-03-18,15
+Carleton-sur-Mer,Carleton-sur-Mer,48.1000,-66.1000,2021-07-07,2199
+Chibougamau,Chibougamau,49.9167,-74.3667,2021-10-15,2206
+Chicoutimi - Montcalm,Chicoutimi,48.4000,-71.1000,2019-11-03,38
+Châteauguay,Châteauguay,48.1000,-66.1000,2019-09-15,9
+Coaticook,Coaticook,45.1333,-71.8000,2020-10-20,47
+Cowansville,Cowansville,45.2000,-72.7500,2020-12-16,53
+Donnacona,Donnacona,46.6667,-71.7333,2024-07-26,2268
+Drummondville,Drummondville,45.8833,-72.4833,2018-10-16,25
+Gaspé,Gaspé,48.8333,-64.4833,2022-04-25,2216
+Gatineau - Buckingham,Gatineau,45.57523222845267,-75.40323727501055,2021-08-10,2204
+Gatineau - de la Gappe,Gatineau,45.466017260830924,-75.71738604618233,2019-05-21,1
+Granby,Granby,45.4000,-72.7333,2019-06-16,24
+Grande-Rivière,Grande-Rivière,48.4000,-64.4833,2019-11-25,42
+Joliette,Joliette,46.0167,-73.4500,2019-04-30,19
+Jonquière,Jonquière,48.4167,-71.2500,2023-01-17,2260
+La Malbaie,La Malbaie,47.6500,-70.1500,2020-09-28,46
+La Tuque,La Tuque,47.4333,-72.7833,2022-02-06,2212
+Lac-Mégantic,Lac-Mégantic,45.5833,-70.8833,2021-07-15,2201
+Lachute,Lachute,45.6500,-74.3333,2020-01-21,2
+Laval - Autoroutes 19 et 440,Laval ,45.611041578309326,-73.70121373267911,2021-08-16,2205
+Laval - Chomedey,Laval ,45.5883256258199,-73.71271127500968,2021-07-12,2200
+Laval - Sainte-Dorothée,Laval ,45.536027658672324,-73.79056494617761,2021-03-19,64
+Longueuil - Greenfield Park,Longueuil ,45.48444284552476,-73.46260146152294,2020-03-15,16
+Longueuil - Place Longueuil,Longueuil ,45.52991747766885,-73.51525272158824,2023-03-13,2264
+Lévis - Président-Kennedy,Lévis ,46.8000,-71.1833,2018-10-16,34
+Magog,Magog,45.2667,-72.1500,2019-12-08,28
+Mascouche,Mascouche,45.7500,-73.6000,2018-10-16,13
+Matane,Matane,48.8500,-67.5333,2020-01-26,41
+Mirabel,Mirabel,45.6500,-74.0833,2018-10-16,7
+Mont-Laurier,Mont-Laurier,46.5500,-75.5000,2020-08-20,45
+Mont-Tremblant,Mont-Tremblant,46.2167,-74.5833,2019-11-04,3
+Montmagny,Montmagny,46.9833,-70.5500,2025-01-20,2272
+Montréal - Anjou - Autoroute 40,Montréal,45.618954539848296,-73.55559727500761,2022-03-07,2213
+Montréal - Boul. Newman (LaSalle),Montréal,45.44962655795445,-73.60939146152528,2021-11-30,2209
+Montréal - Boul. de Pierrefonds,Montréal,45.47955202414072,-73.8675625345362,2025-06-08,2275
+Montréal - Crescent,Montréal,45.49738241769838,-73.57612327501569,2021-03-07,63
+Montréal - Fleury-Papineau,Montréal,45.568151655379886,-73.65382608850454,2022-05-09,2217
+Montréal - Marché Central,Montréal,45.53277928250113,-73.65605208850685,2018-10-16,10
+Montréal - Métro Acadie,Montréal,45.52648848745305,-73.62176367400792,2023-03-23,2265
+Montréal - Métro Jarry,Montréal,45.544005702649386,-73.6282301062409,2022-01-30,2211
+Montréal - Métro Langelier,Montréal,45.58183718743042,-73.5415018173391,2021-07-23,2202
+Montréal - Métro Mont-Royal,Montréal,45.52798826286422,-73.57967600384913,2020-12-22,56
+Montréal - Métro Peel,Montréal,45.500955847698634,-73.57172691919284,2018-10-16,14
+Montréal - Métro Place Saint-Henri,Montréal,45.47899585788811,-73.58256527501688,2022-03-21,2215
+Montréal - Métro Snowdon,Montréal,45.48427593414087,-73.62833173268749,2019-09-08,11
+Montréal - Notre-Dame (Lachine),Montréal,45.43522195720279,-73.67220400385533,2022-12-12,2259
+Montréal - Notre-Dame E (Tétreaultville),Montréal,45.594036581540806,-73.51127280384478,2023-02-15,2261
+Montréal - Pointe-aux-Trembles,Montréal,45.65533095787892,-73.5089022750052,2021-06-29,2197
+Montréal - Promenade Masson,Montréal,45.551663718964534,-73.57298500384755,2021-11-22,2208
+Montréal - Saint-Denis - Rachel,Montréal,45.521377795866066,-73.57769500384958,2022-11-28,2258
+Montréal - Saint-Laurent (Mile End),Montréal,45.52299679175614,-73.59275027501393,2023-04-24,2266
+Montréal - Village,Montréal,45.5240817555188,-73.55101073268482,2020-11-07,49
+Montréal-Nord,Montréal,45.60728147201951,-73.61315121918587,2023-03-13,2262
+Piedmont,Piedmont,45.9000,-74.1500,2022-08-01,2218
+Pincourt,Pincourt,45.3667,-73.0167,2020-12-20,54
+Pointe-Claire,Pointe-Claire,45.4500,-73.8167,2020-02-14,8
+Québec - Beauport,Québec,46.89973825590559,-71.19141591909944,2019-11-24,35
+Québec - Lebourgneuf,Québec,46.83562604555073,-71.2726697325973,2018-10-16,33
+Québec - Les Saules,Québec,46.80693377075053,-71.31619054609284,2019-11-24,31
+Québec - Neufchâtel,Québec,46.856952030378466,-71.33933000376044,2021-06-28,2196
+Québec - Quai Saint-André,Québec,46.81714575996543,-71.20270681725665,2021-03-27,66
+Québec - Quatre-Bourgeois,Québec,46.76282361117194,-71.31873019027323,2021-11-15,2207
+Québec - Sainte-Foy,Québec,46.78136175703039,-71.29986569027199,2018-10-16,32
+Québec - Val-Bélair,Québec,46.85841869964037,-71.40992781725392,2021-03-01,62
+Rawdon,Rawdon,46.0500,-73.7000,2022-01-23,2210
+Repentigny,Repentigny,45.7500,-73.4333,2020-02-23,18
+Richelieu,Richelieu,45.4500,-73.2500,2024-08-20,2269
+Rimouski,Rimouski,48.4500,-68.5333,2018-10-16,40
+Rivière-du-Loup,Rivière-du-Loup,47.8333,-69.5333,2019-11-03,39
+Rouyn-Noranda,Rouyn-Noranda,48.2333,-79.0167,2021-01-28,58
+Saint-Eustache,Saint-Eustache,45.6000,-73.9000,2020-07-15,43
+Saint-Félicien,Saint-Félicien,48.6500,-72.4500,2020-11-06,48
+Saint-Georges de Beauce,Saint-Georges de Beauce,46.1333,-70.6667,2019-10-13,36
+Saint-Hubert - Boul. des Promenades,Saint-Hubert,45.5000,-73.4000,2021-01-12,57
+Saint-Hyacinthe,Saint-Hyacinthe,45.6333,-72.9500,2019-11-10,23
+Saint-Jean-sur-Richelieu,Saint-Jean-sur-Richelieu,45.3167,-73.2667,2018-10-16,20
+Saint-Jérôme,Saint-Jérôme,45.7833,-74.0000,2019-09-08,6
+Saint-Nicolas,Saint-Nicolas,46.7000,-71.3000,2021-02-16,61
+Sainte-Agathe-des-Monts,Sainte-Agathe-des-Monts,46.0500,-74.2833,2019-07-21,5
+Sainte-Anne-de-Beaupré,Sainte-Anne-de-Beaupré,47.0333,-70.9000,2020-11-30,52
+Sainte-Julie,Sainte-Julie,45.5833,-73.3333,2025-01-20,2271
+Sainte-Marie,Sainte-Marie,46.4500,-71.0333,2024-11-26,2270
+Sainte-Thérèse,Sainte-Thérèse,45.6333,-73.8500,2021-01-28,60
+Sept-Îles,Sept-Îles,50.2167,-66.3833,2020-08-20,44
+Shawinigan-Sud,Shawinigan,46.5667,-72.7500,2019-10-27,26
+Sherbrooke - Fleurimont,Sherbrooke,45.42833331100117,-71.86814167837373,2020-11-10,50
+Sherbrooke - King Ouest,Sherbrooke,45.399030239863954,-71.91677627502216,2019-09-02,29
+Sorel-Tracy,Sorel-Tracy,46.0333,-73.1167,2019-12-13,22
+Terrebonne,Terrebonne,45.7000,-73.6333,2021-04-04,67
+Thetford Mines,Thetford Mines,46.0833,-71.3000,2020-12-21,55
+Trois-Rivières - Cap-de-la-Madeleine,Trois-Rivières,46.37388052080096,-72.5546157326284,2018-10-16,27
+Trois-Rivières-Ouest,Trois-Rivières,46.32379095415307,-72.56293201728978,2024-05-11,2267
+Val-d’Or,Val-d’Or,48.1000,-77.7833,2020-05-19,30
+Valleyfield,Valleyfield,45.2500,-74.1333,2020-02-21,4
+Varennes,Varennes,45.6833,-73.4333,2020-11-19,51
+Vaudreuil-Dorion,Vaudreuil-Dorion,45.4000,-74.0333,2021-04-19,2195
+Victoriaville,Victoriaville,46.0500,-71.9667,2021-01-31,59
+Vieux-Montréal,Montréal,45.50646572026789,-73.55300127686347,2025-06-28,2276
+Ville-Marie,Ville-Marie,47.3333,-79.4333,2021-07-05,2198

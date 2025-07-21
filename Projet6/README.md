@@ -1,8 +1,6 @@
-###  🚧🚧*UNDER CONSTRUCTION*🚧🚧
-
 ##  🌿Cannabis Market Snapshot: Québec’s SQDC Landscape (July 2025)
 
-This Power BI report explores the cannabis retail landscape in Québec as of **July 17, 2025**, with a focus on data available through the **Société Québécoise Du Cannabis (SQDC)**.
+This Power BI project explores the cannabis retail landscape in Québec as of **July 17, 2025**, with a focus on data available through the **Société Québécoise Du Cannabis (SQDC)**.
 
 ### 🔍 Scope of the Analysis
 The project offers a sectoral snapshot, combining manually collected and webscraped data to highlight key trends and market dynamics:
@@ -27,3 +25,16 @@ As with other portfolio projects, the repository includes three main folders:
 All names are anonymized in the PDF and Canva reports for public neutrality.  
 Tooltips in Power BI reveal original names only for internal reference and personalized insight.
 
+### 🛡️ Intellectual Property & Usage Disclaimer
+
+This project, **Cannabis Market Snapshot: Québec’s SQDC Landscape (July 2025)**, was developed as part of an independent data analytics initiative. It includes original data processing scripts, Power BI semantic modeling, and interactive dashboards based on both publicly available data and authorized web scraping.
+
+All analyses, visualizations, and code contained in this repository are the intellectual work of the project author and are shared for educational and exploratory use only.
+
+Please note:
+
+- The webscraped data from [Weedcrawler.ca](https://quebec.weedcrawler.ca) was collected with permission from its creator, **Alexandre Voyer**. Commercial reuse of this data is strictly prohibited unless explicit consent is obtained.
+- All manual data collections from the SQDC website comply with publicly visible content usage. No user-specific or private information was scraped.
+- This repository does **not** endorse or promote any specific cannabis products or brands. It is intended solely for market analysis, benchmarking, and strategic exploration within a regulated and transparent framework.
+
+If you wish to reference, reuse, or collaborate based on the contents of this project, please credit accordingly or reach out directly via GitHub. All contributions, discussions, and ethical usage are welcome and appreciated 🌿

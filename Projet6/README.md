@@ -38,7 +38,7 @@ All analyses, visualizations, and code contained in this repository are the inte
 
 Please note:
 
-- The webscraped data from [Weedcrawler.ca](https://quebec.weedcrawler.ca) was collected with permission from its creator, **Alexandre Voyer**. Commercial reuse of this data is strictly prohibited unless explicit consent is obtained.
+- The webscraped data from [Weedcrawler.ca](https://quebec.weedcrawler.ca/) was collected with permission from its creator, **Alexandre Voyer**. Commercial reuse of this data is strictly prohibited unless explicit consent is obtained.
 - All manual data collections from the SQDC website comply with publicly visible content usage. No user-specific or private information was scraped.
 - This repository does **not** endorse or promote any specific cannabis products or brands. It is intended solely for market analysis, benchmarking, and strategic exploration within a regulated and transparent framework.
 

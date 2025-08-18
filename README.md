@@ -9,7 +9,7 @@ I actively seek out **sectors that inspire me** and **business environments with
 
 This portfolio is both a technical showcase and a reflection of how data can support **real-world problem solving** in industries that matter.
 
-As of now, six projects are available, with more exciting analyses on the way!
+As of now, 7 projects are available, with more exciting analyses on the way!
 
 <h2>📂Project Structure</h2>
 
@@ -38,6 +38,8 @@ Each project is organized into a dedicated folder containing three subdirectorie
 💵 **[Project 5]** Power BI Capstone Project – Tailwind Traders Sales & Profit Analysis [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet5)
 
 🌿 **[Project 6]** Cannabis Market Snapshot: Québec’s SQDC Landscape (July 2025) [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet6)
+
+🍫 **[Project 7]** Analyse stratégique des ventes et des prix du Chocolat (Power BI) [Here](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet7)
 
 💡 **Additional Work**: Check out my [IBM-Capstone-Project](https://github.com/MagaliTrueAnalytics/IBM-Capstone-Project) to explore my skills in data cleaning, manipulation, and visualization.
 

@@ -23,7 +23,8 @@ L’objectif principal est d’explorer les ventes de chocolat sous un angle str
 
 Ce dépôt contient :
 - Le **rapport Power BI** interactif
-- Un **rapport PDF** présentant les principaux résultats et recommandations
+- La version **PDF du dashboard Power BI**
+- Un **rapport PDF** présentant les principaux résultats et recommandations (en préparation)
 - Ce fichier `README.md` pour contextualiser le projet
 
 ---
@@ -51,8 +52,9 @@ Contrairement à l’analyse initiale réalisée avec Python et IBM Cognos, cett
 ## 📁 Références
 
 - Dataset : Kaggle (voir [Projet 2 du portfolio](https://github.com/MagaliTrueAnalytics/Portfolio/tree/main/Projet2))
-- Rapport PDF : disponible dans ce dépôt
-- Rapport Power BI : intégré au projet
+- Rapport PDF : en préparation - à venir
+- Rapport Power BI (.pbix) : disponible dans ce dépôt
+- Version PDF du rapport Power BI : disponible dans ce dépôt
 
 ---
 

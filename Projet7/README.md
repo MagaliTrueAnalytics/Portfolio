@@ -23,7 +23,7 @@ L’objectif principal est d’explorer les ventes de chocolat sous un angle str
 ## 📈 Contenu du projet
 
 Ce dépôt contient :
-- Le **rapport Power BI** interactif
+- Le **rapport Power BI** interactif (.pbix)
 - La version **PDF du dashboard Power BI**
 - Un **rapport PDF** présentant les principaux résultats et recommandations (en préparation)
 - Ce fichier `README.md` pour contextualiser le projet
@@ -45,7 +45,6 @@ Contrairement à l’analyse initiale réalisée avec Python et IBM Cognos, cett
 - Produits générant le plus de chiffre d’affaires : _Smooth sliky salty_, _50% dark bites_, _White choc_
 - Produits les plus populaires auprès des consommateurs (volumes) : _50% dark bites_, _Smooth sliky salty_, _Eclairs_
 - Pays les plus performants en terme de revenus : _Australie, UK, Inde_
-- Vendeurs à fort potentiel : _Barr Faughny, Mallorie Waber_, _Van Tuxwell_
 - Volatilité des prix : forte dispersion selon les vendeurs
 
 ---
